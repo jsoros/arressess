@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/arressess/",
     dir: {
       input: "src",
       output: "_site",
