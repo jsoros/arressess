@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
 
   // A filter to format dates nicely
   eleventyConfig.addFilter("readableDate", (dateStr) => {
+    if (!dateStr) return "";
     const { format, parseISO } = require("date-fns");
     return format(parseISO(dateStr), "MMMM d, yyyy");
   });

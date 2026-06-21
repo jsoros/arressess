@@ -11,9 +11,12 @@
 </head>
 <body class="bg-gray-50 text-gray-900 font-sans antialiased">
   <header class="py-8 bg-white border-b border-gray-200">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
-      <h1 class="text-4xl font-serif font-bold text-gray-900 tracking-tight">The Digest</h1>
-      <p class="text-sm text-gray-500 uppercase tracking-widest font-semibold">Latest News</p>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-4">
+      <h1 class="text-4xl font-serif font-bold text-gray-900 tracking-tight"><a href="{{ '/' | url }}">The Digest</a></h1>
+      <nav class="flex items-center space-x-6 text-sm font-semibold uppercase tracking-widest text-gray-500">
+        <a href="{{ '/' | url }}" class="hover:text-blue-600 transition-colors">Latest</a>
+        <a href="{{ '/history/' | url }}" class="hover:text-blue-600 transition-colors">History</a>
+      </nav>
     </div>
   </header>
 
