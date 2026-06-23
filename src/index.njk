@@ -2,8 +2,8 @@
 layout: base.njk
 ---
 
-{% if articles.length > 0 %}
-  {% set heroArticle = articles[0] %}
+{% if latest_daily.articles.length > 0 %}
+  {% set heroArticle = latest_daily.articles[0] %}
   <section class="mb-16">
     <article class="bg-white rounded-lg shadow-sm overflow-hidden flex flex-col md:flex-row group transition-all duration-300 hover:shadow-md">
       {% if heroArticle.imageUrl %}
@@ -28,7 +28,7 @@ layout: base.njk
     </article>
   </section>
 
-  {% if articles.length > 1 %}
+  {% if latest_daily.articles.length > 1 %}
     <section>
       <div class="flex items-center mb-8">
         <h3 class="text-2xl font-serif font-bold mr-4">More Stories</h3>
@@ -36,7 +36,7 @@ layout: base.njk
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {% for article in articles %}
+        {% for article in latest_daily.articles %}
           {% if loop.index0 > 0 %}
             <article class="bg-white rounded-lg shadow-sm overflow-hidden flex flex-col group transition-all duration-300 hover:shadow-md h-full">
               {% if article.imageUrl %}

@@ -3,11 +3,36 @@ const fs = require('fs');
 const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 const Parser = require('rss-parser');
-const { subDays, isAfter, parseISO } = require('date-fns');
+const { subDays, isAfter, parseISO, differenceInDays } = require('date-fns');
 
 const OPML_FILE = path.join(__dirname, 'feeds.opml');
 const CONFIG_FILE = path.join(__dirname, 'config.json');
-const OUTPUT_FILE = path.join(__dirname, 'src', '_data', 'articles.json');
+
+const DATA_DIR = path.join(__dirname, 'src', '_data');
+const HISTORY_DIR = path.join(DATA_DIR, 'history');
+const DAILY_DIR = path.join(HISTORY_DIR, 'daily');
+const WEEKLY_DIR = path.join(HISTORY_DIR, 'weekly');
+const LATEST_DAILY_FILE = path.join(DATA_DIR, 'latest_daily.json');
+
+// Cleanup old files
+function cleanupOldFiles(dir, maxAgeDays) {
+  if (!fs.existsSync(dir)) return;
+  const files = fs.readdirSync(dir);
+  const now = new Date();
+
+  files.forEach(file => {
+    if (!file.endsWith('.json')) return;
+    const dateStr = file.replace('.json', '');
+    const fileDate = new Date(dateStr);
+
+    if (isNaN(fileDate.getTime())) return;
+
+    if (differenceInDays(now, fileDate) > maxAgeDays) {
+      fs.unlinkSync(path.join(dir, file));
+      console.log(`Deleted old history file: ${path.join(dir, file)}`);
+    }
+  });
+}
 
 async function run() {
   // 1. Read config
@@ -24,7 +49,14 @@ async function run() {
   const lookbackDays = parseInt(process.env.LOOKBACK_DAYS) || config.defaultLookbackDays;
   const cutoffDate = subDays(new Date(), lookbackDays);
 
-  console.log(`Fetching articles published after: ${cutoffDate.toISOString()} (Lookback: ${lookbackDays} days)`);
+  const isWeekly = lookbackDays >= 7;
+  const runType = isWeekly ? 'weekly' : 'daily';
+
+  // Format YYYY-MM-DD
+  const today = new Date();
+  const dateStr = today.toISOString().split('T')[0];
+
+  console.log(`Fetching articles published after: ${cutoffDate.toISOString()} (Lookback: ${lookbackDays} days, Type: ${runType})`);
 
   // 2. Read OPML
   if (!fs.existsSync(OPML_FILE)) {
@@ -128,9 +160,38 @@ async function run() {
   console.log(`Total recent articles found: ${allArticles.length}`);
 
   // 4. Save to _data
-  fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allArticles, null, 2));
-  console.log(`Wrote articles to ${OUTPUT_FILE}`);
+  fs.mkdirSync(DAILY_DIR, { recursive: true });
+  fs.mkdirSync(WEEKLY_DIR, { recursive: true });
+
+  const targetDir = isWeekly ? WEEKLY_DIR : DAILY_DIR;
+  const outputFile = path.join(targetDir, `${dateStr}.json`);
+
+  // Create object with metadata and articles
+  const outputData = {
+    date: dateStr,
+    type: runType,
+    articleCount: allArticles.length,
+    articles: allArticles
+  };
+
+  fs.writeFileSync(outputFile, JSON.stringify(outputData, null, 2));
+  console.log(`Wrote articles to ${outputFile}`);
+
+  if (!isWeekly) {
+    fs.writeFileSync(LATEST_DAILY_FILE, JSON.stringify(outputData, null, 2));
+    console.log(`Wrote latest daily to ${LATEST_DAILY_FILE}`);
+  }
+
+  // Delete old files
+  cleanupOldFiles(DAILY_DIR, 14);
+  cleanupOldFiles(WEEKLY_DIR, 14);
+
+  // Clean up old articles.json if it exists
+  const oldOutputFile = path.join(DATA_DIR, 'articles.json');
+  if (fs.existsSync(oldOutputFile)) {
+    fs.unlinkSync(oldOutputFile);
+    console.log(`Deleted legacy file ${oldOutputFile}`);
+  }
 }
 
 run();
