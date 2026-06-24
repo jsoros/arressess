@@ -4,9 +4,6 @@
         <title>idkmybffjill</title>
     </head>
     <body>
-        <outline text="@@VINYL@@">
-            <outline title="newest submissions : VinylReleases" text="newest submissions : VinylReleases" xmlUrl="https://www.reddit.com/r/VinylReleases/new.rss" htmlUrl="https://www.reddit.com/r/VinylReleases/new" type="rss"></outline>
-        </outline>
         <outline text="AWS">
             <outline title="Amazon API Gateway Release Notes" text="Amazon API Gateway Release Notes" xmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/amazon-apigateway-release-notes.rss" htmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/" type="rss"></outline>
             <outline title="AWS Big Data Blog" text="AWS Big Data Blog" xmlUrl="https://aws.amazon.com/blogs/big-data/feed/" htmlUrl="https://aws.amazon.com/blogs/big-data/" type="rss"></outline>
@@ -46,8 +43,7 @@
             <outline title="DEV Community: Vadym Kazulkin" text="DEV Community: Vadym Kazulkin" xmlUrl="https://dev.to/feed/vkazulkin" htmlUrl="https://dev.to/vkazulkin" type="rss"></outline>
             <outline title="Fabien Sanglard" text="Fabien Sanglard" xmlUrl="https://fabiensanglard.net/rss.xml" htmlUrl="https://fabiensanglard.net" type="rss"></outline>
             <outline title="Gwern.net Newsletter" text="Gwern.net Newsletter" xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com" description="Latest gwern.net updates, interesting links, and reviews" type="rss"></outline>
-            <outline title="http://blog.miguelgrinberg.com/feed" text="http://blog.miguelgrinberg.com/feed" xmlUrl="https://blog.miguelgrinberg.com/feed" htmlUrl="https://blog.miguelgrinberg.com/feed" type="rss"></outline>
-            <outline title="jacobian.org" text="jacobian.org" xmlUrl="https://jacobian.org/index.xml" htmlUrl="https://jacobian.org/" type="rss"></outline>
+            <outline title="miguelgrinberg.com/" text="http://blog.miguelgrinberg.com/feed" xmlUrl="https://blog.miguelgrinberg.com/feed" htmlUrl="https://blog.miguelgrinberg.com/feed" type="rss"></outline>
             <outline title="Jeff Triplett&#39;s Micro.blog" text="Jeff Triplett&#39;s Micro.blog" xmlUrl="https://micro.webology.dev/feed.xml" htmlUrl="https://micro.webology.dev/" type="rss"></outline>
             <outline title="JeremyDaly.com" text="JeremyDaly.com" xmlUrl="https://www.jeremydaly.com/feed.xml" htmlUrl="https://www.jeremydaly.com/" type="rss"></outline>
             <outline title="Juha-Matti Santala | Community Builder. Adventurer. Dreamer." text="Juha-Matti Santala | Community Builder. Adventurer. Dreamer." xmlUrl="https://hamatti.org/feed/feed.xml" htmlUrl="https://hamatti.org/feed/feed.xml" type="rss"></outline>
@@ -97,24 +93,9 @@
         <outline text="Test">
             <outline title="Terminal Trove" text="Terminal Trove" xmlUrl="https://terminaltrove.com/blog.xml" htmlUrl="https://terminaltrove.com" description="A mixture of our writeups, newsletters and additional posts, where we discuss all things in the terminal and various other subjects." type="rss"></outline>
         </outline>
-        <outline text="Updates">
-            <outline title="apenwarr" text="apenwarr" xmlUrl="https://apenwarr.ca/log/rss.php" htmlUrl="https://apenwarr.ca/log/" type="rss"></outline>
-            <outline title="Miniflux" text="Miniflux" xmlUrl="https://miniflux.app/feed.xml" htmlUrl="https://miniflux.app/" type="rss"></outline>
-        </outline>
-        <outline text="Vinyl">
-            <outline title="VinylReleaseAlerts" text="VinylReleaseAlerts" xmlUrl="https://www.reddit.com/r/VinylReleases/new.rss?random=123132" htmlUrl="https://www.reddit.com/r/VinylReleases/" type="rss"></outline>
-        </outline>
         <outline text="_Newsletters">
             <outline title="Krebs on Security" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com" type="rss"></outline>
             <outline title="NON-ZERO SUM GAMES BLOG" text="NON-ZERO SUM GAMES BLOG" xmlUrl="https://nonzerosum.games/rss.xml" htmlUrl="https://nonzerosum.games" description="A blog exploring non-zero-sum games and win-win solutions" type="rss"></outline>
-        </outline>
-        <outline text="spammy-summarization">
-            <outline title="XDA" text="XDA" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com" description="The world’s best source for computing news, reviews, editorials guides, and more." type="rss"></outline>
-            <outline title="XDA - AI tools" text="XDA - AI tools" xmlUrl="https://www.xda-developers.com/feed/ai-tools/" htmlUrl="https://www.xda-developers.com" description="The world’s best source for computing news, reviews, editorials guides, and more." type="rss"></outline>
-            <outline title="XDA - Home Lab" text="XDA - Home Lab" xmlUrl="https://www.xda-developers.com/feed/home-lab/" htmlUrl="https://www.xda-developers.com" description="The world’s best source for computing news, reviews, editorials guides, and more." type="rss"></outline>
-            <outline title="XDA - Linux" text="XDA - Linux" xmlUrl="https://www.xda-developers.com/feed/linux-hub/" htmlUrl="https://www.xda-developers.com" description="The world’s best source for computing news, reviews, editorials guides, and more." type="rss"></outline>
-            <outline title="XDA - Networking" text="XDA - Networking" xmlUrl="https://www.xda-developers.com/feed/networking/" htmlUrl="https://www.xda-developers.com" description="Get the most out of your networking experience with XDA&#39;s extensive coverage" type="rss"></outline>
-            <outline title="XDA - Self-Hosting" text="XDA - Self-Hosting" xmlUrl="https://www.xda-developers.com/feed/self-hosting/" htmlUrl="https://www.xda-developers.com" description="The world’s best source for computing news, reviews, editorials guides, and more." type="rss"></outline>
         </outline>
     </body>
 </opml>
