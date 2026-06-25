@@ -95,6 +95,7 @@ async function run() {
 
   // 3. Fetch RSS feeds
   const rssParser = new Parser({
+    timeout: 10000,
     customFields: {
       item: [
         ['media:content', 'mediaContent'],
