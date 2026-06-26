@@ -1,14 +1,46 @@
 {
   "date": "2026-06-26",
   "type": "daily",
-  "articleCount": 43,
+  "articleCount": 45,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-26T00:59:03.000Z",
+      "pubDate": "2026-06-26T03:47:00.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Libre Barcode Project",
+      "link": "https://graphicore.github.io/librebarcode/",
+      "pubDate": "2026-06-26T03:12:42.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "pubDate": "2026-06-26T02:29:23.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A data race that doesn't compile",
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "pubDate": "2026-06-26T01:33:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "pubDate": "2026-06-26T01:10:52.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -29,7 +61,7 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
       "link": "https://gchandbook.org/",
       "pubDate": "2026-06-25T23:10:30.000Z",
       "snippet": "Comments...",
@@ -57,14 +89,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
       "pubDate": "2026-06-25T22:24:00.000Z",
       "snippet": "Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS Asia Pacific (Singapore) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Military branches restore flu shot requirement after virus swept through base",
-      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-      "pubDate": "2026-06-25T22:16:55.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -154,6 +178,14 @@
       "pubDate": "2026-06-25T17:55:10.000Z",
       "snippet": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services ...",
       "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/22/ML-20189-1.png"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "pubDate": "2026-06-25T17:38:44.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
@@ -285,14 +317,6 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Political bias in AI: Where the AI models stand",
-      "link": "https://trakkr.ai/bias",
-      "pubDate": "2026-06-25T13:08:31.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "Apple raises prices of MacBooks, iPads",
       "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
       "pubDate": "2026-06-25T13:02:56.000Z",
@@ -337,14 +361,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
       "pubDate": "2026-06-25T07:03:00.000Z",
       "snippet": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft ...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
-      "pubDate": "2026-06-25T01:32:00.000Z",
-      "snippet": "Starting today, customers can use Amazon OpenSearch Ingestion in the Europe (Paris) Region (eu-west-3) for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collection...",
       "imageUrl": null
     }
   ]
