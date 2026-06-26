@@ -1,14 +1,30 @@
 {
   "date": "2026-06-26",
   "type": "daily",
-  "articleCount": 40,
+  "articleCount": 39,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-26T12:19:09.000Z",
+      "pubDate": "2026-06-26T13:23:47.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Google hallucinated that I am sponsored by Ground News",
+      "link": "https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB",
+      "pubDate": "2026-06-26T12:51:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Anton Zhiyanov",
+      "title": "Solod v0.2: Networking, new targets, friendlier interop",
+      "link": "https://antonz.org/solod-v0-2/",
+      "pubDate": "2026-06-26T12:30:00.000Z",
+      "snippet": "A system-level language with Go syntax and a familiar standard library....",
       "imageUrl": null
     },
     {
@@ -26,14 +42,6 @@
       "pubDate": "2026-06-26T12:00:00.000Z",
       "snippet": "How GitHub's culture and benefits helped me be the best version of myself.\nThe post Transitioning as a hubber appeared first on The GitHub Blog....",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
-      "link": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
-      "pubDate": "2026-06-26T11:34:42.000Z",
-      "snippet": "I'm not paying seventy bloody quid for an official PS5 controller - so I found a knock-off version for a smidge under £40. And this one has lots of unnecessary blinkenlights!\nGamrombo is the consumer-...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/01/controller.webp"
     },
     {
       "feedTitle": "Hacker News",
@@ -173,14 +181,6 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Parallel Parentheses Matching",
-      "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-      "pubDate": "2026-06-25T20:12:24.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "The Doorman's Fallacy in action",
       "link": "https://rozumem.xyz/posts/17",
       "pubDate": "2026-06-25T20:00:35.000Z",
@@ -312,14 +312,6 @@
       "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "link": "https://ziglang.org/devlog/2026/#2026-06-25",
       "pubDate": "2026-06-25T14:19:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Apple raises prices of MacBooks, iPads",
-      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "pubDate": "2026-06-25T13:02:56.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     }
