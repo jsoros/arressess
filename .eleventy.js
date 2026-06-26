@@ -1,5 +1,6 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy(".nojekyll");
 
   // A filter to format dates nicely
   eleventyConfig.addFilter("readableDate", (dateStr) => {
