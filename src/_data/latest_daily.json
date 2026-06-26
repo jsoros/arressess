@@ -1,14 +1,22 @@
 {
   "date": "2026-06-26",
   "type": "daily",
-  "articleCount": 45,
+  "articleCount": 40,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-26T03:47:00.000Z",
+      "pubDate": "2026-06-26T10:47:26.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "link": "https://akrites.org/letter/",
+      "pubDate": "2026-06-26T05:40:36.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -24,14 +32,6 @@
       "title": "What happened after 2k people tried to hack my AI assistant",
       "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "pubDate": "2026-06-26T02:29:23.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "A data race that doesn't compile",
-      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-      "pubDate": "2026-06-26T01:33:15.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -104,14 +104,6 @@
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
       "pubDate": "2026-06-25T21:44:55.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Migrating from Proxmox to NixOS and Incus",
-      "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "pubDate": "2026-06-25T21:22:59.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -201,14 +193,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/",
       "pubDate": "2026-06-25T17:00:00.000Z",
       "snippet": "Kiro is now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 authorized in the AWS GovCloud (US) Regions.\n  Federal agencies, p...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "pubDate": "2026-06-25T17:00:00.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -324,43 +308,19 @@
       "imageUrl": null
     },
     {
+      "feedTitle": "Hacker News",
+      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+      "link": "https://twitter.com/mfts0/status/2070080422482977095",
+      "pubDate": "2026-06-25T12:23:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
       "feedTitle": "Recent Announcements",
       "title": "AWS GovCloud (US) now offers US-based, US citizen 24/7 technical support for all customers by default",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/",
       "pubDate": "2026-06-25T12:00:00.000Z",
       "snippet": "AWS GovCloud (US) customers now have their technical support cases routed to US-based, US-citizen cloud support engineers by default with no opt-in or special request required. This enhancement ensure...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "AWS Backup enhances Amazon S3 backup copy performance",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/",
-      "pubDate": "2026-06-25T10:00:00.000Z",
-      "snippet": "AWS Backup now executes S3 backup copy operations up to 8x faster for buckets with millions of objects and low change rates between backup copies through enhanced change tracking. This improvement red...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Brain Baking",
-      "title": "Create Your Own Stamps",
-      "link": "https://brainbaking.com/post/2026/06/create-your-own-stamps/",
-      "pubDate": "2026-06-25T09:00:00.000Z",
-      "snippet": "The button press kit wasn’t the only recently acquired crafting toolkit in our house, but it was the biggest one—except for the Stuffaloon thing to create your own balloons (yeah, I know…). I just don...",
-      "imageUrl": "https://brainbaking.com/post/2026/06/create-your-own-stamps/stamps.jpg"
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-custom-supports-latest-cu-gdr-updates-microsoft-sql-server",
-      "pubDate": "2026-06-25T07:44:00.000Z",
-      "snippet": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This rele...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon RDS now supports the latest GDR updates for Microsoft SQL Server",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
-      "pubDate": "2026-06-25T07:03:00.000Z",
-      "snippet": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Microsoft ...",
       "imageUrl": null
     }
   ]
