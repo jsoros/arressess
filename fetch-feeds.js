@@ -47,16 +47,25 @@ async function run() {
 
   // Determine lookback days from env var or config
   const lookbackDays = parseInt(process.env.LOOKBACK_DAYS) || config.defaultLookbackDays;
-  const cutoffDate = subDays(new Date(), lookbackDays);
+
+  // Align the cutoff date to exactly 08:00:00 UTC to match the cron job schedule and avoid overlap
+  const now = new Date();
+  let baseDate = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 8, 0, 0, 0));
+
+  // If the script runs slightly before 08:00 UTC (e.g., local testing), baseDate should be the previous day at 08:00 UTC
+  if (now.getUTCHours() < 8) {
+    baseDate = subDays(baseDate, 1);
+  }
+
+  const cutoffDate = subDays(baseDate, lookbackDays);
 
   const isWeekly = lookbackDays >= 7;
   const runType = isWeekly ? 'weekly' : 'daily';
 
-  // Format YYYY-MM-DD
-  const today = new Date();
-  const dateStr = today.toISOString().split('T')[0];
+  // Format YYYY-MM-DD based on the base execution date
+  const dateStr = baseDate.toISOString().split('T')[0];
 
-  console.log(`Fetching articles published after: ${cutoffDate.toISOString()} (Lookback: ${lookbackDays} days, Type: ${runType})`);
+  console.log(`Fetching articles published after: ${cutoffDate.toISOString()} and before: ${baseDate.toISOString()} (Lookback: ${lookbackDays} days, Type: ${runType})`);
 
   // 2. Read OPML
   if (!fs.existsSync(OPML_FILE)) {
@@ -122,7 +131,8 @@ async function run() {
           continue; // skip unparseable dates
         }
 
-        if (isAfter(pubDate, cutoffDate)) {
+        // Check if pubDate is within our exact window (after cutoffDate AND before baseDate)
+        if (isAfter(pubDate, cutoffDate) && pubDate.getTime() <= baseDate.getTime()) {
           // Attempt to extract an image
           let imageUrl = null;
 
