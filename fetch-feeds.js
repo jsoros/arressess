@@ -95,6 +95,7 @@ async function run() {
 
   // 3. Fetch RSS feeds
   const rssParser = new Parser({
+    timeout: 10000,
     customFields: {
       item: [
         ['media:content', 'mediaContent'],
@@ -192,6 +193,9 @@ async function run() {
     fs.unlinkSync(oldOutputFile);
     console.log(`Deleted legacy file ${oldOutputFile}`);
   }
+
+  // Force exit to prevent hanging from open HTTP connections
+  process.exit(0);
 }
 
 run();
