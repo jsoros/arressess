@@ -193,6 +193,9 @@ async function run() {
     fs.unlinkSync(oldOutputFile);
     console.log(`Deleted legacy file ${oldOutputFile}`);
   }
+
+  // Force exit to prevent hanging from open HTTP connections
+  process.exit(0);
 }
 
 run();
