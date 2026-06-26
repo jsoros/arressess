@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
   "type": "daily",
-  "articleCount": 39,
+  "articleCount": 40,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
@@ -42,6 +42,14 @@
       "pubDate": "2026-06-26T12:00:00.000Z",
       "snippet": "How GitHub's culture and benefits helped me be the best version of myself.\nThe post Transitioning as a hubber appeared first on The GitHub Blog....",
       "imageUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+      "link": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
+      "pubDate": "2026-06-26T11:34:42.000Z",
+      "snippet": "I'm not paying seventy bloody quid for an official PS5 controller - so I found a knock-off version for a smidge under £40. And this one has lots of unnecessary blinkenlights!\nGamrombo is the consumer-...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/01/controller.webp"
     },
     {
       "feedTitle": "Hacker News",
