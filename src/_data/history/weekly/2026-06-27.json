@@ -1,14 +1,38 @@
 {
   "date": "2026-06-27",
   "type": "weekly",
-  "articleCount": 168,
+  "articleCount": 167,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-27T17:05:01.000Z",
+      "pubDate": "2026-06-27T19:17:19.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The Card That Made the Apple II Serious",
+      "link": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
+      "pubDate": "2026-06-27T18:00:46.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "\"No, I swear I wrote this.\"",
+      "link": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
+      "pubDate": "2026-06-27T17:17:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "pubDate": "2026-06-27T17:11:20.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -16,6 +40,14 @@
       "title": "Supabase (YC S20) Is Hiring for Multigres",
       "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
       "pubDate": "2026-06-27T17:00:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Screen time can damage under-twos' development, landmark study suggests",
+      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+      "pubDate": "2026-06-27T16:51:09.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -61,15 +93,7 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
-      "link": "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/",
-      "pubDate": "2026-06-27T14:02:52.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Suspicious Discontinuities",
+      "title": "Suspicious Discontinuities (2020)",
       "link": "https://danluu.com/discontinuities/",
       "pubDate": "2026-06-27T13:32:20.000Z",
       "snippet": "Comments...",
@@ -144,14 +168,6 @@
       "title": "WordStar: A Writer's Word Processor (1996)",
       "link": "https://www.sfwriter.com/wordstar.htm",
       "pubDate": "2026-06-27T03:30:01.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "pubDate": "2026-06-27T02:41:53.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -273,14 +289,6 @@
       "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
       "pubDate": "2026-06-26T12:00:00.000Z",
       "snippet": "How GitHub's culture and benefits helped me be the best version of myself.\nThe post Transitioning as a Hubber appeared first on The GitHub Blog....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-      "link": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
-      "pubDate": "2026-06-26T04:13:28.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -444,6 +452,14 @@
       "imageUrl": null
     },
     {
+      "feedTitle": "Hacker News",
+      "title": "A History of Menus Is a Menu of History",
+      "link": "https://pudding.cool/2026/06/menu-story/",
+      "pubDate": "2026-06-25T14:45:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
       "feedTitle": "AWS Compute Blog",
       "title": "Maximize Amazon EC2 Capacity Reservations with Capacity Manager data exports",
       "link": "https://aws.amazon.com/blogs/compute/maximize-amazon-ec2-capacity-reservations-with-capacity-manager-data-exports/",
@@ -546,14 +562,6 @@
       "pubDate": "2026-06-24T21:57:57.000Z",
       "snippet": "Party control is dying...",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!H2BE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F762d13ac-8ad6-452a-95a6-70a585c6c4cc_1024x683.jpeg"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Jest/Vitest interactive course (runs in the browser)",
-      "link": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-      "pubDate": "2026-06-24T21:09:07.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
     },
     {
       "feedTitle": "AWS Security Blog",
@@ -660,6 +668,14 @@
       "imageUrl": null
     },
     {
+      "feedTitle": "Hacker News",
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "pubDate": "2026-06-24T14:02:16.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
       "feedTitle": "AWS Compute Blog",
       "title": "Modernizing Lambda + S3 workloads with Amazon S3 Files",
       "link": "https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files/",
@@ -740,14 +756,6 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Underarm Bowling Incident of 1981",
-      "link": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-      "pubDate": "2026-06-23T20:21:19.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Ken Klippenstein",
       "title": "Minnesota “Antifa” Terrorists Charged",
       "link": "https://www.kenklippenstein.com/p/minnesota-antifa-terrorists-charged",
@@ -777,14 +785,6 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
       "pubDate": "2026-06-23T18:14:00.000Z",
       "snippet": "We are pleased to announce general availability of Amazon EC2 G6e instances on SageMaker notebook instances.\n \nAmazon EC2 G6e instances are powered by up to 8 NVIDIA L40s Tensor Core GPUs with 48 GB o...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Why Windows 95 Was Tech's Last True Revolution",
-      "link": "https://comuniq.xyz/post.php?t=1307",
-      "pubDate": "2026-06-23T17:29:05.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -1337,14 +1337,6 @@
       "link": "https://rednafi.com/go/channel-iteration-goroutine-leak/",
       "pubDate": "2026-06-21T00:00:00.000Z",
       "snippet": "A for-range over a channel that's never closed leaks the receiver. Why a fixed number of receives is safe, why a range isn't, and how to catch it with Go 1.27's leak profile....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "AWS CloudFormation Release Notes",
-      "title": "Updated resource",
-      "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html",
-      "pubDate": "2026-06-20T19:00:00.000Z",
-      "snippet": "The following resource was updated: AWS::Neptune::DBCluster...",
       "imageUrl": null
     }
   ]
