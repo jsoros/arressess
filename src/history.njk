@@ -2,42 +2,44 @@
 layout: base.njk
 ---
 
-<div class="mb-8 border-b pb-4">
-  <h2 class="text-3xl font-serif font-bold">Historical Digests</h2>
-  <p class="text-gray-600 mt-2">Browse daily and weekly collections.</p>
+<div class="mb-10 pb-4 border-b border-chirpy-border">
+  <h2 class="text-3xl font-bold mb-2">Historical Digests</h2>
+  <p class="text-chirpy-meta">Browse daily and weekly collections.</p>
 </div>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-  <section>
-    <h3 class="text-2xl font-serif font-bold mb-4">Daily Digests</h3>
-    <ul class="space-y-2">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+  <section class="bg-chirpy-card p-6 rounded-xl shadow-sm border border-chirpy-border">
+    <h3 class="text-xl font-bold mb-6 border-b border-chirpy-border pb-2">Daily Digests</h3>
+    <ul class="space-y-3">
       {% for dateKey, digest in history.daily %}
         {% if digest.date %}
-        <li>
-          <a href="{{ '/daily/' + dateKey + '/' | url }}" class="text-blue-600 hover:underline">
-            {{ digest.date | readableDate }} ({{ digest.articleCount }} articles)
+        <li class="flex items-center justify-between">
+          <a href="{{ '/daily/' + dateKey + '/' | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
+            {{ digest.date | readableDate }}
           </a>
+          <span class="text-xs text-chirpy-meta bg-gray-100 px-2 py-1 rounded-full">{{ digest.articleCount }} articles</span>
         </li>
         {% endif %}
       {% else %}
-        <li class="text-gray-500">No daily digests available.</li>
+        <li class="text-gray-500 text-sm">No daily digests available.</li>
       {% endfor %}
     </ul>
   </section>
 
-  <section>
-    <h3 class="text-2xl font-serif font-bold mb-4">Weekly Digests</h3>
-    <ul class="space-y-2">
+  <section class="bg-chirpy-card p-6 rounded-xl shadow-sm border border-chirpy-border">
+    <h3 class="text-xl font-bold mb-6 border-b border-chirpy-border pb-2">Weekly Digests</h3>
+    <ul class="space-y-3">
       {% for dateKey, digest in history.weekly %}
         {% if digest.date %}
-        <li>
-          <a href="{{ '/weekly/' + dateKey + '/' | url }}" class="text-blue-600 hover:underline">
-            Week of {{ digest.date | readableDate }} ({{ digest.articleCount }} articles)
+        <li class="flex items-center justify-between">
+          <a href="{{ '/weekly/' + dateKey + '/' | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
+            Week of {{ digest.date | readableDate }}
           </a>
+          <span class="text-xs text-chirpy-meta bg-gray-100 px-2 py-1 rounded-full">{{ digest.articleCount }} articles</span>
         </li>
         {% endif %}
       {% else %}
-        <li class="text-gray-500">No weekly digests available.</li>
+        <li class="text-gray-500 text-sm">No weekly digests available.</li>
       {% endfor %}
     </ul>
   </section>
