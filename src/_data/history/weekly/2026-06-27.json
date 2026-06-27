@@ -1,14 +1,30 @@
 {
   "date": "2026-06-27",
   "type": "weekly",
-  "articleCount": 174,
+  "articleCount": 168,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-27T15:18:21.000Z",
+      "pubDate": "2026-06-27T17:05:01.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "pubDate": "2026-06-27T17:00:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "pubDate": "2026-06-27T16:31:58.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -29,9 +45,25 @@
     },
     {
       "feedTitle": "Hacker News",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "pubDate": "2026-06-27T14:31:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
       "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
       "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
       "pubDate": "2026-06-27T14:23:40.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
+      "link": "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/",
+      "pubDate": "2026-06-27T14:02:52.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -69,14 +101,6 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "pubDate": "2026-06-27T12:01:03.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "If you can't hold it, you don't own it",
       "link": "https://dervis.de/physical/",
       "pubDate": "2026-06-27T11:32:10.000Z",
@@ -109,6 +133,14 @@
     },
     {
       "feedTitle": "Hacker News",
+      "title": "Researchers have developed pixels that can emit and analyse light together",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+      "pubDate": "2026-06-27T07:51:26.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
       "title": "WordStar: A Writer's Word Processor (1996)",
       "link": "https://www.sfwriter.com/wordstar.htm",
       "pubDate": "2026-06-27T03:30:01.000Z",
@@ -125,41 +157,9 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "International investment and local rules push prices up faster than supply",
-      "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "pubDate": "2026-06-26T23:36:30.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "LMNT",
-      "title": "Guava Soda & Flamin’ Hot Cheetos",
-      "link": "https://lmnt.me/blog/photos/guava-soda-flamin-hot.html",
-      "pubDate": "2026-06-26T22:55:00.000Z",
-      "snippet": "Back on my bullshit. This guava soda is good, maybe too sweet? But these “New” (new to Japan) Flamin’ Hot Cheetos? Guys, these are not “Flamin’ Hot.” They are barely spicy. Also, they’re not even red!...",
-      "imageUrl": "https://lmnt.me/files/images/photos/guava-soda-flamin-hot.webp"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "pubDate": "2026-06-26T22:48:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
       "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "pubDate": "2026-06-26T22:43:29.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "AI in mathematics is forcing big questions",
-      "link": "https://spectrum.ieee.org/ai-in-mathematics",
-      "pubDate": "2026-06-26T22:36:51.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -177,14 +177,6 @@
       "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
       "pubDate": "2026-06-26T21:15:09.000Z",
       "snippet": "",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "link": "https://blog.doubleword.ai/frontier-os-llm",
-      "pubDate": "2026-06-26T21:14:47.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -226,6 +218,14 @@
       "pubDate": "2026-06-26T16:53:57.000Z",
       "snippet": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. \nThe post GitHub and UNDP ...",
       "imageUrl": "https://github.blog/wp-content/uploads/2026/06/image006.jpg?resize=800%2C533"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "link": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+      "pubDate": "2026-06-26T16:20:06.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
     },
     {
       "feedTitle": "Recent Announcements",
@@ -274,14 +274,6 @@
       "pubDate": "2026-06-26T12:00:00.000Z",
       "snippet": "How GitHub's culture and benefits helped me be the best version of myself.\nThe post Transitioning as a Hubber appeared first on The GitHub Blog....",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
-      "link": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
-      "pubDate": "2026-06-26T11:34:42.000Z",
-      "snippet": "I'm not paying seventy bloody quid for an official PS5 controller - so I found a knock-off version for a smidge under £40. And this one has lots of unnecessary blinkenlights!\nGamrombo is the consumer-...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/01/controller.webp"
     },
     {
       "feedTitle": "Hacker News",
@@ -564,14 +556,6 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "How H-E-B Became Texas' Most Beloved Brand (2024)",
-      "link": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
-      "pubDate": "2026-06-24T20:19:52.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "AWS Security Blog",
       "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
       "link": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
@@ -601,6 +585,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
       "pubDate": "2026-06-24T18:48:00.000Z",
       "snippet": "The AWS IoT Device SDK for Swift is now generally available, enabling Swift developers to build secure, scalable IoT applications natively on Apple platforms including macOS, iOS, and tvOS, as well as...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "pubDate": "2026-06-24T18:42:12.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -690,14 +682,6 @@
       "pubDate": "2026-06-24T13:00:00.000Z",
       "snippet": "Amazon Neptune now supports AWS CloudFormation for provisioning and managing Neptune global databases. Using the new AWS::Neptune::GlobalCluster resource type, you can define your multi-region graph d...",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Auth0 PHP - manually authenticating JWT idTokens",
-      "link": "https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/",
-      "pubDate": "2026-06-24T11:34:25.000Z",
-      "snippet": "I find it baffling just how poorly documented most big projects are. Auth0 by Okta has a fair bit of cash, lots of customers, and almost completely absent documentation.\nHere's how to successfully aut...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=70732&HTTP_REFERER=Atom"
     },
     {
       "feedTitle": "Recent Announcements",
@@ -793,6 +777,14 @@
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
       "pubDate": "2026-06-23T18:14:00.000Z",
       "snippet": "We are pleased to announce general availability of Amazon EC2 G6e instances on SageMaker notebook instances.\n \nAmazon EC2 G6e instances are powered by up to 8 NVIDIA L40s Tensor Core GPUs with 48 GB o...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Why Windows 95 Was Tech's Last True Revolution",
+      "link": "https://comuniq.xyz/post.php?t=1307",
+      "pubDate": "2026-06-23T17:29:05.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -900,28 +892,12 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "pubDate": "2026-06-23T09:39:35.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Recent Announcements",
       "title": "Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/",
       "pubDate": "2026-06-23T05:00:00.000Z",
       "snippet": "Anthropic is launching Claude Tag — bringing Claude directly into the channels where your team already works, starting with Slack. Claude Tag is available today in beta to AWS customers who access Cla...",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "LMNT",
-      "title": "Yoshikami Senjafuda",
-      "link": "https://lmnt.me/blog/photos/yoshikami-senjafuda.html",
-      "pubDate": "2026-06-23T04:50:00.000Z",
-      "snippet": "Went up to Asakusa on a shopping mission, but the shop was closed. Yoshikami turned out to be a worthwhile consolation prize, because hayashi rice was available! I asked the guy behind the counter if ...",
-      "imageUrl": "https://lmnt.me/files/images/photos/yoshikami-senjafuda-hayashi-rice.webp"
     },
     {
       "feedTitle": "Aidan Steele’s blog (usually about AWS)",
@@ -1041,14 +1017,6 @@
       "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html",
       "pubDate": "2026-06-22T19:00:00.000Z",
       "snippet": "The following resource was added: AWS::Lambda::NetworkConnector....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "link": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "pubDate": "2026-06-22T18:17:20.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -1194,14 +1162,6 @@
       "pubDate": "2026-06-22T12:15:01.000Z",
       "snippet": "Last week I arrived home with a delicious pear frangipane pie from the local bakery. The contents of the cardboard pie box didn’t last long, but on top of it, in a corner, a pink round sticker caught ...",
       "imageUrl": "https://brainbaking.com/post/2026/06/week-of-the-eclair/patisserie.jpg"
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Cybersecurity for the paranoid business traveller",
-      "link": "https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/",
-      "pubDate": "2026-06-22T11:34:18.000Z",
-      "snippet": "Over the years, I've worked for organisations with various levels of risk tolerance for business travellers. Some have been (rightly) paranoid and others have been (wrongly) placid about the threats t...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=64419&HTTP_REFERER=Atom"
     },
     {
       "feedTitle": "Recent Announcements",
@@ -1354,14 +1314,6 @@
       "pubDate": "2026-06-21T03:50:55.000Z",
       "snippet": "Posted by Khashayar Fereidani on Jun 20\n# PHP 8.5.7 `FILTER_SANITIZE_ENCODED` uninitialized read\nhttps://fereidani.com/php-857-filtersanitizeencoded-uninitialized-read\nhttps://fereidani.com/contact\n\n#...",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "LMNT",
-      "title": "Meiji Jingu",
-      "link": "https://lmnt.me/blog/photos/meiji-jingu.html",
-      "pubDate": "2026-06-21T03:50:00.000Z",
-      "snippet": "Just passing by on my way to get jerk chicken from a nice friend....",
-      "imageUrl": "https://lmnt.me/files/images/photos/meiji-jingu.webp"
     },
     {
       "feedTitle": "Full Disclosure",
