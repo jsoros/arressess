@@ -1,19 +1,123 @@
 {
   "date": "2026-06-27",
   "type": "daily",
-  "articleCount": 36,
+  "articleCount": 24,
   "articles": [
     {
       "feedTitle": "AWS Fundamentals",
       "title": "",
       "link": "https://awsfundamentals.com/blog/.DS_Store",
-      "pubDate": "2026-06-27T10:01:44.000Z",
+      "pubDate": "2026-06-27T18:27:23.000Z",
       "snippet": "",
       "imageUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "pubDate": "2026-06-27T17:11:20.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "pubDate": "2026-06-27T17:00:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "pubDate": "2026-06-27T16:31:58.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "3D Printers are actually very useful",
+      "link": "https://kevquirk.com/3d-printers-are-actually-very-useful",
+      "pubDate": "2026-06-27T15:13:00.000Z",
+      "snippet": "I recently started getting into 3D printing, but so far I've spent most of my time getting setup and learning the ropes. I've now completed my first little project with the 3D printers and I'm really ...",
+      "imageUrl": "https://kevquirk.com/content/images/3d-printers-are-actually-very-useful/helmet-stands-01.webp"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "pubDate": "2026-06-27T14:38:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "pubDate": "2026-06-27T14:31:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "pubDate": "2026-06-27T14:23:40.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Suspicious Discontinuities (2020)",
+      "link": "https://danluu.com/discontinuities/",
+      "pubDate": "2026-06-27T13:32:20.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "pubDate": "2026-06-27T12:43:16.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "pubDate": "2026-06-27T12:40:59.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "OpenRA",
+      "link": "https://www.openra.net/",
+      "pubDate": "2026-06-27T12:10:27.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "If you can't hold it, you don't own it",
+      "link": "https://dervis.de/physical/",
+      "pubDate": "2026-06-27T11:32:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Fintech Engineering Handbook",
+      "link": "https://w.pitula.me/fintech-engineering-handbook/",
+      "pubDate": "2026-06-27T10:28:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "pubDate": "2026-06-27T09:18:52.000Z",
       "snippet": "Comments...",
@@ -21,17 +125,17 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "link": "https://github.com/schlae/IBM_MCGA",
-      "pubDate": "2026-06-27T05:17:08.000Z",
+      "title": "Beer CSS – Build material design in record time",
+      "link": "https://www.beercss.com",
+      "pubDate": "2026-06-27T09:06:11.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "OpenTTD 16.0-Beta1",
-      "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "pubDate": "2026-06-27T04:31:06.000Z",
+      "title": "Researchers have developed pixels that can emit and analyse light together",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+      "pubDate": "2026-06-27T07:51:26.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -52,30 +156,6 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "link": "https://popflame.quickish.space/hn-flipboard/",
-      "pubDate": "2026-06-27T00:43:39.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Foreign funds help make housing unaffordable: research",
-      "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "pubDate": "2026-06-26T23:36:30.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Om",
-      "link": "https://daringfireball.net/2026/06/om",
-      "pubDate": "2026-06-26T23:33:46.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "LMNT",
       "title": "Guava Soda & Flamin’ Hot Cheetos",
       "link": "https://lmnt.me/blog/photos/guava-soda-flamin-hot.html",
@@ -85,25 +165,9 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "pubDate": "2026-06-26T22:48:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
       "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "pubDate": "2026-06-26T22:43:29.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "AI in mathematics is forcing big questions",
-      "link": "https://spectrum.ieee.org/ai-in-mathematics",
-      "pubDate": "2026-06-26T22:36:51.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -116,43 +180,11 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "link": "https://github.com/Tessil/hopscotch-map",
-      "pubDate": "2026-06-26T21:18:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Simon Willison&#39;s Weblog",
       "title": "Quoting Timothy B. Lee",
       "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
       "pubDate": "2026-06-26T21:15:09.000Z",
       "snippet": "",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "link": "https://blog.doubleword.ai/frontier-os-llm",
-      "pubDate": "2026-06-26T21:14:47.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "pubDate": "2026-06-26T21:13:50.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "link": "https://hightouch.com/careers#open-positions",
-      "pubDate": "2026-06-26T21:00:50.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -162,134 +194,6 @@
       "pubDate": "2026-06-26T18:33:14.000Z",
       "snippet": "",
       "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "pubDate": "2026-06-26T18:23:14.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-      "pubDate": "2026-06-26T18:04:05.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Incident Report: CVE-2026-LGTM",
-      "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-      "pubDate": "2026-06-26T17:58:54.000Z",
-      "snippet": "",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "pubDate": "2026-06-26T17:24:25.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Quoting OpenAI",
-      "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-      "pubDate": "2026-06-26T17:10:43.000Z",
-      "snippet": "",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "pubDate": "2026-06-26T17:06:55.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "GitHub Public Timeline Feed",
-      "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
-      "link": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
-      "pubDate": "2026-06-26T16:53:57.000Z",
-      "snippet": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. \nThe post GitHub and UNDP ...",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/image006.jpg?resize=800%2C533"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "link": "https://github.com/workweave/router",
-      "pubDate": "2026-06-26T16:40:11.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon EC2 R8g instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
-      "pubDate": "2026-06-26T15:00:00.000Z",
-      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Asia Pacific (Thailand, New Zealand), AWS Africa (Cape Town), AWS Europe (Milan), and AWS Canada West (Calg...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Build interactive PDF text extraction from Amazon S3",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
-      "pubDate": "2026-06-26T14:47:45.000Z",
-      "snippet": "In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document access. You’ll walk through the architectur...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/23/ML-19835-1.png"
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
-      "pubDate": "2026-06-26T14:42:20.000Z",
-      "snippet": "In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS services that support the solution. We also sha...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-20401-1.png"
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-      "pubDate": "2026-06-26T14:38:01.000Z",
-      "snippet": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decis...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-20542-1-1.png"
-    },
-    {
-      "feedTitle": "Anton Zhiyanov",
-      "title": "Solod v0.2: Networking, new targets, friendlier interop",
-      "link": "https://antonz.org/solod-v0-2/",
-      "pubDate": "2026-06-26T12:30:00.000Z",
-      "snippet": "A system-level language with Go syntax and a familiar standard library....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "GitHub Public Timeline Feed",
-      "title": "Transitioning as a Hubber",
-      "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
-      "pubDate": "2026-06-26T12:00:00.000Z",
-      "snippet": "How GitHub's culture and benefits helped me be the best version of myself.\nThe post Transitioning as a Hubber appeared first on The GitHub Blog....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Ultrasound imaging of the brain",
-      "link": "https://alephneuro.com/blog/ultrasound-brain",
-      "pubDate": "2026-06-26T11:51:11.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
-      "link": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/",
-      "pubDate": "2026-06-26T11:34:42.000Z",
-      "snippet": "I'm not paying seventy bloody quid for an official PS5 controller - so I found a knock-off version for a smidge under £40. And this one has lots of unnecessary blinkenlights!\nGamrombo is the consumer-...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/01/controller.webp"
     }
   ]
 }

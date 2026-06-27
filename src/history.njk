@@ -14,7 +14,7 @@ layout: base.njk
       {% for dateKey, digest in history.daily %}
         {% if digest.date %}
         <li class="flex items-center justify-between">
-          <a href="{{ '/daily/' + dateKey + '/' | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
+          <a href="{{ ('/daily/' + dateKey + '/') | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
             {{ digest.date | readableDate }}
           </a>
           <span class="text-xs text-chirpy-meta bg-gray-100 px-2 py-1 rounded-full">{{ digest.articleCount }} articles</span>
@@ -32,7 +32,7 @@ layout: base.njk
       {% for dateKey, digest in history.weekly %}
         {% if digest.date %}
         <li class="flex items-center justify-between">
-          <a href="{{ '/weekly/' + dateKey + '/' | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
+          <a href="{{ ('/weekly/' + dateKey + '/') | url }}" class="text-chirpy-link hover:text-chirpy-linkHover transition-colors font-medium">
             Week of {{ digest.date | readableDate }}
           </a>
           <span class="text-xs text-chirpy-meta bg-gray-100 px-2 py-1 rounded-full">{{ digest.articleCount }} articles</span>
