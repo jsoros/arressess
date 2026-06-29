@@ -60,6 +60,22 @@
       "imageUrl": null
     },
     {
+      "feedTitle": "AWS Compute Blog",
+      "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
+      "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/",
+      "pubDate": "2026-06-29T14:26:18.000Z",
+      "snippet": "Agentic AI workflows coordinate multiple agents that reason, plan, and act across multi-step processes. Each step is expensive, non-deterministic, and unpredictable in latency. Human review gates can ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/06/16/ComputeBlog-2568-1.png"
+    },
+    {
+      "feedTitle": "serverless – AWS Compute Blog",
+      "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
+      "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/",
+      "pubDate": "2026-06-29T14:26:18.000Z",
+      "snippet": "Agentic AI workflows coordinate multiple agents that reason, plan, and act across multi-step processes. Each step is expensive, non-deterministic, and unpredictable in latency. Human review gates can ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/06/16/ComputeBlog-2568-1.png"
+    },
+    {
       "feedTitle": "Hacker News",
       "title": "Age verification is just a precursor to automated attribution of speech",
       "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
@@ -200,6 +216,14 @@
       "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
       "link": "https://pudding.cool/2026/06/menu-story/",
       "pubDate": "2026-06-28T14:44:56.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Historical memory prices 1960-2026",
+      "link": "https://dam.stanford.edu/memory-prices.html",
+      "pubDate": "2026-06-28T18:32:53.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     }
