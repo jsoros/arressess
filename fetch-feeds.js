@@ -114,6 +114,8 @@ async function run() {
 
       for (const item of parsedFeed.items) {
         if (!item.isoDate && !item.pubDate) continue;
+        if (!item.title || item.title.trim() === '') continue;
+        if (item.link && item.link.includes('.DS_Store')) continue;
 
         let pubDate;
         try {
