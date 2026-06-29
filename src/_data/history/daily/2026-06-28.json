@@ -1,0 +1,175 @@
+{
+  "date": "2026-06-28",
+  "type": "daily",
+  "articleCount": 21,
+  "articles": [
+    {
+      "feedTitle": "AWS Fundamentals",
+      "title": "",
+      "link": "https://awsfundamentals.com/blog/.DS_Store",
+      "pubDate": "2026-06-28T10:24:03.000Z",
+      "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+      "link": "https://github.com/vshakitskiy/armadillo",
+      "pubDate": "2026-06-28T06:00:31.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Bashblog – a single bash script to create blogs",
+      "link": "https://github.com/cfenollosa/bashblog",
+      "pubDate": "2026-06-28T04:48:32.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "link": "https://github.com/itsthelore/wayfinder-router",
+      "pubDate": "2026-06-28T04:31:18.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "pubDate": "2026-06-28T02:23:08.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "link": "https://jayacunzo.com/blog/your-move-chief",
+      "pubDate": "2026-06-28T01:28:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "pubDate": "2026-06-28T01:22:30.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "link": "https://decomp-academy.dev",
+      "pubDate": "2026-06-28T01:21:20.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "pubDate": "2026-06-28T00:46:52.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "pubDate": "2026-06-27T23:32:58.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Choosing a Public DNS Resolver",
+      "link": "https://evilbit.de/dns-resolver-guide.html",
+      "pubDate": "2026-06-27T22:11:28.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Enhancing x11 Application Security with LXC (2025)",
+      "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "pubDate": "2026-06-27T21:27:36.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "pubDate": "2026-06-27T17:11:20.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "3D Printers are actually very useful",
+      "link": "https://kevquirk.com/3d-printers-are-actually-very-useful",
+      "pubDate": "2026-06-27T15:13:00.000Z",
+      "snippet": "I recently started getting into 3D printing, but so far I've spent most of my time getting setup and learning the ropes. I've now completed my first little project with the 3D printers and I'm really ...",
+      "imageUrl": "https://kevquirk.com/content/images/3d-printers-are-actually-very-useful/helmet-stands-01.webp"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "pubDate": "2026-06-27T14:31:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "pubDate": "2026-06-27T14:23:40.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Suspicious Discontinuities (2020)",
+      "link": "https://danluu.com/discontinuities/",
+      "pubDate": "2026-06-27T13:32:20.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Asian AI startups launch Mythos-like models",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "pubDate": "2026-06-27T13:10:21.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "OpenRA",
+      "link": "https://www.openra.net/",
+      "pubDate": "2026-06-27T12:10:27.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The case for physical media ownership",
+      "link": "https://dervis.de/physical/",
+      "pubDate": "2026-06-27T11:32:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Fintech Engineering Handbook",
+      "link": "https://w.pitula.me/fintech-engineering-handbook/",
+      "pubDate": "2026-06-27T10:28:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    }
+  ]
+}

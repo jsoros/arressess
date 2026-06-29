@@ -1,191 +1,23 @@
 {
   "date": "2026-06-29",
   "type": "daily",
-  "articleCount": 32,
+  "articleCount": 25,
   "articles": [
     {
-      "feedTitle": "AWS News Blog",
-      "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "pubDate": "2026-06-29T16:30:30.000Z",
-      "snippet": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builder...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/06/28/IMG_5013-225x300.jpg"
-    },
-    {
-      "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-      "link": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-      "pubDate": "2026-06-29T16:17:59.000Z",
+      "feedTitle": "AWS Fundamentals",
+      "title": "",
+      "link": "https://awsfundamentals.com/blog/.DS_Store",
+      "pubDate": "2026-06-29T12:27:53.000Z",
       "snippet": "",
       "imageUrl": null
     },
     {
-      "feedTitle": "GitHub Public Timeline Feed",
-      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
-      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
-      "pubDate": "2026-06-29T16:10:20.000Z",
-      "snippet": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help.\nThe post Inside the Advis...",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/06/613839791-af0d8e48-215f-48c7-8f0c-16ef531592f7.png?resize=1024%2C640"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "pubDate": "2026-06-29T16:07:15.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy",
-      "link": "https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/",
-      "pubDate": "2026-06-29T16:04:18.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "pubDate": "2026-06-29T15:54:24.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "A native graphical shell for SSH",
-      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "pubDate": "2026-06-29T15:42:17.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Microsoft Needs Windows Lite",
-      "link": "https://philipbohun.com/blog/0011.html",
-      "pubDate": "2026-06-29T15:30:37.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "link": "https://humphri.es/blog/WATaBoy/",
-      "pubDate": "2026-06-29T15:02:00.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "AWS Compute Blog",
-      "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
-      "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/",
-      "pubDate": "2026-06-29T14:26:18.000Z",
-      "snippet": "Agentic AI workflows coordinate multiple agents that reason, plan, and act across multi-step processes. Each step is expensive, non-deterministic, and unpredictable in latency. Human review gates can ...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/06/16/ComputeBlog-2568-1.png"
-    },
-    {
-      "feedTitle": "serverless – AWS Compute Blog",
-      "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
-      "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/",
-      "pubDate": "2026-06-29T14:26:18.000Z",
-      "snippet": "Agentic AI workflows coordinate multiple agents that reason, plan, and act across multi-step processes. Each step is expensive, non-deterministic, and unpredictable in latency. Human review gates can ...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/06/16/ComputeBlog-2568-1.png"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Mag 7 starting to underperform [pdf]",
-      "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-      "pubDate": "2026-06-29T14:12:55.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Rocketlab acquires Iridium",
-      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "pubDate": "2026-06-29T14:09:24.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "DEV Community: Vadym Kazulkin",
-      "title": "Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 7 Use Spring AI AgentCore short-term Memory for MCP client on AgentCore Runtime",
-      "link": "https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-7-use-spring-ai-agentcore-fm9",
-      "pubDate": "2026-06-29T14:00:35.000Z",
-      "snippet": "Introduction\n\n\nIn part 6, we used Spring AI AgentCore Starter in our sample application to deploy and run our MCP client on AgentCore Runtime. We used several useful features of the Spring AI AgentCor...",
-      "imageUrl": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvuoxh5g9ibejsygmjv66.png"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "CachyOS June 2026 Release",
-      "link": "https://cachyos.org/blog/2606-june-release/",
-      "pubDate": "2026-06-29T13:56:46.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-      "link": "https://twitter.com/i/status/2071277885646868536",
-      "pubDate": "2026-06-29T13:26:35.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Building Principia for Windows XP",
-      "link": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-      "pubDate": "2026-06-29T13:23:19.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
-      "link": "https://www.playstation.com/en-gb/legal/psvideocontent/",
-      "pubDate": "2026-06-29T13:20:14.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "What happens when you run a CUDA kernel?",
-      "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "pubDate": "2026-06-29T13:11:08.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Tidal AI Policy",
-      "link": "https://tidal.com/ai-policy",
-      "pubDate": "2026-06-29T13:09:03.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
-      "link": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "pubDate": "2026-06-29T11:58:48.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Rebuilding the Computer Room",
-      "link": "https://alexwlchan.net/2026/computer-room/",
-      "pubDate": "2026-06-29T11:34:36.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "pubDate": "2026-06-29T10:45:51.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "feedTitle": "Brain Baking",
+      "title": "Postcard Teas: A Few Impressions",
+      "link": "https://brainbaking.com/post/2026/06/postcard-teas-reviews/",
+      "pubDate": "2026-06-29T10:27:10.000Z",
+      "snippet": "For almost ten years now, we’ve sworn by Mariage Frères when it comes to shopping for high quality loose tea leaves. The nearest shop, however, is in Lille, which is almost three hours away. Their web...",
+      "imageUrl": "https://brainbaking.com/post/2026/06/postcard-teas-reviews/yt-XNb7yCbG62c.jpg"
     },
     {
       "feedTitle": "Hacker News",
@@ -197,9 +29,17 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
       "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
       "pubDate": "2026-06-29T09:28:08.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "pubDate": "2026-06-29T08:58:09.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -209,6 +49,14 @@
       "link": "https://alexwlchan.net/2026/computer-room/",
       "pubDate": "2026-06-29T08:28:13.000Z",
       "snippet": "One of my distinct memories of childhood is the “computer room”.\nWhen I was young, computers weren’t a ubiquitous feature of our lives; they were bulky appliances with a fixed location, and you had to...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "pubDate": "2026-06-29T04:27:46.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -236,11 +84,27 @@
       "imageUrl": null
     },
     {
+      "feedTitle": "Hacker News",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "link": "https://arxiv.org/abs/2401.07013",
+      "pubDate": "2026-06-28T22:32:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
       "feedTitle": "Simon Willison&#39;s Weblog",
       "title": "Quoting Jon Udell",
       "link": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
       "pubDate": "2026-06-28T21:57:41.000Z",
       "snippet": "",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "pubDate": "2026-06-28T19:38:00.000Z",
+      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -253,9 +117,89 @@
     },
     {
       "feedTitle": "Hacker News",
+      "title": "Librepods: AirPods liberated",
+      "link": "https://github.com/librepods-org/librepods",
+      "pubDate": "2026-06-28T18:48:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
       "title": "Historical memory prices 1960-2026",
       "link": "https://dam.stanford.edu/memory-prices.html",
       "pubDate": "2026-06-28T18:32:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "pubDate": "2026-06-28T17:50:47.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "pubDate": "2026-06-28T16:58:59.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "pubDate": "2026-06-28T16:41:12.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "pubDate": "2026-06-28T16:35:19.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "link": "https://www.openculture.com/2020/10/daisugi.html",
+      "pubDate": "2026-06-28T16:28:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "pubDate": "2026-06-28T16:24:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "link": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "pubDate": "2026-06-28T16:10:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: Zanagrams",
+      "link": "https://zanagrams.com/",
+      "pubDate": "2026-06-28T15:26:14.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "link": "https://pudding.cool/2026/06/menu-story/",
+      "pubDate": "2026-06-28T14:44:56.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     }
