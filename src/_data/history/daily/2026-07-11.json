@@ -1,32 +1,8 @@
 {
   "date": "2026-07-11",
   "type": "daily",
-  "articleCount": 48,
+  "articleCount": 32,
   "articles": [
-    {
-      "feedTitle": "PauLoX",
-      "title": "DjangoCon US 2026",
-      "link": "https://www.paulox.net/2026/08/24/djangocon-us-2026/",
-      "pubDate": "2026-08-23T22:00:00.000Z",
-      "snippet": "DjangoCon US is a six-day international conference for the community by the community about the Django web framework, held each year in North America....",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Companies are scrambling to curtail soaring AI costs",
-      "link": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-      "pubDate": "2026-07-11T08:29:43.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "pubDate": "2026-07-11T05:19:41.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
     {
       "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
       "title": "Improve Finder’s QuickLook with plugins",
@@ -36,26 +12,18 @@
       "imageUrl": "https://hamatti.org/assets/img/posts/improve-finders-quicklook-with-plugins/1.png.webp"
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "pubDate": "2026-07-10T22:30:44.000Z",
-      "snippet": "Comments...",
+      "feedTitle": "Redowan&#39;s Reflections",
+      "title": "GC shape stenciling in Go generics",
+      "link": "https://rednafi.com/go/gc-shape-stenciling/",
+      "pubDate": "2026-07-11T00:00:00.000Z",
+      "snippet": "How Go's compiler shares generic function bodies by GC shape and uses dictionaries for the concrete types....",
       "imageUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Moss (YC F25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "pubDate": "2026-07-10T21:11:18.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "pubDate": "2026-07-10T20:47:09.000Z",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "pubDate": "2026-07-10T22:04:45.000Z",
       "snippet": "Comments...",
       "imageUrl": null
     },
@@ -68,14 +36,6 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "An update on residential proxies and the scraper situation",
-      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "pubDate": "2026-07-10T19:38:34.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "AWS CloudFormation Release Notes",
       "title": "New resources",
       "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html",
@@ -84,35 +44,11 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "pubDate": "2026-07-10T18:29:19.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "New York City to ban deceptive subscription practices",
-      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "pubDate": "2026-07-10T18:26:24.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Recent Announcements",
       "title": "Amazon EMR on EKS now supports Apache Spark troubleshooting agent",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/",
       "pubDate": "2026-07-10T18:16:00.000Z",
       "snippet": "Amazon EMR on EKS now supports the Apache Spark troubleshooting agent. Data engineers can now diagnose EMR on EKS job failures through natural language, receiving automated root cause analysis and PyS...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "pubDate": "2026-07-10T17:51:07.000Z",
-      "snippet": "Comments...",
       "imageUrl": null
     },
     {
@@ -156,22 +92,6 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "pubDate": "2026-07-10T16:48:41.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "pubDate": "2026-07-10T16:37:52.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "AWS Security Blog",
       "title": "AWS designated as a critical third party to the UK financial sector",
       "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
@@ -194,14 +114,6 @@
       "pubDate": "2026-07-10T16:03:55.000Z",
       "snippet": "We recently announced the launch of AWS Lambda MicroVMs, a new serverless compute primitive that provides VM-level isolation, near-instant startup performance, and state retention. You can now give ea...",
       "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/07/08/ComputeBlog-2632-1.png"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "pubDate": "2026-07-10T15:59:53.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
     },
     {
       "feedTitle": "GitHub Public Timeline Feed",
@@ -236,14 +148,6 @@
       "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/09/ML-21021-1-1.png"
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "A love letter to flashcards",
-      "link": "https://lesleylai.info/en/flashcards/",
-      "pubDate": "2026-07-10T15:30:44.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "AWS Machine Learning Blog",
       "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
@@ -258,14 +162,6 @@
       "pubDate": "2026-07-10T15:26:05.000Z",
       "snippet": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute ...",
       "imageUrl": "https://s.w.org/images/core/emoji/14.0.0/72x72/26a0.png"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Computation as a universal and fundamental concept",
-      "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "pubDate": "2026-07-10T15:23:42.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
     },
     {
       "feedTitle": "AWS Machine Learning Blog",
@@ -340,14 +236,6 @@
       "imageUrl": "https://www.bentasker.co.uk/images/Logos/forgejo.svg"
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "pubDate": "2026-07-10T13:30:41.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Kev Quirk",
       "title": "A Rant About Modern Cars",
       "link": "https://kevquirk.com/a-rant-about-modern-cars",
@@ -364,28 +252,12 @@
       "imageUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Late Bronze Age Collapse",
-      "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "pubDate": "2026-07-10T11:59:55.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
       "feedTitle": "Terence Edenâ€™s Blog",
       "title": "Game Review: Lovers In A Dangerous Spacetime ★★★☆☆",
       "link": "https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/",
       "pubDate": "2026-07-10T11:34:18.000Z",
       "snippet": "My new year's resolution is to play more video games with my wife. Specifically co-operative games.\nI hate playing competitively; it's rubbish to achieve victory at the expense of someone else. So I a...",
       "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=69841&HTTP_REFERER=Atom"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Good Tools Are Invisible",
-      "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "pubDate": "2026-07-10T10:32:41.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
     }
   ]
 }
