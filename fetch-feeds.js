@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 const Parser = require('rss-parser');
-const { subDays, isAfter, parseISO, differenceInDays } = require('date-fns');
+const { subDays, isAfter, isBefore, parseISO, differenceInDays } = require('date-fns');
 
 const OPML_FILE = path.join(__dirname, 'feeds.opml');
 const CONFIG_FILE = path.join(__dirname, 'config.json');
@@ -47,16 +47,22 @@ async function run() {
 
   // Determine lookback days from env var or config
   const lookbackDays = parseInt(process.env.LOOKBACK_DAYS) || config.defaultLookbackDays;
-  const cutoffDate = subDays(new Date(), lookbackDays);
+
+  const now = new Date();
+  let baseDate = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 8, 0, 0, 0));
+  if (now.getTime() < baseDate.getTime()) {
+    baseDate = subDays(baseDate, 1);
+  }
+
+  const cutoffDate = subDays(baseDate, lookbackDays);
 
   const isWeekly = lookbackDays >= 7;
   const runType = isWeekly ? 'weekly' : 'daily';
 
   // Format YYYY-MM-DD
-  const today = new Date();
-  const dateStr = today.toISOString().split('T')[0];
+  const dateStr = baseDate.toISOString().split('T')[0];
 
-  console.log(`Fetching articles published after: ${cutoffDate.toISOString()} (Lookback: ${lookbackDays} days, Type: ${runType})`);
+  console.log(`Fetching articles published between ${cutoffDate.toISOString()} and ${baseDate.toISOString()} (Lookback: ${lookbackDays} days, Type: ${runType})`);
 
   // 2. Read OPML
   if (!fs.existsSync(OPML_FILE)) {
@@ -124,7 +130,7 @@ async function run() {
           continue; // skip unparseable dates
         }
 
-        if (isAfter(pubDate, cutoffDate)) {
+        if (isAfter(pubDate, cutoffDate) && isBefore(pubDate, baseDate)) {
           // Attempt to extract an image
           let imageUrl = null;
 
