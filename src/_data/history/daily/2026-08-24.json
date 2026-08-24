@@ -1,31 +1,16 @@
 {
   "date": "2026-08-24",
   "type": "daily",
-  "articleCount": 33,
+  "articleCount": 28,
   "articles": [
-    {
-      "feedTitle": "Hacker News",
-      "title": "We are not going anywhere",
-      "link": "https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54",
-      "pubDate": "2026-08-24T07:37:53.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The Work Number: credit score but for your employment history – by Equifax",
-      "link": "https://employees.theworknumber.com",
-      "pubDate": "2026-08-24T07:17:02.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
-    },
     {
       "feedTitle": "Hacker News",
       "title": "Over 5,200 Ebola cases recorded in Congo",
       "link": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
       "pubDate": "2026-08-24T07:03:43.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49416097"
     },
     {
       "feedTitle": "Hacker News",
@@ -33,15 +18,8 @@
       "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
       "pubDate": "2026-08-24T06:57:01.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Anthropic Claude and API service outages",
-      "link": "https://status.claude.com/uptime",
-      "pubDate": "2026-08-24T06:32:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49416055"
     },
     {
       "feedTitle": "Hacker News",
@@ -49,15 +27,8 @@
       "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "pubDate": "2026-08-24T06:30:07.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-      "link": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-      "pubDate": "2026-08-24T06:25:42.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415893"
     },
     {
       "feedTitle": "Hacker News",
@@ -65,15 +36,8 @@
       "link": "https://github.com/thiagotigaz/ocr-it",
       "pubDate": "2026-08-24T06:25:31.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-      "link": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-      "pubDate": "2026-08-24T06:00:50.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415852"
     },
     {
       "feedTitle": "Hacker News",
@@ -81,7 +45,8 @@
       "link": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
       "pubDate": "2026-08-24T05:47:27.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415621"
     },
     {
       "feedTitle": "Hacker News",
@@ -89,7 +54,8 @@
       "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
       "pubDate": "2026-08-24T05:12:45.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415405"
     },
     {
       "feedTitle": "Hacker News",
@@ -97,15 +63,26 @@
       "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
       "pubDate": "2026-08-24T04:48:20.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415271"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-      "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-      "pubDate": "2026-08-24T01:33:14.000Z",
+      "title": "Mourning Steve French",
+      "link": "https://lwn.net/Articles/1090098/",
+      "pubDate": "2026-08-24T04:47:14.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49415265"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "link": "https://cmart.blog/claude-writing/",
+      "pubDate": "2026-08-24T03:32:42.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49414934"
     },
     {
       "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
@@ -113,7 +90,17 @@
       "link": "https://hamatti.org/posts/u-is-for-uv/",
       "pubDate": "2026-08-24T00:00:00.000Z",
       "snippet": "Python A-Z\n    is a blog series about Python. Each day, I share insights, ideas and\n    examples for different parts of Python development that match with the\n    letter of the day. Blaugust\n    is an...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "Reply to Dale’s comment on my IndieWeb post",
+      "link": "https://hamatti.org/posts/reply-to-dales-comment-on-my-indieweb-post/",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "snippet": "There’s no membership card for IndieWeb\n  and got the following comment from Dale:\n\n\n\nGreat article, I agree 99%.\nI do take issue, however, with your spiel that the IndieWeb is a recursive effort to u...",
+      "imageUrl": null,
+      "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
@@ -121,7 +108,8 @@
       "link": "https://pantel.is/projects/ai-gaming-companion/",
       "pubDate": "2026-08-23T23:18:17.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49413561"
     },
     {
       "feedTitle": "Hacker News",
@@ -129,15 +117,8 @@
       "link": "https://schlarp.com/posts/everything-i-own-owned/",
       "pubDate": "2026-08-23T22:41:04.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "link": "https://github.com/AlpinDale/gpt2.cmake",
-      "pubDate": "2026-08-23T21:41:17.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49413320"
     },
     {
       "feedTitle": "Hacker News",
@@ -145,7 +126,8 @@
       "link": "https://twitter.com/paulg/status/2091544343589060625",
       "pubDate": "2026-08-23T20:38:09.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49412396"
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
@@ -153,7 +135,8 @@
       "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "pubDate": "2026-08-23T20:24:52.000Z",
       "snippet": "",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": null
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
@@ -161,7 +144,8 @@
       "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
       "pubDate": "2026-08-23T19:55:30.000Z",
       "snippet": "",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
@@ -169,7 +153,8 @@
       "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "pubDate": "2026-08-23T19:29:32.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411717"
     },
     {
       "feedTitle": "Hacker News",
@@ -177,7 +162,8 @@
       "link": "https://lalitm.com/post/find-problems-staff-engineer/",
       "pubDate": "2026-08-23T19:23:29.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411643"
     },
     {
       "feedTitle": "Hacker News",
@@ -185,7 +171,8 @@
       "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
       "pubDate": "2026-08-23T19:06:09.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411468"
     },
     {
       "feedTitle": "Hacker News",
@@ -193,7 +180,8 @@
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "pubDate": "2026-08-23T18:16:37.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411102"
     },
     {
       "feedTitle": "Hacker News",
@@ -201,7 +189,8 @@
       "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
       "pubDate": "2026-08-23T18:08:13.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49411020"
     },
     {
       "feedTitle": "Hacker News",
@@ -209,15 +198,8 @@
       "link": "https://fabiensanglard.net/agent.md/index.html",
       "pubDate": "2026-08-23T17:59:52.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "A website for debloated open source alternatives",
-      "link": "https://debloat.dev/",
-      "pubDate": "2026-08-23T16:54:10.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49410932"
     },
     {
       "feedTitle": "Hacker News",
@@ -225,7 +207,8 @@
       "link": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
       "pubDate": "2026-08-23T15:59:08.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49409862"
     },
     {
       "feedTitle": "Hacker News",
@@ -233,7 +216,8 @@
       "link": "https://how.complexsystems.fail/",
       "pubDate": "2026-08-23T15:13:31.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49409473"
     },
     {
       "feedTitle": "Hacker News",
@@ -241,7 +225,8 @@
       "link": "https://earendil.com/posts/what-is-a-harness/",
       "pubDate": "2026-08-23T14:24:21.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49409092"
     },
     {
       "feedTitle": "Hacker News",
@@ -249,7 +234,8 @@
       "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
       "pubDate": "2026-08-23T13:51:10.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49408858"
     },
     {
       "feedTitle": "Hacker News",
@@ -257,7 +243,8 @@
       "link": "https://securelist.com/android-head-unit-malware/121106/",
       "pubDate": "2026-08-23T13:05:38.000Z",
       "snippet": "Comments...",
-      "imageUrl": null
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49408550"
     },
     {
       "feedTitle": "Terence Edenâ€™s Blog",
@@ -265,7 +252,8 @@
       "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
       "pubDate": "2026-08-23T11:34:52.000Z",
       "snippet": "Pixels are a lie. Even if you think you're drawing something with \"pixel perfect\" accuracy, your monitor is lying to you. There is no grid of platonically perfect squares.\nIn CSS, pixels are a double ...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=63847&HTTP_REFERER=Atom"
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=63847&HTTP_REFERER=Atom",
+      "commentsUrl": null
     }
   ]
 }

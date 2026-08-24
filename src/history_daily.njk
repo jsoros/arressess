@@ -26,6 +26,10 @@ permalink: "daily/{{ dateKey }}/index.html"
             <time>{{ article.pubDate | readableDate }}</time>
             <span>&middot;</span>
             <span class="bg-gray-100 px-2 py-0.5 rounded text-xs text-gray-700">{{ article.feedTitle }}</span>
+            {% if article.feedTitle == 'Hacker News' and article.commentsUrl %}
+              <span>&middot;</span>
+              <a href="{{ article.commentsUrl }}" target="_blank" rel="noopener noreferrer" class="hover:text-chirpy-link transition-colors">Comments</a>
+            {% endif %}
           </div>
         </div>
       </article>

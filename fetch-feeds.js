@@ -154,7 +154,8 @@ async function run() {
             link: item.link,
             pubDate: pubDate.toISOString(),
             snippet: item.contentSnippet ? item.contentSnippet.substring(0, 200) + '...' : '',
-            imageUrl: imageUrl
+            imageUrl: imageUrl,
+            commentsUrl: item.comments || null
           });
         }
       }
