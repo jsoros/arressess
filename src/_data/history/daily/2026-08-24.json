@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "type": "daily",
-  "articleCount": 28,
+  "articleCount": 25,
   "articles": [
     {
       "feedTitle": "Hacker News",
@@ -50,15 +50,6 @@
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Elevated Errors for Multiple Models",
-      "link": "https://status.claude.com/incidents/vgz5psbjmt1h",
-      "pubDate": "2026-08-24T05:12:45.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49415405"
-    },
-    {
-      "feedTitle": "Hacker News",
       "title": "Executable Is a SQLite Database",
       "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
       "pubDate": "2026-08-24T04:48:20.000Z",
@@ -74,15 +65,6 @@
       "snippet": "Comments...",
       "imageUrl": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49415265"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "link": "https://cmart.blog/claude-writing/",
-      "pubDate": "2026-08-24T03:32:42.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49414934"
     },
     {
       "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
@@ -200,15 +182,6 @@
       "snippet": "Comments...",
       "imageUrl": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49410932"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "link": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "pubDate": "2026-08-23T15:59:08.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49409862"
     },
     {
       "feedTitle": "Hacker News",
