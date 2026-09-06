@@ -1,0 +1,1915 @@
+{
+  "date": "2026-09-06",
+  "type": "weekly",
+  "articleCount": 212,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "pubDate": "2026-09-06T07:21:06.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49584083"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "pubDate": "2026-09-06T02:24:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582719"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "AI, Tools and Transformation",
+      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "pubDate": "2026-09-06T02:12:46.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582656"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GPT-6 Astra on robot arms",
+      "link": "https://openai.robocurve.org/gpt-6-astra/",
+      "pubDate": "2026-09-06T01:52:45.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582582"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "link": "https://cloudinabottle.org/blog/launch-post",
+      "pubDate": "2026-09-06T00:03:29.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49582000"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Chrome again exempts Google from user site data settings",
+      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "pubDate": "2026-09-05T23:39:47.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49581870"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Introducing GPT-6 Astra for developers",
+      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "pubDate": "2026-09-05T23:27:48.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The revolt of the reader",
+      "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "pubDate": "2026-09-05T21:37:49.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49580939"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "pubDate": "2026-09-05T20:31:38.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49580369"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "LLMs as a Cognitive Virus",
+      "link": "https://arxiv.org/abs/2609.03344",
+      "pubDate": "2026-09-05T20:02:35.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49580164"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Learn Programming with OCaml",
+      "link": "https://usr.lmf.cnrs.fr/lpo/",
+      "pubDate": "2026-09-05T16:45:02.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49578280"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Using Blender with coding agents on macOS",
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "pubDate": "2026-09-05T15:51:09.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "pubDate": "2026-09-05T13:36:38.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49576386"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "pubDate": "2026-09-05T13:31:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49576343"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆",
+      "link": "https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/",
+      "pubDate": "2026-09-05T11:34:47.000Z",
+      "snippet": "This is a gorgeous set of short stories - and a good deal more accessible than some of the heavyweight prose Liu has previously been involved with. Some of the stories contain sentences which are comp...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/9781035929306.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "pubDate": "2026-09-05T00:04:16.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49571634"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "pubDate": "2026-09-04T23:59:05.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Redowan&#39;s Reflections",
+      "title": "The irrational effectiveness of the Pi harness",
+      "link": "https://rednafi.com/misc/pi-harness/",
+      "pubDate": "2026-09-04T22:00:00.000Z",
+      "snippet": "A month of coding with Pi, its small agent loop, and the skills and extensions I've added to it....",
+      "imageUrl": "https://blob.rednafi.com/misc/pi-harness/cover-62823da84914.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+      "pubDate": "2026-09-04T21:45:52.000Z",
+      "snippet": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentC...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-21164-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "From silos to insights: Federated data access patterns for AI agents",
+      "link": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/",
+      "pubDate": "2026-09-04T21:35:21.000Z",
+      "snippet": "AI agents can reach enterprise data where it lives instead of routing every question through data engineers. This post presents three reference patterns for federated data access using Model Context P...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/09/04/BDB-5604-1.jpeg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+      "pubDate": "2026-09-04T21:29:00.000Z",
+      "snippet": "AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, configuring these data sources required generating 2L...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+      "pubDate": "2026-09-04T21:14:00.000Z",
+      "snippet": "AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now connect their ServiceNow i...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+      "pubDate": "2026-09-04T21:01:00.000Z",
+      "snippet": "AWS announces automatic sync scheduling for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service that handles data ingestion, storage optimization, and a...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 now supports specifying compatible instance types on AMIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+      "pubDate": "2026-09-04T19:26:00.000Z",
+      "snippet": "Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsupported instance types, or both — and any launch attem...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS DevOps Blog",
+      "title": "Investigate DMS migration issues with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/",
+      "pubDate": "2026-09-04T18:13:04.000Z",
+      "snippet": "Migrating a production database is a high-risk operational event. AWS DMS is a cloud service that migrates relational databases, data warehouses, and other data stores into the AWS Cloud or between en...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/08/31/mcp-architecture-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "OSPAR 2026 report now available with 167 services in scope",
+      "link": "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope/",
+      "pubDate": "2026-09-04T18:13:04.000Z",
+      "snippet": "We’re pleased to confirm the successful completion of our annual Amazon Web Services (AWS) Outsourced Service Provider’s Audit Report (OSPAR) assessment on July 29, 2026, in line with the OSPAR versio...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/09/03/James-Chang.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "pubDate": "2026-09-04T17:38:48.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Designing lifecycle policies for AgentCore memory",
+      "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+      "pubDate": "2026-09-04T17:20:04.000Z",
+      "snippet": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating,...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/26/ML-20851-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon ECS introduces Early Success Criteria for service deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
+      "pubDate": "2026-09-04T17:00:00.000Z",
+      "snippet": "Amazon Elastic Container Service (Amazon ECS) now supports Early Success Criteria for rolling service deployments, giving you the flexibility to define when a deployment is considered successful based...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/",
+      "pubDate": "2026-09-04T16:31:00.000Z",
+      "snippet": "Today, AWS Model Context Protocol Server (AWS MCP Server) added a serverless capability so that coding agents such as Claude Code and Kiro can efficiently diagnose issues with your Lambda functions. T...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "New Design for Sept 2026",
+      "link": "https://kevquirk.com/new-design-for-sept-2026",
+      "pubDate": "2026-09-04T16:19:00.000Z",
+      "snippet": "I decided I was bored with the previous design, but wanted something that was in keeping with the previous design (brutalist and using a monospace font) yet different.\nI abandoned the yellow accent an...",
+      "imageUrl": "https://kevquirk.com/content/images/new-design-for-sept-2026/sept-2026-light.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+      "pubDate": "2026-09-04T16:16:00.000Z",
+      "snippet": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluatio...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21222-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+      "pubDate": "2026-09-04T16:12:17.000Z",
+      "snippet": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through b...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/01/figure-1-managed-boundary.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+      "pubDate": "2026-09-04T16:08:10.000Z",
+      "snippet": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This po...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-18730-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+      "pubDate": "2026-09-04T16:06:01.000Z",
+      "snippet": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-langua...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/ML-21646-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "pubDate": "2026-09-04T16:04:14.000Z",
+      "snippet": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research previe...",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 C8g instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/",
+      "pubDate": "2026-09-04T14:06:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Asia Pacific (Taipei, New Zealand), and AWS GovCloud (US-East) regions. These instances are powered by AWS ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Discovery of a new OpenAI agent message board",
+      "link": "https://collusion.wiki/",
+      "pubDate": "2026-09-04T11:54:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49563355"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
+      "pubDate": "2026-09-04T08:00:00.000Z",
+      "snippet": "AWS Transfer Family SFTP Connectors now continue running file transfers while you rotate the credentials used to authenticate with remote SFTP servers. You no longer need to update the connector to po...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+      "pubDate": "2026-09-04T08:00:00.000Z",
+      "snippet": "Amazon SageMaker AI now supports Amazon EC2 G6e instances for batch transform. Batch Transform enables you to run predictions on datasets stored in Amazon S3 and is suited for large datasets that do n...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Brain Baking",
+      "title": "Favourites of August 2026",
+      "link": "https://brainbaking.com/post/2026/09/august-2026/",
+      "pubDate": "2026-09-04T07:06:00.000Z",
+      "snippet": "I am typing this from the teachers’ lounge: the preparations for the new academic year have officially begun, and with it, the summer holiday is gone. Time is a weird concept: on the one hand, two mon...",
+      "imageUrl": null,
+      "commentsUrl": "https://dosgame.club/@jefklak"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "August newsletter is out",
+      "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "pubDate": "2026-09-04T05:54:40.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "HP Easy Start for macOS: CVE-2026-12554 / CVE-2026-12555 /\tCVE-2026-12556",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/30",
+      "pubDate": "2026-09-04T00:13:23.000Z",
+      "snippet": "Posted by Nir Yehoshua on Sep 03\nHello Full Disclosure list,\n\nCipher Security Labs has published technical details for three\nHigh-severity vulnerabilities affecting HP Easy Start for macOS. The\nissues...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Next.js 16.4.0-canary.13 Image Optimizer DNS Rebinding TOCTOU SSRF Still Exists",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/29",
+      "pubDate": "2026-09-04T00:13:21.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nNext.js 16.4.0-canary.13 contains a DNS rebinding TOCTOU Server-Side\nRequest Forgery vulnerability in the Image Optimizer's fetchExternalImage()\nfunctionality.\n\nNext.js attem...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "O-CMS 1.0.0 Authenticated OS Command Injection via\tai_cli_script",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/28",
+      "pubDate": "2026-09-04T00:13:19.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nO-CMS version 1.0.0 contains an authenticated OS command injection\nvulnerability in the AI CLI configuration functionality. An authenticated\nattacker with suffic...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 CMS registerShortcodes() Remote Code Execution via Attacker-Controlled File Inclusion",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/27",
+      "pubDate": "2026-09-04T00:13:18.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS contains a remote code execution vulnerability in the\ninteraction between the Entries API and Shortcodes::registerShortcodes().\nThe /api/v1/entries ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Stored Fetch Shortcode Allows Server-Side Request Forgery",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/26",
+      "pubDate": "2026-09-04T00:13:17.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains a stored server-side request forgery\n(SSRF) vulnerability in its shortcode-processing functionality.\n\nAttacker-controlled en...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Stored Filesystem Shortcode Allows Arbitrary File Read",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/25",
+      "pubDate": "2026-09-04T00:13:16.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains an arbitrary file-read vulnerability\nin its stored shortcode processing functionality. Attacker-controlled entry\nfields are ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Stored Expression Injection Enables PHP Remote Code Execution",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/24",
+      "pubDate": "2026-09-04T00:13:15.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains a stored code execution vulnerability\ncaused by the interaction between globally processed entry expressions, the\nmutable re...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 NULL access_token Authentication Bypass",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/23",
+      "pubDate": "2026-09-04T00:13:13.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains an authentication validation\nvulnerability in the API request-processing functionality. API endpoints\nmay declare access_tok...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Path Traversal in Entry Copy Allows Arbitrary Directory Copy and File Disclosure",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/22",
+      "pubDate": "2026-09-04T00:13:12.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains a path traversal vulnerability in the\nEntries copy functionality. An authenticated remote attacker can supply\ndirectory trav...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Server-Side Request Forgery via fetch() in Query API",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/21",
+      "pubDate": "2026-09-04T00:13:11.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains a server-side request forgery (SSRF)\nvulnerability in the expression-processing functionality exposed through\nthe /api/v1/qu...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Flextype v1.0.0-alpha.3 Stored Arbitrary Expression Injection in ExpressionsDirective Allows Arbitrary File Read",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/20",
+      "pubDate": "2026-09-04T00:13:10.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nDescription\n\nFlextype CMS v1.0.0-alpha.3 contains a stored arbitrary expression\ninjection vulnerability in the Entries ExpressionsDirective. An\nauthenticated remote attacker ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Payara 7.2026.1.RC1 Remote Code Execution via Server-Side Includes #exec Directive in Payara Server",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/19",
+      "pubDate": "2026-09-04T00:13:09.000Z",
+      "snippet": "Posted by Ron E on Sep 03\n*Description:*\nPayara Server contains a vulnerability in its Server-Side Includes (SSI)\nimplementation that allows arbitrary operating system command execution via\nthe #exec ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Payara 7.2026.1.RC1 Arbitrary EJB Method Invocation via Insecure Reflection in Payara Server",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/18",
+      "pubDate": "2026-09-04T00:13:07.000Z",
+      "snippet": "Posted by Ron E on Sep 03\nPayara Server exposes multiple HTTP-accessible EJB invocation mechanisms\nthat rely on attacker-controlled reflection, dynamic class loading, and\nunsafe deserialization. These...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "WireGuard-Linux Stack-Based Buffer Overflow in lsiio (Linux IIO Userspace Tool) Due to Unbounded fscanf",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/17",
+      "pubDate": "2026-09-04T00:13:06.000Z",
+      "snippet": "Posted by Ron E on Sep 03\n*Description:*\nA stack-based buffer overflow exists in the Linux Industrial I/O (IIO)\nuserspace utility lsiio. The vulnerability occurs in the\nfind_type_by_name() function, w...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "thttpd v2.26 Stack-Based Buffer Overflow in thttpd redirect\tCGI Program",
+      "link": "https://seclists.org/fulldisclosure/2026/Sep/16",
+      "pubDate": "2026-09-04T00:13:05.000Z",
+      "snippet": "Posted by Ron E on Sep 03\n*Description:*\nA stack-based buffer overflow vulnerability exists in the redirect CGI\nprogram distributed with thttpd. The vulnerability is caused by unsafe\nstring concatenat...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/",
+      "pubDate": "2026-09-03T23:00:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pacific (Tokyo) region. AWS Graviton5 processors are th...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon ECS Managed Daemons now support non-critical daemons",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+      "pubDate": "2026-09-03T22:01:00.000Z",
+      "snippet": "Amazon Elastic Container Service (Amazon ECS) now support non-critical Managed Daemons for ECS Managed Instances. You can configure a daemon as non-critical so that your mission-critical application t...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Nonbinary Gender Extremism?",
+      "link": "https://www.kenklippenstein.com/p/nonbinary-gender-extremism",
+      "pubDate": "2026-09-03T21:31:30.000Z",
+      "snippet": "The White House has a new target. But who’s the real extremist?...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!S83F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38673cd9-b27a-4b59-b5f3-abb9e0fbddf8_1400x788.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Incident response guide for AWS CloudTrail investigations – Part 2",
+      "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/",
+      "pubDate": "2026-09-03T21:15:53.000Z",
+      "snippet": "In Part 1 of this guide, we examined two common incident scenarios: cross-account Amazon Simple Storage Service (Amazon S3) data deletion with ransomware implications, and cryptocurrency mining deploy...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/09/03/incident-response-guide-p2-Figure-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Incident response guide for AWS CloudTrail investigations – Part 1",
+      "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+      "pubDate": "2026-09-03T21:15:39.000Z",
+      "snippet": "AWS CloudTrail logs contain the evidence you need when investigating suspicious activity in your AWS environment, but knowing which fields matter and how to interpret them can mean the difference betw...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/09/01/incident-response-guide-1-Figure-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/",
+      "pubDate": "2026-09-03T21:00:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances, powered by AWS Graviton5 processors, are available in Europe (Ireland) and Asia Pacific (Singapore, Sydney, Tokyo) reg...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "GPT‑6 Astra",
+      "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "pubDate": "2026-09-03T20:18:41.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+      "pubDate": "2026-09-03T19:14:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Pacific (Hyderabad) Region. These instances offer up to 2...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+      "pubDate": "2026-09-03T19:03:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS CloudFormation Release Notes",
+      "title": "New resource",
+      "link": "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-template-resource-type-ref.html",
+      "pubDate": "2026-09-03T19:00:00.000Z",
+      "snippet": "The following resource was added:\n      AWS::PricingPlanManager::Subscription....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon CloudFront announces API support for flat-rate pricing plans ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+      "pubDate": "2026-09-03T18:00:00.000Z",
+      "snippet": "Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or the PricingPlanManager API.\n \nCloudFront flat-rate plan...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "pubDate": "2026-09-03T17:17:00.000Z",
+      "snippet": "Amazon Quick now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Max gives you the room to do more: more agen...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
+      "pubDate": "2026-09-03T17:00:00.000Z",
+      "snippet": "AWS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a flow's idle timeout expires. This feature helps reduce traffic...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
+      "pubDate": "2026-09-03T17:00:00.000Z",
+      "snippet": "Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scalable (6th Gen) processors. G7 instances deliver up to...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Network connectivity patterns for the next generation of Amazon OpenSearch Serverless",
+      "link": "https://aws.amazon.com/blogs/big-data/network-connectivity-patterns-for-the-next-generation-of-amazon-opensearch-serverless/",
+      "pubDate": "2026-09-03T16:26:58.000Z",
+      "snippet": "The next generation of Amazon OpenSearch Serverless uses standard AWS PrivateLink endpoints on the on.aws domain. This post shows nine connectivity patterns for private access, from a single VPC to mu...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/28/BDB-6127-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "How Moovit achieved 33% cost optimization through architectural modernization",
+      "link": "https://aws.amazon.com/blogs/big-data/how-moovit-achieved-33-cost-optimization-through-architectural-modernization/",
+      "pubDate": "2026-09-03T16:23:46.000Z",
+      "snippet": "Learn how Moovit modernized its data platform with a multi-engine lakehouse architecture: offloading heavy aggregation workloads from Amazon Redshift to Amazon EMR with Spark SQL, isolating workloads ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/09/01/BDB-5979-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+      "pubDate": "2026-09-03T16:16:28.000Z",
+      "snippet": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock Agent...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21366-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+      "pubDate": "2026-09-03T16:14:12.000Z",
+      "snippet": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-20753-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+      "pubDate": "2026-09-03T16:11:57.000Z",
+      "snippet": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/24/ML-20379-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+      "pubDate": "2026-09-03T16:10:39.000Z",
+      "snippet": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API wi...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/01/ML-21675-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Best practices for building agentic automations with Amazon Quick Automate",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+      "pubDate": "2026-09-03T16:08:28.000Z",
+      "snippet": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deter...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/26/ML-21394-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Redshift rg.large instances now support single-node clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
+      "pubDate": "2026-09-03T16:03:00.000Z",
+      "snippet": "Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters is available on P204 or later patch versions. Custom...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Embed Quick Sight visuals using Cognito user authentication",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
+      "pubDate": "2026-09-03T16:01:56.000Z",
+      "snippet": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/arch_diag.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+      "pubDate": "2026-09-03T16:01:00.000Z",
+      "snippet": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Aurora MySQL 8.4.8 includes several improvements, such ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "snippet": "Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source replication lets a single Aurora MySQL cluster replicate f...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "snippet": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.\nThe post GitHub Copilot app for Beginners: Run several agents ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
+      "pubDate": "2026-09-03T15:00:00.000Z",
+      "snippet": "Amazon SageMaker Unified Studio Workflows now supports PythonOperator and BashOperator, enabling you to run custom Python functions and shell commands directly in your serverless workflows without pro...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
+      "pubDate": "2026-09-03T15:00:00.000Z",
+      "snippet": "Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the AWS Management Console. A new metrics dashboard displays key Amaz...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "miguelgrinberg.com/",
+      "title": "You Should be Using Rootless Containers",
+      "link": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "pubDate": "2026-09-03T14:59:54.000Z",
+      "snippet": "The other day a serious vulnerability was disclosed in one of the newer Linux distributions (the one led by the racist, so it isn't getting a mention here). The issue was interesting because it was ca...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terminal Trove",
+      "title": "Terminal Trove August 2026 Wrap Up ",
+      "link": "https://terminaltrove.com/feed/blog/terminal-trove-august-2026-wrap-up/",
+      "pubDate": "2026-09-03T12:00:00.000Z",
+      "snippet": "Time for another post for the past month of August at Terminal Trove! Here's a short recap of what we were up to in August 2026:\nTerminal Tool of The Week (August 2026)\nBelow are a few of them we feat...",
+      "imageUrl": "https://cdn.terminaltrove.com/m/a296adfe-bbd7-4f38-9cca-185d88e34085.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "How Swiss tables work in Go built-in map",
+      "link": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+      "pubDate": "2026-09-03T11:59:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49548852"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP",
+      "link": "https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/",
+      "pubDate": "2026-09-03T11:34:12.000Z",
+      "snippet": "If you're reading this, you've probably been hitting your head against a brick wall trying to parse and decipher the new HTTP Signatures sent by Mastodon and other Fediverse servers.\nThis is a basic a...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/NGI-logos.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Linux 2027 is now available in public preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
+      "pubDate": "2026-09-03T08:00:00.000Z",
+      "snippet": "Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for cloud-native workloads on AWS with performance, scale, a...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon SES now supports S/MIME email signing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
+      "pubDate": "2026-09-03T07:00:00.000Z",
+      "snippet": "Amazon Simple Email Service (SES) now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) signing, giving you a way to help recipients verify your emails are authentic. An S/MIME signature ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "IBM Quantum Nighthawk R2",
+      "link": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "pubDate": "2026-09-03T05:16:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49546198"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
+      "pubDate": "2026-09-03T04:00:00.000Z",
+      "snippet": "Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 program.\n  Customers with security and compliance requireme...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
+      "pubDate": "2026-09-03T03:00:00.000Z",
+      "snippet": "AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block s...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS DevOps Blog",
+      "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/",
+      "pubDate": "2026-09-03T02:11:19.000Z",
+      "snippet": "Introduction Continuous improvement depends on experimentation. Teams know that the fastest path to better outcomes is to test changes against real user behavior, measure results, and iterate. In prac...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/09/02/DOPS-LD-Diagram.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "The Fly Blog",
+      "title": "Your Agent Speaks MCP. Give It a Computer.",
+      "link": "https://fly.io/blog/sprites-mcp/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "snippet": "Sprites are disposable cloud computers. They appear instantly, always include durable filesystems, and cost practically nothing when idle. They’re the best and safest place on the Internet to run agen...",
+      "imageUrl": "https://fly.io/blog/sprites-mcp/assets/whack.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+      "pubDate": "2026-09-02T21:22:05.000Z",
+      "snippet": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. Thi...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21760-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "pubDate": "2026-09-02T21:00:00.000Z",
+      "snippet": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, s...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Managing identity source transition for AWS IAM Identity Center",
+      "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
+      "pubDate": "2026-09-02T20:36:31.000Z",
+      "snippet": "September 2, 2026: This post was republished to include Active Directory migration strategies and automation for permission sets. AWS IAM Identity Center manages user access to Amazon Web Services (AW...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/09/01/Managing-identity-source-Figure-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Music Theory for Programmers",
+      "link": "https://runjs.app/blog/music-theory-for-programmers",
+      "pubDate": "2026-09-02T20:19:13.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49541888"
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Query Amazon S3 Tables from Amazon EMR Trino using the Iceberg REST endpoint",
+      "link": "https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/",
+      "pubDate": "2026-09-02T19:01:30.000Z",
+      "snippet": "Learn how to query Amazon S3 Tables from Trino on Amazon EMR using the Apache Iceberg REST catalog endpoint. This post shows how to deploy the integration with AWS CloudFormation, configure the Trino ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/09/01/BDB-5695-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS DevOps Blog",
+      "title": "Automate planned lifecycle upgrades with AWS DevOps Agent and Kiro",
+      "link": "https://aws.amazon.com/blogs/devops/automate-planned-lifecycle-upgrades-with-aws-devops-agent-and-kiro/",
+      "pubDate": "2026-09-02T18:55:52.000Z",
+      "snippet": "AWS Health Planned Lifecycle Events signal when a managed service version is nearing end of standard support. Learn how to automate these upgrades end to end with AWS DevOps Agent and Kiro: detect the...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/08/31/DEVOPS-24815-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Agentic security: Detection and response at machine speed",
+      "link": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/",
+      "pubDate": "2026-09-02T18:36:37.000Z",
+      "snippet": "After talking with enterprise security leaders over the past year, one thing has become clear: the rise of autonomous AI agents is the most significant shift in security posture since the move to clou...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/09/02/Gee-Rittenhouse-Author.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Building medallion architecture with Iceberg materialized views in Amazon SageMaker",
+      "link": "https://aws.amazon.com/blogs/big-data/building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker/",
+      "pubDate": "2026-09-02T18:34:32.000Z",
+      "snippet": "With Apache Iceberg materialized views in Amazon SageMaker, you can build a Bronze, Silver, and Gold medallion architecture as three SQL statements. This declarative approach folds transformation, orc...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/31/BDB-5987-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Build a dynamic streaming data lake with Apache Iceberg and Apache Flink",
+      "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-streaming-data-lake-with-apache-iceberg-and-apache-flink/",
+      "pubDate": "2026-09-02T18:28:38.000Z",
+      "snippet": "Learn how to build a dynamic streaming data lake on Amazon Managed Service for Apache Flink that adapts to new event types and schema changes without stopping the pipeline, using Apache Iceberg's Dyna...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/28/BDB-5973-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Modernizing and scaling support operations with generative AI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+      "pubDate": "2026-09-02T18:26:35.000Z",
+      "snippet": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and u...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-20585-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+      "pubDate": "2026-09-02T18:21:20.000Z",
+      "snippet": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered con...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21432-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+      "pubDate": "2026-09-02T18:18:47.000Z",
+      "snippet": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains s...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-20745-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "link": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+      "pubDate": "2026-09-02T18:14:17.000Z",
+      "snippet": "Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/Trinity-Platform-Architecture.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "pubDate": "2026-09-02T18:00:00.000Z",
+      "snippet": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appea...",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
+      "pubDate": "2026-09-02T17:52:00.000Z",
+      "snippet": "The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "link": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "pubDate": "2026-09-02T17:44:24.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49539759"
+    },
+    {
+      "feedTitle": "AWS Developer Blog",
+      "title": "Introducing the S3 PowerShell Drive in AWS Tools for PowerShell",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-the-s3-powershell-drive-in-aws-tools-for-powershell/",
+      "pubDate": "2026-09-02T17:20:03.000Z",
+      "snippet": "Explore and use Amazon Simple Storage Service (Amazon S3) like a file system with the new S3 PowerShell Drive. You can mount your S3 storage as a drive and navigate it with the same commands that are ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
+      "pubDate": "2026-09-02T17:00:00.000Z",
+      "snippet": "Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluatio...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "link": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "pubDate": "2026-09-02T16:56:03.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49539110"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
+      "pubDate": "2026-09-02T16:54:00.000Z",
+      "snippet": "Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and de...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "llm-gemini 0.34",
+      "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "pubDate": "2026-09-02T16:39:38.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer announces general availability of agentic CX designer",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/",
+      "pubDate": "2026-09-02T16:00:00.000Z",
+      "snippet": "Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/",
+      "pubDate": "2026-09-02T16:00:00.000Z",
+      "snippet": "Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virt...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Config now supports 60 new resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/",
+      "pubDate": "2026-09-02T15:00:00.000Z",
+      "snippet": "AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock,  Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage ov...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "pubDate": "2026-09-02T14:16:42.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink/",
+      "pubDate": "2026-09-02T14:06:00.000Z",
+      "snippet": "You can now use AWS PrivateLink to privately access Amazon MemoryDB from your Amazon Virtual Private Cloud (Amazon VPC) in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. AWS PrivateLin...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions",
+      "pubDate": "2026-09-02T13:00:00.000Z",
+      "snippet": "AWS User Experience Customization (UXC) is now available in all commercial AWS Regions. UXC enables account administrators to set a custom account color and control which services and Regions appear i...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The Empire of Information",
+      "link": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+      "pubDate": "2026-09-02T12:15:37.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49535122"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda now supports SnapStart for container image functions ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
+      "pubDate": "2026-09-02T09:00:00.000Z",
+      "snippet": "Starting today, AWS Lambda supports SnapStart for functions packaged as container images, reducing startup times from several seconds to as low as sub-second. Lambda SnapStart is an opt-in capability ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/",
+      "pubDate": "2026-09-02T08:00:00.000Z",
+      "snippet": "Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates manifest authoring, and (2) native notebook promotion a...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon RDS for SQL Server supports additional SQL trace flags",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "snippet": "Amazon RDS for SQL Server supports 18 additional SQL trace flags that you can enable through database parameter groups. Trace flags are configuration switches that modify SQL Server engine behavior — ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "passo.uno",
+      "title": "Episode X of Phase One: Agent traffic, llms.txt, and the solitude problem",
+      "link": "https://passo.uno/episode-x-phase-one-agent-traffic-llms-txt-solitude/",
+      "pubDate": "2026-09-02T06:00:00.000Z",
+      "snippet": "Tenth episode of the AI & Docs podcast series is up! In this one, Tom and I talk with Ethan Palm, the only technical writer at Mintlify, about what changes when nearly half the traffic to a docs site ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Rick Brewster",
+      "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "pubDate": "2026-09-02T05:50:57.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "link": "https://en.wikipedia.org/wiki/M-DISC",
+      "pubDate": "2026-09-02T04:10:21.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49531619"
+    },
+    {
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "What’s in my Magic the Gathering Battle Box",
+      "link": "https://hamatti.org/posts/whats-in-my-magic-the-gathering-battle-box/",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "snippet": "Battle Box\n  is one of my favourite Magic the Gathering formats. It’s a self-contained\n  gaming environment for 2 players. Mine has 171 spells and 20 lands — 10 for\n  each player. Players draw from a ...",
+      "imageUrl": "https://hamatti.org/assets/img/posts/whats-in-my-magic-the-gathering-battle-box/1.png.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "pubDate": "2026-09-01T23:57:28.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "link": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "pubDate": "2026-09-01T22:54:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49529398"
+    },
+    {
+      "feedTitle": "Krebs on Security",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "pubDate": "2026-09-01T22:40:28.000Z",
+      "snippet": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with...",
+      "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
+      "commentsUrl": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/#comments"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Quick now lets you build custom apps with natural language  - ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
+      "pubDate": "2026-09-01T21:37:00.000Z",
+      "snippet": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes in...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/",
+      "pubDate": "2026-09-01T21:29:00.000Z",
+      "snippet": "Amazon Bedrock AgentCore Identity now offers a managed consent portal that eliminates the need for custom OAuth callback infrastructure when connecting agents to third-party tools and services.\n \nDeve...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "What the Hasan Piker Freakout Is Really About",
+      "link": "https://www.kenklippenstein.com/p/what-the-hasan-piker-freakout-is",
+      "pubDate": "2026-09-01T20:34:04.000Z",
+      "snippet": "Five sneaky phrases Washington uses to control your vote...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!mZXZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c9f2ad8-ca53-4c15-b8b4-057261aab5bf_1500x1000.jpeg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Topologist's Map of the World",
+      "link": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+      "pubDate": "2026-09-01T20:21:08.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49527599"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Deadline Cloud now supports sharing job bundles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
+      "pubDate": "2026-09-01T20:16:00.000Z",
+      "snippet": "AWS Deadline Cloud now supports sharing job bundles, giving teams a simple way to distribute and reuse render job templates without manual file distribution. Deadline Cloud is a fully managed service ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "RecurseCenter.return()",
+      "link": "https://mm-dev.rocks/series/recursecenter.return/",
+      "pubDate": "2026-09-01T19:48:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49527110"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Introducing Claude Fable 5.1 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
+      "pubDate": "2026-09-01T19:12:43.000Z",
+      "snippet": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud en...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-20969-image-6.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Codex bundles LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "pubDate": "2026-09-01T19:03:01.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
+      "pubDate": "2026-09-01T19:00:00.000Z",
+      "snippet": "Today, AWS announces support for self-managed PostgreSQL databases in Amazon CloudWatch Database Insights. Using CloudWatch Database Insights, you can now monitor your self-managed PostgreSQL instance...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
+      "pubDate": "2026-09-01T19:00:00.000Z",
+      "snippet": "Amazon Kinesis Data Streams now supports a dry run feature to check whether an API request would succeed without executing the operation. Customers can now set the new optional parameter ‘DryRun’ to t...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "GeoJSON Map Viewer",
+      "link": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "pubDate": "2026-09-01T18:05:45.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/",
+      "pubDate": "2026-09-01T18:00:00.000Z",
+      "snippet": "AWS Marketplace now offers a 0% listing fee for professional services purchased as part of a qualifying multi-product solution. This builds on the recent reduction of professional services listing fee...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/",
+      "pubDate": "2026-09-01T18:00:00.000Z",
+      "snippet": "AWS Backup now supports backup and restore of more than 1,000 Amazon S3 buckets per account, matching the Amazon S3 bucket quota configured for your account.\n \nPreviously, AWS Backup for Amazon S3 sup...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Tarn Adams",
+      "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "pubDate": "2026-09-01T17:01:11.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer dashboards now support compact mode ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/",
+      "pubDate": "2026-09-01T17:00:00.000Z",
+      "snippet": "Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operational data without scrolling. Compact mode reduces widge...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "The Internet of Things on AWS – Official Blog",
+      "title": "Deploying MCP servers with AWS IoT Greengrass for edge diagnostics",
+      "link": "https://aws.amazon.com/blogs/iot/deploying-mcp-servers-with-aws-iot-greengrass-for-edge-diagnostics/",
+      "pubDate": "2026-09-01T16:19:42.000Z",
+      "snippet": "Deploying Model Context Protocol (MCP) servers as AWS IoT Greengrass components brings autonomous, AI agent-driven network diagnostics to the edge, where connectivity is unreliable and expertise is ha...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f6e1126cedebf23e1463aee73f9df08783640400/2026/08/31/IOTBLOG-42-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Observing and evaluating production agents using OpenSearch Agent Health",
+      "link": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
+      "pubDate": "2026-09-01T16:19:02.000Z",
+      "snippet": "Learn how to observe and evaluate production AI agents by combining an agent running on AWS with OpenSearch Agent Health. This post walks through deploying an agent and its observability pipeline to A...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/26/BDB-5986-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+      "pubDate": "2026-09-01T16:17:54.000Z",
+      "snippet": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This pos...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21185-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/",
+      "pubDate": "2026-09-01T16:06:44.000Z",
+      "snippet": "Extend AWS DevOps Agent to investigate Apache Spark failures on Amazon EMR. This post shows how to register the Apache Spark Troubleshooting Agent for Amazon EMR as a custom MCP capability provider ov...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/31/BDB-6062-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+      "pubDate": "2026-09-01T16:03:41.000Z",
+      "snippet": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21656-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "The Internet of Things on AWS – Official Blog",
+      "title": "Build edge AI agents with the AWS IoT Greengrass Component SDK for Rust",
+      "link": "https://aws.amazon.com/blogs/iot/build-edge-ai-agents-with-the-aws-iot-greengrass-component-sdk-for-rust/",
+      "pubDate": "2026-09-01T15:53:40.000Z",
+      "snippet": "Edge AI agents classify sensor anomalies locally on resource-constrained IoT devices and escalate only complex reasoning to the cloud. This post shows how to build a Rust-based AWS IoT Greengrass comp...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f6e1126cedebf23e1463aee73f9df08783640400/2026/08/25/IOTBLOG-36-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "datasette-mcp 0.2",
+      "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "pubDate": "2026-09-01T15:30:12.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Marketplace now supports auto-renewals for private offers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-auto-renewals-for-private-offers",
+      "pubDate": "2026-09-01T15:00:00.000Z",
+      "snippet": "AWS Marketplace now supports auto-renewals for private offers. This capability helps sellers and buyers maintain active software and service subscriptions without re-negotiation or re-purchasing at th...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon MWAA supports Apache Airflow version 3.3.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/",
+      "pubDate": "2026-09-01T15:00:00.000Z",
+      "snippet": "Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.3.1, the latest release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed o...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "pubDate": "2026-09-01T14:59:18.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/",
+      "pubDate": "2026-09-01T14:30:00.000Z",
+      "snippet": "Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientif...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/",
+      "pubDate": "2026-09-01T14:00:00.000Z",
+      "snippet": "Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated industry customers. Fable 5.1 delivers frontier intellige...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A Computer History Time Capsule",
+      "link": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+      "pubDate": "2026-09-01T13:54:42.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49522072"
+    },
+    {
+      "feedTitle": "AWS Compute Blog",
+      "title": "Scheduling email campaigns at scale with Amazon EventBridge Scheduler",
+      "link": "https://aws.amazon.com/blogs/compute/scheduling-email-campaigns-at-scale-with-amazon-eventbridge-scheduler/",
+      "pubDate": "2026-09-01T13:09:17.000Z",
+      "snippet": "Learn how to use Amazon EventBridge Scheduler to deliver email campaigns at per-recipient optimal send times. This post shows how to create one schedule per recipient with zero idle compute cost, scal...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/09/01/compute-2689-arch.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "serverless – AWS Compute Blog",
+      "title": "Scheduling email campaigns at scale with Amazon EventBridge Scheduler",
+      "link": "https://aws.amazon.com/blogs/compute/scheduling-email-campaigns-at-scale-with-amazon-eventbridge-scheduler/",
+      "pubDate": "2026-09-01T13:09:17.000Z",
+      "snippet": "Learn how to use Amazon EventBridge Scheduler to deliver email campaigns at per-recipient optimal send times. This post shows how to create one schedule per recipient with zero idle compute cost, scal...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/09/01/compute-2689-arch.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "Android Auto Has Been Hammering My Phone’s Battery",
+      "link": "https://kevquirk.com/android-auto-has-been-hammering-my-phones-battery",
+      "pubDate": "2026-09-01T12:25:00.000Z",
+      "snippet": "I've noticed recently that my phone needs to be charged way more often than I used to have to do it. I used to be able to go for nearly 2 days on an 80% charge, but I started having to charge daily. S...",
+      "imageUrl": "https://kevquirk.com/content/images/android-auto-has-been-hammering-my-phones-battery/battery-health.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Brain Baking",
+      "title": "Bring Back The Noise With HDD Synth",
+      "link": "https://brainbaking.com/post/2026/08/bring-back-the-noise-with-hdd-synth/",
+      "pubDate": "2026-09-01T12:15:58.000Z",
+      "snippet": "The modernisation of some of the vintage components in old computers comes with its own set of challenges. Things break: thirty plus year old hard drives stop spinning, floppy drive components such as...",
+      "imageUrl": "https://brainbaking.com/post/2026/08/bring-back-the-noise-with-hdd-synth/mk3.jpg",
+      "commentsUrl": "https://dosgame.club/@jefklak"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
+      "link": "https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/",
+      "pubDate": "2026-09-01T11:34:18.000Z",
+      "snippet": "As part of my grant from NLnet to improve my Fediverse bot project, I'm spending time making sure I understand all the fundamentals of ActivityPub. The problem with Internet standards is they're scatt...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/activitypub.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon CloudWatch now supports warm-up periods for alarms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period",
+      "pubDate": "2026-09-01T08:00:00.000Z",
+      "snippet": "Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alarm is created. This reduces noise from missing data wh...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
+      "pubDate": "2026-09-01T07:30:00.000Z",
+      "snippet": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This rele...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "ICE’s Robot Dogs; WNBA Does Counter-terror; Flock and Awe",
+      "link": "https://www.kenklippenstein.com/p/ices-robot-dogs-wnba-does-counterterrorism",
+      "pubDate": "2026-09-01T01:23:10.000Z",
+      "snippet": "What the Flock is going on in America?...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!wJpA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf6dc44-de23-4775-a797-6b7c771523c3_1024x683.jpeg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Introducing wrapture",
+      "link": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "pubDate": "2026-08-31T23:59:36.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
+      "link": "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/",
+      "pubDate": "2026-08-31T23:03:25.000Z",
+      "snippet": "Amazon Kinesis Data Streams now supports streaming tables, a fully managed capability that continuously delivers your streaming data as queryable Apache Iceberg tables on Amazon S3 Tables. Streaming t...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/25/BDB-6152-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
+      "pubDate": "2026-08-31T22:30:00.000Z",
+      "snippet": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Andrew Digby",
+      "link": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "pubDate": "2026-08-31T22:25:02.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+      "pubDate": "2026-08-31T22:00:00.000Z",
+      "snippet": "Partner Revenue Measurement User Agent string now supports additional AWS services. Partner Revenue Measurement allows Partners to better understand their AWS revenue impact and product consumption pa...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard",
+      "pubDate": "2026-08-31T21:35:00.000Z",
+      "snippet": "AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-region view of ad monetization and streaming performa...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Measuring and improving search quality with Amazon OpenSearch Service",
+      "link": "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service/",
+      "pubDate": "2026-08-31T21:13:36.000Z",
+      "snippet": "Most teams struggle to answer a deceptively simple question: is my search returning relevant results? This post shows how to capture User Behavior Insights (UBI) data on Amazon OpenSearch Service and ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/19/BDB-6168-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
+      "pubDate": "2026-08-31T21:05:00.000Z",
+      "snippet": "Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Reg...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
+      "pubDate": "2026-08-31T21:02:00.000Z",
+      "snippet": "Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with s...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS News Blog",
+      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
+      "pubDate": "2026-08-31T19:53:34.000Z",
+      "snippet": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time a...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
+      "pubDate": "2026-08-31T19:48:00.000Z",
+      "snippet": "You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Seoul), Eu...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/",
+      "pubDate": "2026-08-31T19:25:00.000Z",
+      "snippet": "Amazon Connect Global Resiliency now supports cross-region routing of contacts to agents across two linked AWS regions. For example, a contact arriving in US East (N. Virginia) is offered to the longe...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "We invited a direct competitor into Security Hub Extended. Here’s why.",
+      "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/",
+      "pubDate": "2026-08-31T19:00:07.000Z",
+      "snippet": "When customers keep pointing you to a solution that overlaps with parts of your own offering, you have a choice to make. This post is about the choice we made with Upwind, and why we’d make it again. ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/07/13/michael-fuller-author.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+      "pubDate": "2026-08-31T18:10:00.000Z",
+      "snippet": "Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v3 release adds several new features. With this lau...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+      "pubDate": "2026-08-31T18:08:00.000Z",
+      "snippet": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of cus...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+      "pubDate": "2026-08-31T18:00:00.000Z",
+      "snippet": "Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — withou...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+      "pubDate": "2026-08-31T17:30:00.000Z",
+      "snippet": "AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that automatically detects and stops recursive invocat...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Integrate Amazon Redshift and IAM Identity Center with enhanced VPC routing",
+      "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-redshift-and-iam-identity-center-with-enhanced-vpc-routing/",
+      "pubDate": "2026-08-31T17:22:40.000Z",
+      "snippet": "Amazon Redshift now supports AWS IAM Identity Center authentication on clusters and workgroups that use enhanced VPC routing. Create two interface VPC endpoints to give your users single sign-on with ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/19/BDB-6139-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+      "link": "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting/",
+      "pubDate": "2026-08-31T17:18:31.000Z",
+      "snippet": "AWS IAM Identity Center integrates with external identity provider (IdP) to provide customers with a centralized authentication and authorization solution for AWS resources across AWS Organizations. A...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/08/27/reporting-architecture.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
+      "pubDate": "2026-08-31T16:46:00.000Z",
+      "snippet": "Amazon Aurora serverless  now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pacific (Thailand), Africa (Cape Town), Europe (Mil...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Build a real-time event pipeline with Spark Real-Time Mode on AWS Glue 6.0",
+      "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-event-pipeline-with-spark-real-time-mode-on-aws-glue-6-0/",
+      "pubDate": "2026-08-31T16:22:11.000Z",
+      "snippet": "With AWS Glue 6.0, you can build real-time, near-real-time, and batch data pipelines on a single platform. Using a financial market-risk example, learn how to flag high-risk trades with sub-second lat...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/08/19/BDB-6096-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
+      "pubDate": "2026-08-31T15:41:00.000Z",
+      "snippet": "Amazon OpenSearch Service has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide actionable recommendations to resolve them. ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+      "pubDate": "2026-08-31T15:21:00.000Z",
+      "snippet": "AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Developer Blog",
+      "title": "Introducing a standalone SigV4 signer for the AWS SDK for .NET",
+      "link": "https://aws.amazon.com/blogs/developer/introducing-a-standalone-sigv4-signer-for-the-aws-sdk-for-net/",
+      "pubDate": "2026-08-31T15:00:22.000Z",
+      "snippet": "Until now, signing an AWS request that no generated SDK client covered meant reaching into internal SDK types or hand-writing the AWS Signature Version 4 (SigV4) algorithm. The AWS SDK for .NET now in...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
+      "pubDate": "2026-08-31T15:00:00.000Z",
+      "snippet": "AWS announces the public preview of AWS Interconnect — multicloud with Microsoft Azure.\n \nCustomers have been adopting multicloud strategies while migrating more applications to the cloud. They do so ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon MSK Connect now supports restarting connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/",
+      "pubDate": "2026-08-31T15:00:00.000Z",
+      "snippet": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) supports restarting newly created connectors and their tasks, enabling fast recovery for streaming data pipelines.\n \nAmazon MSK C...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion",
+      "pubDate": "2026-08-31T15:00:00.000Z",
+      "snippet": "Amazon Web Services (AWS) has expanded the regional availability for Amazon WorkSpaces Applications. Starting today, AWS customers can deploy their applications and desktops in the Europe (Zurich), As...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS News Blog",
+      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+      "pubDate": "2026-08-31T14:45:25.000Z",
+      "snippet": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open sour...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/08/28/AWS_Ducklabs_white_logo_800x400.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "DEV Community: Vadym Kazulkin",
+      "title": "Orchestrating workflows with Amazon S3 Files and AWS Lambda durable functions using Java SDK - Part 4 Wait for condition",
+      "link": "https://dev.to/aws-heroes/orchestrating-workflows-with-amazon-s3-files-and-aws-lambda-durable-functions-using-java-sdk-part-1f1n",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "snippet": "Introduction\n\n\nIn part 2 of the series, we explored how to use the AWS Lambda Durable Execution SDK for Java to create and execute durable steps synchronously and asynchronously. \npart 3 of the series...",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuiupzpbq96rme4wd1bo8.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆",
+      "link": "https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/",
+      "pubDate": "2026-08-31T11:34:08.000Z",
+      "snippet": "The whole point about Shakespeare is that you can set the play on an intergalactic space station or an American high school and keep virtually the rest unchanged. What happens when you transpose Dream...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/msnd.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS DevOps Blog",
+      "title": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/",
+      "pubDate": "2026-08-31T09:28:02.000Z",
+      "snippet": "Introduction Running workloads on Amazon Elastic Kubernetes Service (Amazon EKS) can involve managing failures like OOMKilled or IP exhaustion. Engineers must repeatedly collect pod logs, trace events...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/08/29/01_DevOps-Agent-Operator-Architecture-1024x693.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install/",
+      "pubDate": "2026-08-31T07:00:00.000Z",
+      "snippet": "Today, AWS Secrets Manager announces one-click installation for the AWS Workload Credentials Provider (AWCP) on Amazon Linux and Windows, reducing setup from a multi-step build-from-source process to ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Automated Security Response on AWS adds AI Toolkit for custom remediations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/",
+      "pubDate": "2026-08-31T06:00:00.000Z",
+      "snippet": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/",
+      "pubDate": "2026-08-31T04:00:00.000Z",
+      "snippet": "AWS Elastic Beanstalk now automatically joins the Windows Server instances in your environment to an Active Directory domain that you manage with AWS Directory Service. Previously, running domain-join...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "31st is for recap",
+      "link": "https://hamatti.org/posts/31st-is-for-recap/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "snippet": "Python A-Z\n    is a blog series about Python. Each day, I share insights, ideas and\n    examples for different parts of Python development that match with the\n    letter of the day. Blaugust\n    is an...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "The end of programming is upon us",
+      "link": "https://www.readysetcloud.io/newsletter/231/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "snippet": "🦸 Community Superhero\nOur community superhero this week is V. Thulisile Sibanda, developer evangelist at DevNetwork, OSS maintainer, community builder, and a genuinely inspiring human being. She’s be...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Tim HÃ¥rek",
+      "title": "August 2026",
+      "link": "https://timharek.no/blog/2026-august-recently/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "snippet": "Back to work, back to kindergarten, back to routine, and back to writing my\nmonthly recently post!\n🍀 Life\nGoing back to work was quieter than expected, some projects had been moved to a\nlater date, s...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pubDate": "2026-08-30T23:59:47.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "SLIME MOLD TIME MOLD",
+      "title": "Links for August 2026",
+      "link": "https://slimemoldtimemold.com/2026/08/30/links-for-august-2026/",
+      "pubDate": "2026-08-30T22:59:20.000Z",
+      "snippet": "Shakespeare immortalized particular bear. (Reader discretion for disturbing “descriptions of horses with apes tied to their backs set upon by dogs.”) At least some bears — perhaps the fiercest, longes...",
+      "imageUrl": "https://slimemoldtimemold.com/wp-content/uploads/2026/08/bear_and_bull-baiting_rings_bankside_london_c.1560.png",
+      "commentsUrl": "https://slimemoldtimemold.com/2026/08/30/links-for-august-2026/#respond"
+    },
+    {
+      "feedTitle": "PauLoX",
+      "title": "My DjangoCon US 2026",
+      "link": "https://www.paulox.net/2026/08/31/my-djangocon-us-2026/",
+      "pubDate": "2026-08-30T22:00:00.000Z",
+      "snippet": "My DjangoCon US 2026 experience in Chicago, captured through Mastodon posts about talks, my UUID talk, Django community activities, people, and moments along the way....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "miguelgrinberg.com/",
+      "title": "Forgejo hack #2: Integration with Read The Docs",
+      "link": "https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs",
+      "pubDate": "2026-08-30T16:02:08.000Z",
+      "snippet": "In this second Forgejo Hack installment I'll tell you how to connect a git repository that lives in your self-hosted Forgejo instance to Read the Docs, so that commits to the repository automatically ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "ActivityBot is the recipient of an NLnet grant!",
+      "link": "https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/",
+      "pubDate": "2026-08-30T11:34:55.000Z",
+      "snippet": "Back in February, I applied for NLnet's Next Generation Zero grant. They were looking for Fediverse projects to help rewild the social media landscape. Or, as they describe it:\nReclaim the public natu...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/NGI-logos.webp",
+      "commentsUrl": null
+    }
+  ]
+}
