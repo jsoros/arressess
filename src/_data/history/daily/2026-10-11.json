@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-11",
+  "type": "daily",
+  "articleCount": 12,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "link": "https://status.yandex.cloud/en/incidents/2136",
+      "pubDate": "2026-10-11T07:34:45.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50040547"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "LineageOS 24.0",
+      "link": "https://lineageos.org/Changelog-32/",
+      "pubDate": "2026-10-11T06:18:59.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50040276"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Dwarf Fortress uses version control now",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "pubDate": "2026-10-11T00:52:37.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "pubDate": "2026-10-11T00:45:49.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50038623"
+    },
+    {
+      "feedTitle": "Sindre Sorhus — Blog",
+      "title": "This Website Is Now Made in Swift",
+      "link": "https://sindresorhus.com/blog/swift-website",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "snippet": "SwiftUI-like components, styles as modifiers, and a compiler that catches broken links before visitors do. How this site is made, and why I love working on it....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "pubDate": "2026-10-10T23:58:04.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "pubDate": "2026-10-10T22:50:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50037949"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "pubDate": "2026-10-10T20:31:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50036864"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "pubDate": "2026-10-10T15:47:01.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50034081"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Some quick thoughts on Unit Testing ActivityPub",
+      "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
+      "pubDate": "2026-10-10T11:34:15.000Z",
+      "snippet": "I'll be radically honest here - I never really got the idea of \"Test Driven Development\". I'm much more of a \"telnet into production and damn the consequences\" kind of guy. Look, it's much more fun an...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=75774&amp;HTTP_REFERER=Atom",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "pubDate": "2026-10-10T10:52:09.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50031614"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "link": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+      "pubDate": "2026-10-10T09:55:43.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50031289"
+    }
+  ]
+}
