@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-12",
+  "type": "daily",
+  "articleCount": 16,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "pubDate": "2026-10-12T07:28:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50052638"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "link": "https://github.com/snuri00/ps2-web-recomp",
+      "pubDate": "2026-10-12T06:46:53.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50052251"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Type-safe HTML templating in Zig",
+      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "pubDate": "2026-10-12T05:02:34.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50051573"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon OpenSearch Service now supports index-level encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
+      "pubDate": "2026-10-12T02:30:00.000Z",
+      "snippet": "Amazon OpenSearch Service now supports index-level encryption, letting you encrypt each index at rest with its own AWS Key Management Service (AWS KMS) customer managed key. This helps you protect dat...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Klippenstein Crosspost: Terms of Service",
+      "link": "https://www.kenklippenstein.com/p/klippenstein-crosspost-terms-of-service",
+      "pubDate": "2026-10-12T01:32:17.000Z",
+      "snippet": "Klippenstein Crosspost is a private tool that Ken Klippenstein uses to publish his own videos to his own social media accounts....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Klippenstein Crosspost: Privacy Policy",
+      "link": "https://www.kenklippenstein.com/p/klippenstein-crosspost-privacy-policy",
+      "pubDate": "2026-10-12T01:32:16.000Z",
+      "snippet": "Klippenstein Crosspost is a personal publishing tool operated by Ken Klippenstein....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Doory – Open-Source Canva",
+      "link": "https://github.com/shaongitbd/doory",
+      "pubDate": "2026-10-12T00:48:27.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50049872"
+    },
+    {
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "LGTM. Ship it.",
+      "link": "https://www.readysetcloud.io/newsletter/237/",
+      "pubDate": "2026-10-12T00:00:00.000Z",
+      "snippet": "🦸 Community Superhero\nOur community superhero this week is Deanna Tran, senior software engineer at Cloudflare. Deanna has a background in software engineering and community leadership, and she’s cur...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "pubDate": "2026-10-11T22:33:39.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50048642"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Cartographers of North Korea (2019)",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "pubDate": "2026-10-11T19:46:40.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50047091"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "link": "https://nanolathe.gg",
+      "pubDate": "2026-10-11T18:04:47.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50045984"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "pubDate": "2026-10-11T13:16:45.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50043026"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Choreographic Programming in Rust",
+      "link": "https://github.com/hibanaworks/hibana",
+      "pubDate": "2026-10-11T13:05:03.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50042936"
+    },
+    {
+      "feedTitle": "NON-ZERO SUM GAMES BLOG",
+      "title": "NEUTROPIA",
+      "link": "https://nonzerosum.games/neutropia/",
+      "pubDate": "2026-10-11T12:00:00.000Z",
+      "snippet": "a non-zero-sum 'game' game...",
+      "imageUrl": "https://nonzerosum.games/Images/Social/neutropia.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "I paid people to try and follow my README",
+      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "pubDate": "2026-10-11T11:34:39.000Z",
+      "snippet": "Developers suck at writing documentation. We like to say RTFM but often there ain't no FM to R. At best we have a half-arsed collection of notes, some obsolete tips, and a link to a desolate forum ful...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=76333&amp;HTTP_REFERER=Atom",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "link": "https://github.com/Geramy/LemonSeed-Studio",
+      "pubDate": "2026-10-11T10:18:18.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50041573"
+    }
+  ]
+}
