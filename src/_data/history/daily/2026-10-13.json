@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-13",
+  "type": "daily",
+  "articleCount": 39,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
+      "pubDate": "2026-10-13T07:28:34.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50068036"
+    },
+    {
+      "feedTitle": "alexwlchan",
+      "title": "Organising my cross-stitch patterns",
+      "link": "https://alexwlchan.net/2026/cross-stitch-patterns/",
+      "pubDate": "2026-10-13T06:24:07.000Z",
+      "snippet": "I have a lot of digital cross-stitch patterns and until recently they were a mess.\nMy “collection” was a series of several hundred PDFs, disorganised and spread across my disk.\nRecently, I was looking...",
+      "imageUrl": "https://alexwlchan.net/images/2026/cross-stitch-patterns_1x.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Hittite royal archive found in Turkey",
+      "link": "https://www.thehistoryblog.com/archives/77107",
+      "pubDate": "2026-10-13T06:02:51.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50067414"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "link": "https://github.com/bherbruck/solidcraft",
+      "pubDate": "2026-10-13T00:11:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50064840"
+    },
+    {
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "Give your agent an agenda",
+      "link": "https://www.readysetcloud.io/blog/allen.helton/give-your-agent-an-agenda/",
+      "pubDate": "2026-10-13T00:00:00.000Z",
+      "snippet": "I’m gonna go out on a limb and say you’ve probably used an AI agent before. I’m gonna go out on an even further limb and say you’ve probably built an AI agent before....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
+      "title": "Lambda Web Functions as queue consumers",
+      "link": "https://awsteele.com/blog/2026/10/12/lambda-web-functions-as-queue-consumers.html",
+      "pubDate": "2026-10-12T23:55:00.000Z",
+      "snippet": "[Lambda Web Functions][main-post] bill for the CPU you actually use, and queue consumers spend most of their time waiting on something else. So is an SQS consumer cheaper as a Web Function than as a r...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
+      "title": "Go on Lambda Web Functions via execve()",
+      "link": "https://awsteele.com/blog/2026/10/12/go-on-lambda-web-functions-via-execve.html",
+      "pubDate": "2026-10-12T23:50:00.000Z",
+      "snippet": "In [my notes on Lambda Web Functions][main-post-ric] I mentioned that the runtime contract is: Lambda import()s /var/task/index.js, then waits for something to accept a TCP connection on AWS_LAMBDA_HT...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
+      "title": "Some notes on Lambda Web Functions",
+      "link": "https://awsteele.com/blog/2026/10/12/some-notes-on-lambda-web-functions.html",
+      "pubDate": "2026-10-12T23:45:00.000Z",
+      "snippet": "AWS launched Lambda Web Functions [a few hours ago][launch]. You give it a Node.js app that listens on a port and Lambda runs it as-is behind an HTTPS URL, with many concurrent requests per execution ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
+      "link": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/",
+      "pubDate": "2026-10-12T23:40:26.000Z",
+      "snippet": "AWS Glue Data Quality is now available natively on Amazon EMR, bundled in AWS runtime for Apache Spark (emr-spark-8.1.0). Write the same DQDL rulesets you use in AWS Glue directly in your Amazon EMR S...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/09/BDB-6303-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
+      "pubDate": "2026-10-12T23:10:00.000Z",
+      "snippet": "Starting today, you can deliver web applications built on AWS Lambda Web Functions through CloudFront's global edge network.  \nWith CloudFront in front of a Lambda Web Function, you get TLS terminatio...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS News Blog",
+      "title": "Announcing AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "pubDate": "2026-10-12T22:34:47.000Z",
+      "snippet": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distrib...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
+      "pubDate": "2026-10-12T22:30:00.000Z",
+      "snippet": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Frankfurt) and Europe (Stockholm) Regions. G7 instances...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
+      "pubDate": "2026-10-12T22:28:00.000Z",
+      "snippet": "Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer conversations, such as booking identifiers, claim number...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "link": "https://github.com/prabanta-dev/janas",
+      "pubDate": "2026-10-12T22:05:43.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50063717"
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+      "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+      "pubDate": "2026-10-12T21:58:44.000Z",
+      "snippet": "Amazon GuardDuty Extended Threat Detection correlates weak GuardDuty signals into a single, critical-severity attack sequence finding when their composition crosses a threshold of credibility. On May ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/05/vuln-indicators-location-Figure-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "pubDate": "2026-10-12T21:40:18.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50063427"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "pubDate": "2026-10-12T21:35:35.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50063365"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Who is vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "pubDate": "2026-10-12T21:12:43.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50063138"
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+      "pubDate": "2026-10-12T20:13:06.000Z",
+      "snippet": "You want to set a cryptographic algorithm policy and stop non-compliant choices from being made in your Amazon Web Services (AWS) environment. This post shows you how. As you adopt post-quantum crypto...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/08/Harshvardhan-Chunawala.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
+      "pubDate": "2026-10-12T20:12:53.000Z",
+      "snippet": "Software supply chain attacks have grown in both frequency and sophistication. Recent high-profile compromises of build systems and open source dependencies demonstrate that attackers increasingly tar...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/08/Quantum-resistant-signing-part-1-Figure-1-scaled.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "pubDate": "2026-10-12T19:40:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50061859"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "pubDate": "2026-10-12T19:36:02.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50061791"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda announces Lambda Web Functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/",
+      "pubDate": "2026-10-12T19:30:00.000Z",
+      "snippet": "AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP s...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "pubDate": "2026-10-12T18:15:38.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "pubDate": "2026-10-12T17:52:22.000Z",
+      "snippet": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and Op...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-21759-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "pubDate": "2026-10-12T17:43:59.000Z",
+      "snippet": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about yo...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "link": "https://news.ycombinator.com/item?id=50059096",
+      "pubDate": "2026-10-12T16:46:34.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50059096"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "pubDate": "2026-10-12T16:13:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50058528"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GLM-Legal",
+      "link": "https://z.ai/blog/glm-legal",
+      "pubDate": "2026-10-12T16:11:45.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50058507"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
+      "pubDate": "2026-10-12T16:00:00.000Z",
+      "snippet": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore\nAmazon Bedrock AgentCore memory now prices short-term memory (STM) based on the data your agents ingest, retrieve...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "web-edit 0.1a0",
+      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "pubDate": "2026-10-12T15:54:36.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+      "pubDate": "2026-10-12T15:51:46.000Z",
+      "snippet": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then exte...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22079-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+      "pubDate": "2026-10-12T15:50:14.000Z",
+      "snippet": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatib...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22045-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Build cross-account streaming pipelines with the Amazon Kinesis Producer Library and Kinesis Client Library",
+      "link": "https://aws.amazon.com/blogs/big-data/build-cross-account-streaming-pipelines-with-the-amazon-kinesis-producer-library-and-kinesis-client-library/",
+      "pubDate": "2026-10-12T15:48:07.000Z",
+      "snippet": "Learn how to build an enterprise-scale cross-account streaming pipeline with Amazon Kinesis Data Streams using the Kinesis Producer Library (KPL) and Kinesis Client Library (KCL) across three separate...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/01/BDB-6149-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "DEV Community: Vadym Kazulkin",
+      "title": "Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 8 Using Container Image",
+      "link": "https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-8-using-20oo",
+      "pubDate": "2026-10-12T15:00:00.000Z",
+      "snippet": "Introduction\n\n\nSeveral years ago, I wrote an article series Lambda function using Docker Container Image, where I explained how to convert an application deployed on AWS Lambda as a managed Java runti...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Solar panels that plug into your wall",
+      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "pubDate": "2026-10-12T14:19:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50056822"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "link": "https://github.com/h0m3us3r/w1700k-sdr",
+      "pubDate": "2026-10-12T12:41:58.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50055593"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "pubDate": "2026-10-12T12:16:42.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Citroen revives the 2CV for an electric age",
+      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "pubDate": "2026-10-12T12:09:09.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50055220"
+    }
+  ]
+}
