@@ -1,358 +1,367 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "type": "daily",
-  "articleCount": 39,
+  "articleCount": 40,
   "articles": [
     {
       "feedTitle": "Hacker News",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "link": "https://blog.character.ai/an-update-on-character-ai/",
-      "pubDate": "2026-10-13T07:28:34.000Z",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "link": "https://github.com/android/ndk/issues/2260",
+      "pubDate": "2026-10-14T06:18:01.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50068036"
-    },
-    {
-      "feedTitle": "alexwlchan",
-      "title": "Organising my cross-stitch patterns",
-      "link": "https://alexwlchan.net/2026/cross-stitch-patterns/",
-      "pubDate": "2026-10-13T06:24:07.000Z",
-      "snippet": "I have a lot of digital cross-stitch patterns and until recently they were a mess.\nMy “collection” was a series of several hundred PDFs, disorganised and spread across my disk.\nRecently, I was looking...",
-      "imageUrl": "https://alexwlchan.net/images/2026/cross-stitch-patterns_1x.png",
-      "commentsUrl": null
+      "commentsUrl": "https://news.ycombinator.com/item?id=50083130"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Hittite royal archive found in Turkey",
-      "link": "https://www.thehistoryblog.com/archives/77107",
-      "pubDate": "2026-10-13T06:02:51.000Z",
+      "title": "Felix Rieseberg Homepage",
+      "link": "https://felixrieseberg.com/",
+      "pubDate": "2026-10-14T04:42:33.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50067414"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50082470"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "link": "https://github.com/bherbruck/solidcraft",
-      "pubDate": "2026-10-13T00:11:04.000Z",
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "link": "https://strafe.chat/",
+      "pubDate": "2026-10-14T03:28:00.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50064840"
-    },
-    {
-      "feedTitle": "Posts on Ready, Set, Cloud!",
-      "title": "Give your agent an agenda",
-      "link": "https://www.readysetcloud.io/blog/allen.helton/give-your-agent-an-agenda/",
-      "pubDate": "2026-10-13T00:00:00.000Z",
-      "snippet": "I’m gonna go out on a limb and say you’ve probably used an AI agent before. I’m gonna go out on an even further limb and say you’ve probably built an AI agent before....",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
-      "title": "Lambda Web Functions as queue consumers",
-      "link": "https://awsteele.com/blog/2026/10/12/lambda-web-functions-as-queue-consumers.html",
-      "pubDate": "2026-10-12T23:55:00.000Z",
-      "snippet": "[Lambda Web Functions][main-post] bill for the CPU you actually use, and queue consumers spend most of their time waiting on something else. So is an SQS consumer cheaper as a Web Function than as a r...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
-      "title": "Go on Lambda Web Functions via execve()",
-      "link": "https://awsteele.com/blog/2026/10/12/go-on-lambda-web-functions-via-execve.html",
-      "pubDate": "2026-10-12T23:50:00.000Z",
-      "snippet": "In [my notes on Lambda Web Functions][main-post-ric] I mentioned that the runtime contract is: Lambda import()s /var/task/index.js, then waits for something to accept a TCP connection on AWS_LAMBDA_HT...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Aidan Steele’s blog (usually about AWS)",
-      "title": "Some notes on Lambda Web Functions",
-      "link": "https://awsteele.com/blog/2026/10/12/some-notes-on-lambda-web-functions.html",
-      "pubDate": "2026-10-12T23:45:00.000Z",
-      "snippet": "AWS launched Lambda Web Functions [a few hours ago][launch]. You give it a Node.js app that listens on a port and Lambda runs it as-is behind an HTTPS URL, with many concurrent requests per execution ...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS Big Data Blog",
-      "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
-      "link": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/",
-      "pubDate": "2026-10-12T23:40:26.000Z",
-      "snippet": "AWS Glue Data Quality is now available natively on Amazon EMR, bundled in AWS runtime for Apache Spark (emr-spark-8.1.0). Write the same DQDL rulesets you use in AWS Glue directly in your Amazon EMR S...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/09/BDB-6303-1.jpg",
-      "commentsUrl": null
+      "commentsUrl": "https://news.ycombinator.com/item?id=50082021"
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
-      "pubDate": "2026-10-12T23:10:00.000Z",
-      "snippet": "Starting today, you can deliver web applications built on AWS Lambda Web Functions through CloudFront's global edge network.  \nWith CloudFront in front of a Lambda Web Function, you get TLS terminatio...",
+      "title": "AWS Security Hub now supports resource criticality for prioritization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+      "pubDate": "2026-10-14T01:00:00.000Z",
+      "snippet": "Today, AWS Security Hub adds resource criticality to exposure prioritization, helping central security teams focus on the exposures that threaten their most business-critical resources.\nYou can set cr...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "AWS News Blog",
-      "title": "Announcing AWS Lambda Web Functions",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "pubDate": "2026-10-12T22:34:47.000Z",
-      "snippet": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distrib...",
-      "imageUrl": null,
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "Double check your website’s alt texts with a bookmarklet",
+      "link": "https://hamatti.org/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "snippet": "As web developers, we’re constantly working with websites with different types of content and ways to craft that\n  content. Whether it’s a handcrafted blog, a WordPress site or a web app, these days y...",
+      "imageUrl": "https://hamatti.org/assets/img/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/1.png.webp",
       "commentsUrl": null
     },
     {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
-      "pubDate": "2026-10-12T22:30:00.000Z",
-      "snippet": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Frankfurt) and Europe (Stockholm) Regions. G7 instances...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work ",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
-      "pubDate": "2026-10-12T22:28:00.000Z",
-      "snippet": "Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer conversations, such as booking identifiers, claim number...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "link": "https://github.com/prabanta-dev/janas",
-      "pubDate": "2026-10-12T22:05:43.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50063717"
-    },
-    {
-      "feedTitle": "AWS Security Blog",
-      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
-      "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
-      "pubDate": "2026-10-12T21:58:44.000Z",
-      "snippet": "Amazon GuardDuty Extended Threat Detection correlates weak GuardDuty signals into a single, critical-severity attack sequence finding when their composition crosses a threshold of credibility. On May ...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/05/vuln-indicators-location-Figure-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "AI is a tool and using it well takes skill",
-      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "pubDate": "2026-10-12T21:40:18.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50063427"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "pubDate": "2026-10-12T21:35:35.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50063365"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Who is vfmaddrnd231pd?",
-      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "pubDate": "2026-10-12T21:12:43.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50063138"
-    },
-    {
-      "feedTitle": "AWS Security Blog",
-      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
-      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
-      "pubDate": "2026-10-12T20:13:06.000Z",
-      "snippet": "You want to set a cryptographic algorithm policy and stop non-compliant choices from being made in your Amazon Web Services (AWS) environment. This post shows you how. As you adopt post-quantum crypto...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/08/Harshvardhan-Chunawala.jpg",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS Security Blog",
-      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
-      "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
-      "pubDate": "2026-10-12T20:12:53.000Z",
-      "snippet": "Software supply chain attacks have grown in both frequency and sophistication. Recent high-profile compromises of build systems and open source dependencies demonstrate that attackers increasingly tar...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/08/Quantum-resistant-signing-part-1-Figure-1-scaled.jpg",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "pubDate": "2026-10-12T19:40:00.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50061859"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Making big downloads resumable in Firefox",
-      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "pubDate": "2026-10-12T19:36:02.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50061791"
-    },
-    {
-      "feedTitle": "Recent Announcements",
-      "title": "AWS Lambda announces Lambda Web Functions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/",
-      "pubDate": "2026-10-12T19:30:00.000Z",
-      "snippet": "AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP s...",
-      "imageUrl": null,
-      "commentsUrl": null
+      "feedTitle": "Krebs on Security",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "pubDate": "2026-10-13T23:24:53.000Z",
+      "snippet": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 f...",
+      "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png",
+      "commentsUrl": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/#comments"
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "pubDate": "2026-10-12T18:15:38.000Z",
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "pubDate": "2026-10-13T23:00:06.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
+      "feedTitle": "Hacker News",
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "pubDate": "2026-10-13T22:33:33.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50079865"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "llm-gemini 0.35",
+      "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "pubDate": "2026-10-13T22:28:54.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "snippet": "Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively running in your service, available to all customers at n...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Agent Registry now supports custom metadata for registry records",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+      "pubDate": "2026-10-13T21:00:00.000Z",
+      "snippet": "AWS Agent Registry is the centralized, governed catalog for agents, MCP servers, agent skills, gateways, and custom resources within your organization. As organizations scale to hundreds of such resou...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Part 2 – Cybersecurity journeys: What even is this job?",
+      "link": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/",
+      "pubDate": "2026-10-13T20:58:01.000Z",
+      "snippet": "If you’ve ever looked at a list of cybersecurity jobs and felt like none of them fit you, you might just be looking at a short list. Most career guides cover the same few roles, like the analyst watch...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/13/jasonlane-r.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Resolving concurrent write conflicts for Apache Iceberg tables in Amazon Redshift",
+      "link": "https://aws.amazon.com/blogs/big-data/resolving-concurrent-write-conflicts-for-apache-iceberg-tables-in-amazon-redshift/",
+      "pubDate": "2026-10-13T20:16:48.000Z",
+      "snippet": "Amazon Redshift now automatically resolves many concurrent writes to Apache Iceberg tables that don't actually overlap, committing changes that previously failed and had to retry. Learn why these writ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/02/BDB-6258-1-1.jpg",
+      "commentsUrl": null
+    },
+    {
       "feedTitle": "AWS Machine Learning Blog",
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "pubDate": "2026-10-12T17:52:22.000Z",
-      "snippet": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and Op...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-21759-1-1.png",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+      "pubDate": "2026-10-13T20:10:33.000Z",
+      "snippet": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore pay...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/08/ML-21771-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Exclusive: How the Military Will Hack the Election",
+      "link": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+      "pubDate": "2026-10-13T20:04:13.000Z",
+      "snippet": "Task Force Raider’s role in 2026 elections has military officers uneasy...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!pmSC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd361944-16ec-4be5-84f8-19d2585c575c_512x342.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon DCV releases version 2026.0 with RHEL 10 support and new clients",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/",
+      "pubDate": "2026-10-13T19:35:00.000Z",
+      "snippet": "Amazon DCV 2026.0 is now available, adding support for RHEL 10, Rocky Linux 10, CentOS 10, and Ubuntu 26.04 along with a new macOS client and updated Windows and Linux clients. Amazon DCV is a high-pe...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "pubDate": "2026-10-13T19:11:48.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50077020"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources",
+      "pubDate": "2026-10-13T18:54:00.000Z",
+      "snippet": "AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reach directly from the Deadline Cloud monitor. Deadline ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
+      "pubDate": "2026-10-13T18:46:00.000Z",
+      "snippet": "Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API visually without writing code. With this release, all...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Compute Blog",
+      "title": "Exploring AWS Lambda Web Functions for building web applications",
+      "link": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/",
+      "pubDate": "2026-10-13T17:59:52.000Z",
+      "snippet": "Run a standard Node.js web server on AWS Lambda with Lambda Web Functions, a new type of Lambda function. Deploy it with one command or AWS CloudFormation and get a public HTTPS endpoint with no adapt...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/09/30/ComputeBlog-2664-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "serverless – AWS Compute Blog",
+      "title": "Exploring AWS Lambda Web Functions for building web applications",
+      "link": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/",
+      "pubDate": "2026-10-13T17:59:52.000Z",
+      "snippet": "Run a standard Node.js web server on AWS Lambda with Lambda Web Functions, a new type of Lambda function. Deploy it with one command or AWS CloudFormation and get a public HTTPS endpoint with no adapt...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/09/30/ComputeBlog-2664-1.png",
       "commentsUrl": null
     },
     {
       "feedTitle": "GitHub Public Timeline Feed",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "pubDate": "2026-10-12T17:43:59.000Z",
-      "snippet": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about yo...",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "pubDate": "2026-10-13T17:56:33.000Z",
+      "snippet": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: F...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "link": "https://news.ycombinator.com/item?id=50059096",
-      "pubDate": "2026-10-12T16:46:34.000Z",
-      "snippet": "Comments...",
+      "feedTitle": "Brain Baking",
+      "title": "Transparency Metrics Make Moral Decisions Impossible",
+      "link": "https://brainbaking.com/post/2026/10/transparency-metrics-make-moral-decisions-impossible/",
+      "pubDate": "2026-10-13T17:54:24.000Z",
+      "snippet": "The other day, a colleague scolded me for being a hypocrite when I mentioned that his Claude Code subscription directly supports fascists in USA. He wasn’t wrong. The first thing he asked was: which l...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50059096"
+      "commentsUrl": "https://dosgame.club/@jefklak"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+      "pubDate": "2026-10-13T17:17:25.000Z",
+      "snippet": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/08/21638-1.png",
+      "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "A Modern Web App in C",
-      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "pubDate": "2026-10-12T16:13:10.000Z",
+      "title": "Show HN: How random are you?",
+      "link": "https://lab.specr.net/rigged-draw/",
+      "pubDate": "2026-10-13T16:57:57.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50058528"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50074909"
+    },
+    {
+      "feedTitle": "The Pragmatic Engineer: Deepdives",
+      "title": "Building resilient AI-powered software, and planning for when things go wrong",
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "pubDate": "2026-10-13T16:03:33.000Z",
+      "snippet": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!a_hF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e26f65-4b0a-4f2c-86a1-2d0f00b67a60_1456x1762.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+      "pubDate": "2026-10-13T16:03:31.000Z",
+      "snippet": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the result...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/ML-21130-1.png",
+      "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "GLM-Legal",
-      "link": "https://z.ai/blog/glm-legal",
-      "pubDate": "2026-10-12T16:11:45.000Z",
+      "title": "Gemini 4 Argon",
+      "link": "https://deepmind.google/models/gemini/",
+      "pubDate": "2026-10-13T16:03:16.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50058507"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50073879"
+    },
+    {
+      "feedTitle": "AWS News Blog",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "pubDate": "2026-10-13T15:59:06.000Z",
+      "snippet": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon E...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
+      "pubDate": "2026-10-13T15:54:49.000Z",
+      "snippet": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/08/ML-21795-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
+      "pubDate": "2026-10-13T15:52:20.000Z",
+      "snippet": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22076-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "pubDate": "2026-10-13T15:49:56.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50073633"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/",
+      "pubDate": "2026-10-13T15:17:09.000Z",
+      "snippet": "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating T...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/08/ML-22058-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "pubDate": "2026-10-13T15:12:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50072994"
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
-      "pubDate": "2026-10-12T16:00:00.000Z",
-      "snippet": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore\nAmazon Bedrock AgentCore memory now prices short-term memory (STM) based on the data your agents ingest, retrieve...",
+      "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
+      "pubDate": "2026-10-13T14:00:00.000Z",
+      "snippet": "Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a single natural-language workflow. The AWS AI/ML skill ...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "web-edit 0.1a0",
-      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "pubDate": "2026-10-12T15:54:36.000Z",
+      "title": "Quoting Geoffrey Huntley",
+      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "pubDate": "2026-10-13T13:32:00.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "pubDate": "2026-10-12T15:51:46.000Z",
-      "snippet": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then exte...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22079-1.png",
+      "feedTitle": "Hacker News",
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "pubDate": "2026-10-13T13:31:43.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50071466"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
+      "link": "https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/",
+      "pubDate": "2026-10-13T11:34:37.000Z",
+      "snippet": "The thing about Romeo and Juliet is that it is a true story. It isn't literally true, but it is literary true. We see the same motif repeated throughout all cultures and all times. Caroline Lea (writi...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/randj.webp",
       "commentsUrl": null
     },
     {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "pubDate": "2026-10-12T15:50:14.000Z",
-      "snippet": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatib...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22045-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS Big Data Blog",
-      "title": "Build cross-account streaming pipelines with the Amazon Kinesis Producer Library and Kinesis Client Library",
-      "link": "https://aws.amazon.com/blogs/big-data/build-cross-account-streaming-pipelines-with-the-amazon-kinesis-producer-library-and-kinesis-client-library/",
-      "pubDate": "2026-10-12T15:48:07.000Z",
-      "snippet": "Learn how to build an enterprise-scale cross-account streaming pipeline with Amazon Kinesis Data Streams using the Kinesis Producer Library (KPL) and Kinesis Client Library (KCL) across three separate...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/01/BDB-6149-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "DEV Community: Vadym Kazulkin",
-      "title": "Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 8 Using Container Image",
-      "link": "https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-8-using-20oo",
-      "pubDate": "2026-10-12T15:00:00.000Z",
-      "snippet": "Introduction\n\n\nSeveral years ago, I wrote an article series Lambda function using Docker Container Image, where I explained how to convert an application deployed on AWS Lambda as a managed Java runti...",
+      "feedTitle": "AWS Fundamentals",
+      "title": "Your NAT Gateway Is a Tax on Everything You Download",
+      "link": "https://awsfundamentals.com/blog/avoid-nat-gateway-costs",
+      "pubDate": "2026-10-13T09:00:00.000Z",
+      "snippet": "NAT Gateways charge $0.045 for every GB they process, and CI runners, image pulls and package installs add up fast. Learn how to find NAT traffic in Cost Explorer and Flow Logs, move egress-only workl...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "Solar panels that plug into your wall",
-      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "pubDate": "2026-10-12T14:19:04.000Z",
-      "snippet": "Comments...",
+      "feedTitle": "AWS Fundamentals",
+      "title": "Testing Serverless Beyond the Handler",
+      "link": "https://awsfundamentals.com/blog/one-serverless-test-two-modes",
+      "pubDate": "2026-10-13T09:00:00.000Z",
+      "snippet": "A Lambda unit test can pass while the deployed system still fails on IAM, the API authorizer, or the EventBridge rule. Write the scenario once, then run it two ways: in-process against real AWS, and t...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50056822"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "link": "https://github.com/h0m3us3r/w1700k-sdr",
-      "pubDate": "2026-10-12T12:41:58.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50055593"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "pubDate": "2026-10-12T12:16:42.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50055304"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Citroen revives the 2CV for an electric age",
-      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "pubDate": "2026-10-12T12:09:09.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50055220"
+      "commentsUrl": null
     }
   ]
 }
