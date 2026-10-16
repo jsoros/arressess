@@ -1,439 +1,403 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "type": "daily",
-  "articleCount": 48,
+  "articleCount": 44,
   "articles": [
     {
-      "feedTitle": "Full Disclosure",
-      "title": "VestaCP <= 0.9.8-26: authenticated config-parser eval sinks ->\troot RCE (VESTACP-2026-001)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/26",
-      "pubDate": "2026-10-15T07:43:38.000Z",
-      "snippet": "Posted by Bryan Ramirez via Fulldisclosure on Oct 15\nAdvisory ID:   VESTACP-2026-001 / GHSA-m2mc-xwq7-pw72\nProduct:       Vesta Control Panel (VestaCP)\nVersions:      <= 0.9.8-26 (unmaintained since 2...",
+      "feedTitle": "Hacker News",
+      "title": "The Folders Programming Language",
+      "link": "https://danieltemkin.com/esolangs/folders",
+      "pubDate": "2026-10-16T05:11:28.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50114342"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "link": "https://lwn.net/Articles/1094721/",
+      "pubDate": "2026-10-16T01:56:37.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50112887"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "pubDate": "2026-10-16T01:43:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50112739"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Thank You, Deno",
+      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "pubDate": "2026-10-16T00:52:40.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50112331"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "pubDate": "2026-10-16T00:52:35.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50112330"
+    },
+    {
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "I really like how Ultrapool calculates your money rewards",
+      "link": "https://hamatti.org/posts/i-really-like-how-ultrapool-calculates-your-money-rewards/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "snippet": "A surprise gaming extra on the blog. I’ve been recently mostly writing\n  about them in my digital garden\n  but this one I wanted to share here.\n\n\n  I recently picked up\n  Ultrapool\n  and have been pla...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "Full Disclosure",
-      "title": "[SYSS-2026-080]: dcm4che - Path Traversal (CWE-22)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/25",
-      "pubDate": "2026-10-15T07:43:25.000Z",
-      "snippet": "Posted by Matthias Deeg via Fulldisclosure on Oct 15\nAdvisory ID:               SYSS-2026-080\nProduct:                   dcm4che\nManufacturer:              J4Care\nAffected Version(s):       5.35.0\nTes...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[SYSS-2026-079]: dcm4che - Path Traversal (CWE-22)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/24",
-      "pubDate": "2026-10-15T07:43:24.000Z",
-      "snippet": "Posted by Matthias Deeg via Fulldisclosure on Oct 15\nAdvisory ID:               SYSS-2026-079\nProduct:                   dcm4che\nManufacturer:              J4Care\nAffected Version(s):       5.35.0\nTes...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[SYSS-2026-078]: dcm4che - Path Traversal (CWE-22)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/23",
-      "pubDate": "2026-10-15T07:43:23.000Z",
-      "snippet": "Posted by Matthias Deeg via Fulldisclosure on Oct 15\nAdvisory ID:               SYSS-2026-078\nProduct:                   dcm4che\nManufacturer:              J4Care\nAffected Version(s):       5.35.0\nTes...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[SYSS-2026-077]: dcm4che - Path Traversal (CWE-22)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/22",
-      "pubDate": "2026-10-15T07:43:22.000Z",
-      "snippet": "Posted by Matthias Deeg via Fulldisclosure on Oct 15\nAdvisory ID:               SYSS-2026-077\nProduct:                   dcm4che\nManufacturer:              J4Care\nAffected Version(s):       5.35.0\nTes...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Synametrics Syncrify 6.2 build 1178 authenticated PublicLink chunk-upload path traversal to /etc/cron.d and root command execution (7.5)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/21",
-      "pubDate": "2026-10-15T07:42:13.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in Synametrics\nSyncrify 6.2 build 1178, the closed-source incremental backup and\nfil...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] South River Technologies Titan MFT Server 26.0.0 first-run administrator setup chained to job post-command injection, NT AUTHORITY\\SYSTEM (8.1)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/20",
-      "pubDate": "2026-10-15T07:42:12.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability chain in South\nRiver Technologies Titan MFT Server 26.0.0.364, the NextGen generatio...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] SmartBear Collaborator Server 15.1.15101 authenticated DOORS/Simulink review-file upload zip-slip to anonymous webroot Groovy Server Page execution as uid 1001 (7.5)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/19",
-      "pubDate": "2026-10-15T07:42:10.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in SmartBear\nCollaborator Server 15.1.15101, the closed-source peer and technical co...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] PacsOne Server 7.3.9 authenticated DICOMweb STOW-RS SOP Instance UID path traversal to www-data code execution on a PACS host (7.2)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/18",
-      "pubDate": "2026-10-15T07:42:09.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in PacsOne\nServer 7.3.9, Premium Edition, Linux x86-64 distribution, the closed-sour...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Maian Pal 2.1 product image upload with no extension allow-list to PHP webshell and www-data uid 33 code execution (7.2, PR:H)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/17",
-      "pubDate": "2026-10-15T07:42:08.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in Maian Pal\n2.1, the self-hosted PHP shopping-cart script from Maian Media (United ...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Maian Guardian 2.1 license generator projid command injection to www-data uid 33 code execution (7.2, PR:H)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/16",
-      "pubDate": "2026-10-15T07:42:07.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in Maian\nGuardian 2.1, the self-hosted licensing system for PHP applications encoded...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Dataedo Portal 26.2.8 with Dataedo Agent 26.2.8 unrestricted scheduler job-type deserialization to Agent-host command execution (8.1)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/15",
-      "pubDate": "2026-10-15T07:42:05.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in Dataedo\nPortal 26.2.8 together with Dataedo Agent 26.2.8, the closed-source enter...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] CloudPanel 2.5.4-3 site-settings rootDirectory nginx virtual-host injection to host root code execution (8.8)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/14",
-      "pubDate": "2026-10-15T07:42:04.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in CloudPanel\nCommunity Edition 2.5.4-3+clp-bookworm, the closed-source server-manag...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Auerswald COMmander 6000 / 6000R 8.6D unauthenticated provisioning import zip-slip to root binary hijack and root code execution (9.8)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/13",
-      "pubDate": "2026-10-15T07:42:02.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability in Auerswald\nCOMmander 6000 and COMmander 6000R, firmware 8.6D build 128154, the\nclo...",
-      "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Full Disclosure",
-      "title": "[0day-rubbish] Abyss Web Server X1 2.16.22.0 first-run console credential takeover to configuration-write log-as-CGI command execution (7.5)",
-      "link": "https://seclists.org/fulldisclosure/2026/Oct/12",
-      "pubDate": "2026-10-15T07:42:01.000Z",
-      "snippet": "Posted by disclosure via Fulldisclosure on Oct 15\n0day Rubbish Research Team is publicly disclosing a vulnerability chain in\nAbyss Web Server X1 2.16.22.0, the free edition of the closed-source Abyss\n...",
+      "feedTitle": "Welcome to Tara&#39;s Website on Tara&#39;s Website",
+      "title": "When strongSwan met Diffusion Restreinte on Stormshield",
+      "link": "https://www.tara.sh/posts/2026/2026-10-16_strongswan_stormshield/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "snippet": "When strongSwan met Diffusion Restreinte on Stormshield Sometimes infrastructure problems end with a large architectural change.\nSometimes they end with changing one constant from 32 to 16.\nLet me giv...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "link": "https://github.com/awslabs/aidlc-workflows",
-      "pubDate": "2026-10-15T07:20:39.000Z",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "pubDate": "2026-10-15T23:37:42.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50100387"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50111852"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-      "link": "https://github.com/andunieee/flipflop",
-      "pubDate": "2026-10-15T04:25:28.000Z",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "link": "https://github.com/johnrash/bebox",
+      "pubDate": "2026-10-15T23:22:53.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50099136"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "The Double Headed Stack Allocator",
-      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "pubDate": "2026-10-15T02:06:36.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50098274"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "pubDate": "2026-10-14T23:59:37.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50097369"
-    },
-    {
-      "feedTitle": "Ken Klippenstein",
-      "title": "Trump Dons Executioner Hood",
-      "link": "https://www.kenklippenstein.com/p/trump-dons-executioner-hood",
-      "pubDate": "2026-10-14T22:47:44.000Z",
-      "snippet": "Firing squad execution of Nidal Hasan gives president intimate role...",
-      "imageUrl": "https://substackcdn.com/image/fetch/$s_!fdhs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7437ae2-9810-49ee-916b-da9b63592eec_1600x900.jpeg",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Show HN: Ito – Build Terminal UIs in Lua",
-      "link": "https://uji.sh/ito/",
-      "pubDate": "2026-10-14T22:23:53.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50096300"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50111742"
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "Amazon CloudWatch announces log routing and chained log parsers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
-      "pubDate": "2026-10-14T22:14:00.000Z",
-      "snippet": "Amazon CloudWatch now supports conditional log routing and chained parsers via pipelines, giving you more control over how log data is transformed and which CloudWatch log group it's sent to. CloudWat...",
+      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+      "pubDate": "2026-10-15T20:40:00.000Z",
+      "snippet": "Web Search on Amazon Bedrock AgentCore is now available in four additional AWS Regions: US East (Ohio), US West (Oregon), Asia Pacific (Sydney), and AWS GovCloud (US-West). Web Search is a fully manag...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Tiny Little Office",
-      "link": "https://tinylittleoffice.com/",
-      "pubDate": "2026-10-14T22:10:08.000Z",
+      "title": "What I self-host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "pubDate": "2026-10-15T20:23:25.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50096142"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50109715"
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-      "pubDate": "2026-10-14T22:00:00.000Z",
-      "snippet": "Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio environment - no traditional AWS account setup, no cred...",
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+      "pubDate": "2026-10-15T20:10:00.000Z",
+      "snippet": "Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio environment - no traditional AWS account setup and no c...",
       "imageUrl": null,
       "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+      "pubDate": "2026-10-15T20:00:00.000Z",
+      "snippet": "Amazon Elastic Compute Cloud (Amazon EC2) T8i instances are now available in South America (São Paulo). These instances are powered by custom sixth generation Intel Xeon 6 processors, available exclus...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "pubDate": "2026-10-15T19:55:49.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50109375"
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Tree Appreciator",
-      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "pubDate": "2026-10-14T21:23:01.000Z",
+      "title": "Chirp Pong",
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "pubDate": "2026-10-15T19:47:52.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "The next developer interface is ambient intelligence",
+      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "pubDate": "2026-10-15T19:39:27.000Z",
+      "snippet": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.\nThe post The next developer interf...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
       "feedTitle": "Hacker News",
-      "title": "OpenCode 2.0",
-      "link": "https://anoma.ly/notes/opencode-2-0/",
-      "pubDate": "2026-10-14T20:48:24.000Z",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "pubDate": "2026-10-15T19:21:38.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50094994"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50108872"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon DynamoDB Streams now supports timestamp-based stream processing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing",
+      "pubDate": "2026-10-15T18:30:00.000Z",
+      "snippet": "Amazon DynamoDB Streams now supports timestamp-based stream processing, enabling you to begin reading stream records from a specific point in time. Previously, you could only start from the oldest ret...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda Durable Execution SDK for Go is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/",
+      "pubDate": "2026-10-15T18:23:00.000Z",
+      "snippet": "Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Go, enabling Go developers to build resilient, long-running workflows using Lambda durable functions. With thi...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "dbt and Amazon Redshift Data Sharing: Multi-cluster pipelines without moving a byte",
+      "link": "https://aws.amazon.com/blogs/big-data/dbt-and-amazon-redshift-data-sharing-multi-cluster-pipelines-without-moving-a-byte/",
+      "pubDate": "2026-10-15T18:01:07.000Z",
+      "snippet": "Learn how to set up Amazon Redshift Data Sharing between a producer and consumer cluster and use dbt Cloud to transform the shared data into analytics-ready models, with live, zero-copy access and no ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/14/BDB-6295-1-3.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Muse Spark Open model now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/",
+      "pubDate": "2026-10-15T18:00:00.000Z",
+      "snippet": "Meta's Muse Spark Open is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This coding-optimized open-weight model from Meta is pur...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "pubDate": "2026-10-15T18:00:00.000Z",
+      "snippet": "Put native GitHub features to work to review outside collaborator access and archive stale repositories.\nThe post Staying Evergreen: How we automated secure access and repo hygiene in a shared org app...",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "pubDate": "2026-10-15T17:47:39.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50107379"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "pubDate": "2026-10-15T17:43:35.000Z",
+      "snippet": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the S...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/15/ML-22194-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS HealthOmics now supports shared VPCs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/",
+      "pubDate": "2026-10-15T17:42:00.000Z",
+      "snippet": "AWS HealthOmics now supports sharing VPCs across accounts, enabling your workflows to access resources in Amazon Virtual Private Clouds (VPCs) managed by other AWS accounts with AWS Resource Access Ma...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions",
+      "pubDate": "2026-10-15T17:34:00.000Z",
+      "snippet": "Amazon Time Sync Service introduces support for microsecond-accurate time on 135 additional EC2 instance types—spanning 12 instance families—in all commercial regions. Built on Amazon's proven network...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region",
+      "pubDate": "2026-10-15T17:00:00.000Z",
+      "snippet": "Today, AWS Transform for full-stack Windows modernization adds support for cross-region deployment of converted Amazon Aurora PostgreSQL databases and is available in seven additional AWS Regions. Tog...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions",
+      "pubDate": "2026-10-15T16:40:00.000Z",
+      "snippet": "Starting today, Amazon MSK Connect and the AWS Glue Schema Registry are available in the AWS European Sovereign Cloud (Germany) region. Together with Amazon MSK Standard brokers, already available in ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "pubDate": "2026-10-15T16:24:52.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50106023"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "pubDate": "2026-10-15T16:11:36.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50105777"
     },
     {
       "feedTitle": "AWS Security Blog",
-      "title": "Penetration testing every deployment with AWS Continuum",
-      "link": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
-      "pubDate": "2026-10-14T20:21:52.000Z",
-      "snippet": "Most security tooling that fits into a CI/CD pipeline—static analysis (SAST), software composition analysis (SCA), and dynamic scanners (DAST)—flags potential issues from patterns and signatures. A fl...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/12/pipeline-gate-figure-1-v2.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "GitHub Public Timeline Feed",
-      "title": "GitHub availability report: September 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-      "pubDate": "2026-10-14T20:01:35.000Z",
-      "snippet": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.  \nThe post GitHub availability report: September 2026 appeared first on The GitHub Blog....",
-      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/09-13-Graph-Incident5334.png?resize=1024%2C451",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS News Blog",
-      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
-      "pubDate": "2026-10-14T19:30:48.000Z",
-      "snippet": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace and v0 by Vercel....",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/10/06/screenshot-1-vercel-marketplace-aws.jpg",
+      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+      "link": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+      "pubDate": "2026-10-15T16:10:14.000Z",
+      "snippet": "We applied AWS Security Agent (now part of AWS Continuum), our autonomous penetration-testing agent, to 37 real, recently disclosed Common Vulnerabilities and Exposures (CVEs), each packaged as a live...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/14/continuum-pentest-flow-Figure-1.png",
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Things to know when you get cancer",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "pubDate": "2026-10-14T19:26:30.000Z",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "pubDate": "2026-10-15T16:04:05.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50093568"
-    },
-    {
-      "feedTitle": "GitHub Public Timeline Feed",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "pubDate": "2026-10-14T19:11:33.000Z",
-      "snippet": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 request...",
-      "imageUrl": null,
-      "commentsUrl": null
+      "commentsUrl": "https://news.ycombinator.com/item?id=50105648"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "link": "https://petal.live/",
-      "pubDate": "2026-10-14T18:23:14.000Z",
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "pubDate": "2026-10-15T16:04:01.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50092470"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50105647"
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "ARC Region switch adds four new capabilities",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
-      "pubDate": "2026-10-14T17:38:00.000Z",
-      "snippet": "Amazon Application Recovery Controller (ARC) Region switch helps you orchestrate the failover of multi-Region applications to achieve a bounded recovery time during a Regional impairment. Today, Regio...",
+      "title": "PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/",
+      "pubDate": "2026-10-15T16:00:00.000Z",
+      "snippet": "Starting today, Amazon RDS for PostgreSQL 19 Release Candidate 1 (RC1) is available in the Amazon RDS Database Preview Environment, allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon ...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Recent Announcements",
-      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
-      "pubDate": "2026-10-14T17:04:00.000Z",
-      "snippet": "AWS License Manager  now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Support) instances to Ubuntu Pro available on AWS Marketplace. This allows customers to strengthen their security post...",
+      "title": "Amazon CloudFront announces dual-stack support for VPC origins ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack/",
+      "pubDate": "2026-10-15T16:00:00.000Z",
+      "snippet": "Amazon CloudFront now supports end-to-end IPv6 delivery to origins inside your Amazon Virtual Private Cloud (Amazon VPC), with the new dual-stack VPC origins. With VPC origins, customers keep their Ap...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "Kev Quirk",
-      "title": "Why is Pure Blog so ugly?",
-      "link": "https://kevquirk.com/why-is-pure-blog-so-ugly",
-      "pubDate": "2026-10-14T17:03:00.000Z",
-      "snippet": "Someone emailed recently to tell me that they like the idea of Pure Blog, but they thought the admin interface was \"really ugly\" so they can't use it. Fair enough - beauty is in the eye of the beholde...",
-      "imageUrl": "https://kevquirk.com/content/images/why-is-pure-blog-so-ugly/cupertino-dashboard-light.webp",
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "pubDate": "2026-10-15T15:05:35.000Z",
+      "snippet": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/15/trust-in-depth-hero-image-v2.png",
       "commentsUrl": null
     },
     {
-      "feedTitle": "AWS Compute Blog",
-      "title": "Your serverless attendee’s guide to AWS re:Invent 2026",
-      "link": "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026/",
-      "pubDate": "2026-10-14T16:55:24.000Z",
-      "snippet": "AWS re:Invent 2026 offers an extensive selection of serverless and application integration content, including new AWS Lambda execution models, AI agents as a new kind of serverless consumer, and matur...",
+      "feedTitle": "Hacker News",
+      "title": "Celebrating 70 Years of Fortran",
+      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "pubDate": "2026-10-15T15:03:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50104726"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/",
+      "pubDate": "2026-10-15T15:00:00.000Z",
+      "snippet": "Amazon Redshift long-term retention for system table data through native integration with Amazon S3 Tables is now available in additional AWS Regions. With this feature, you can configure your Redshif...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "serverless – AWS Compute Blog",
-      "title": "Your serverless attendee’s guide to AWS re:Invent 2026",
-      "link": "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026/",
-      "pubDate": "2026-10-14T16:55:24.000Z",
-      "snippet": "AWS re:Invent 2026 offers an extensive selection of serverless and application integration content, including new AWS Lambda execution models, AI agents as a new kind of serverless consumer, and matur...",
+      "feedTitle": "AWS Developer Blog",
+      "title": "AWS IoT Device SDK MQTT 3.1.1 and V1 Service Clients Entering Maintenance Mode",
+      "link": "https://aws.amazon.com/blogs/developer/aws-iot-device-sdk-mqtt-3-1-1-and-v1-service-clients-entering-maintenance-mode/",
+      "pubDate": "2026-10-15T14:41:42.000Z",
+      "snippet": "In alignment with our AWS SDKs and Tools maintenance policy, the AWS IoT Device SDKs MQTT 3.1.1 and V1 service clients will enter maintenance mode in April 2027. There is no planned end-of-support dat...",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "link": "https://go.dev/blog/http-connection-reuse",
-      "pubDate": "2026-10-14T16:29:33.000Z",
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "pubDate": "2026-10-15T14:35:15.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50090369"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50104299"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "pubDate": "2026-10-15T13:23:44.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50103338"
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "pubDate": "2026-10-14T16:26:53.000Z",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "pubDate": "2026-10-15T13:04:03.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "pubDate": "2026-10-14T16:24:07.000Z",
-      "snippet": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human in...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/14/Architecture-2.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "pubDate": "2026-10-14T16:09:00.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50089921"
-    },
-    {
       "feedTitle": "Recent Announcements",
-      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
-      "pubDate": "2026-10-14T16:00:00.000Z",
-      "snippet": "Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of preferred accelerator types, including an option to fa...",
+      "title": "Amazon S3 Metadata now available in six additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions/",
+      "pubDate": "2026-10-15T13:00:00.000Z",
+      "snippet": "Amazon S3 Metadata is now available in six additional AWS Regions: Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Me...",
       "imageUrl": null,
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Krebs on Security",
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "pubDate": "2026-10-14T14:22:49.000Z",
-      "snippet": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, dark...",
-      "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/10/heleketsupportbot.png",
-      "commentsUrl": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/#comments"
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Generate presentations with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
-      "pubDate": "2026-10-14T13:58:43.000Z",
-      "snippet": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-19250-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
-      "pubDate": "2026-10-14T13:53:33.000Z",
-      "snippet": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sourc...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-21356-1-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "AWS Machine Learning Blog",
-      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-      "pubDate": "2026-10-14T13:14:36.000Z",
-      "snippet": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is comple...",
-      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22153-1.png",
-      "commentsUrl": null
-    },
-    {
-      "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "The Internet of Very Cheap Things",
-      "link": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
-      "pubDate": "2026-10-14T11:34:08.000Z",
-      "snippet": "Twelve years ago, I was complaining that IoT devices were too expensive.  Last week I bought a colour changing Zigbee lighbulb for £4. Not a typo - less than a fiver.\nWhile the aipocalypse is devourin...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=75776&amp;HTTP_REFERER=Atom",
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "How Amazon pushes up prices all across the Internet",
-      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "pubDate": "2026-10-14T09:28:17.000Z",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "link": "https://libreboot.org/news/libreboot2610.html",
+      "pubDate": "2026-10-15T12:52:16.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50084757"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50102923"
     }
   ]
 }
