@@ -1,142 +1,169 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "type": "daily",
-  "articleCount": 15,
+  "articleCount": 18,
   "articles": [
     {
       "feedTitle": "Hacker News",
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "pubDate": "2026-10-18T06:50:36.000Z",
+      "title": "Linux 7.3 Released",
+      "link": "https://lwn.net/Articles/1101143/",
+      "pubDate": "2026-10-19T07:23:57.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50138531"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50149392"
+    },
+    {
+      "feedTitle": "passo.uno",
+      "title": "Episode XI of Phase One: Why docs still need an owner, with CT Smith",
+      "link": "https://passo.uno/episode-xi-phase-one-ct-smith-wtfm-docs-owner/",
+      "pubDate": "2026-10-19T06:00:00.000Z",
+      "snippet": "Eleventh episode of the AI & Docs podcast series is up! In this one, Tom and I talk with CT Smith (Docs Goblin) about her book WTFM: A Practical Guide for Standing Up Docs at a Startup, a short, free-...",
+      "imageUrl": null,
+      "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "link": "https://sphinx-six-theta.vercel.app/",
-      "pubDate": "2026-10-18T04:33:49.000Z",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "pubDate": "2026-10-19T05:55:31.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50137950"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50148855"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "pubDate": "2026-10-18T03:19:49.000Z",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "pubDate": "2026-10-19T02:01:16.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50137620"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50147492"
     },
     {
-      "feedTitle": "Hacker News",
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "pubDate": "2026-10-18T00:14:22.000Z",
-      "snippet": "Comments...",
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "Here comes the Doom (but in a good way)",
+      "link": "https://www.readysetcloud.io/newsletter/238/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "snippet": "🦸 Community Superhero\nOur community superhero this week is Eyal Estrin, VP of Cybersecurity at JPMorganChase. Eyal is a prolific writer, having published two books on cloud security and dozens of art...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50136536"
-    },
-    {
-      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
-      "title": "Djangonaut Log 1: Lift-off and first week in Djangonaut Space",
-      "link": "https://hamatti.org/posts/djangonaut-log-1-lift-off-and-first-week-in-djangonaut-space/",
-      "pubDate": "2026-10-18T00:00:00.000Z",
-      "snippet": "This blog post is a weekly update of my journey in Djangonaut Space, an 8-week mentoring\n    program for future open source developers in the Django ecosystem.\n\n\n  \nSeries:\n  \n3… 2… 1… becoming a Djan...",
-      "imageUrl": "https://hamatti.org/assets/img/posts/djangonaut-log-1-lift-off-and-first-week-in-djangonaut-space/1.png.webp",
       "commentsUrl": null
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "Inline rendering with document​.currentScript",
-      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "pubDate": "2026-10-17T21:11:12.000Z",
+      "title": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "pubDate": "2026-10-18T23:43:09.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "link": "https://github.com/openai/codex/issues/25921",
-      "pubDate": "2026-10-17T17:45:08.000Z",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
+      "pubDate": "2026-10-18T23:37:57.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50133231"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50146625"
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Gold is now the top U.S. export",
-      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "pubDate": "2026-10-17T17:06:07.000Z",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "pubDate": "2026-10-18T23:37:54.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50132870"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "link": "https://pele.run/",
-      "pubDate": "2026-10-17T15:55:09.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50132193"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Making chicken transparent using Dorito dust",
-      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "pubDate": "2026-10-17T13:55:28.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50131213"
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "link": "https://celphase.github.io/duck-pond/",
-      "pubDate": "2026-10-17T13:28:46.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50131006"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50146624"
     },
     {
       "feedTitle": "Simon Willison&#39;s Weblog",
-      "title": "web-edit 0.1a2",
-      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "pubDate": "2026-10-17T13:16:49.000Z",
+      "title": "llm-echo 0.5",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "pubDate": "2026-10-18T23:16:16.000Z",
       "snippet": "",
       "imageUrl": null,
       "commentsUrl": null
     },
     {
       "feedTitle": "Hacker News",
-      "title": "Interactive Linear Programming in the Browser",
-      "link": "https://lpviz.net/",
-      "pubDate": "2026-10-17T12:06:44.000Z",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "pubDate": "2026-10-18T21:36:10.000Z",
       "snippet": "Comments...",
       "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50130379"
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145715"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "pubDate": "2026-10-18T21:09:12.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145507"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "pubDate": "2026-10-18T20:48:14.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "pubDate": "2026-10-18T18:48:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50144066"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "pubDate": "2026-10-18T16:32:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50142573"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "RepRapMicron",
+      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "pubDate": "2026-10-18T13:48:48.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50141076"
+    },
+    {
+      "feedTitle": "Robert Birming",
+      "title": "The most precious gift",
+      "link": "https://birming.com/posts/the-most-precious-gift",
+      "pubDate": "2026-10-18T12:49:00.000Z",
+      "snippet": "Time for a coffee\n    \n\nI’m sitting at a café in my neighborhood. A song came on that I think is one of the most beautiful songs ever written. “Jag ger dig min morgon” by Fred Åkerström, which is a co...",
+      "imageUrl": "https://cdn.u.pika.page/NlYSbTvfGKntsdzQX0Eo66-fcrdRxS-RDi9BnlfidPQ/s:1800:1400/fn:IMG_6446/plain/s3://pika-production/sskn1utd8ptznimj76iy4lm9f1vl",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "Year 4 at the Smallholding",
+      "link": "https://kevquirk.com/year-4-at-the-smallholding",
+      "pubDate": "2026-10-18T12:10:00.000Z",
+      "snippet": "So today marks the 4th anniversary of us moving to our 2.5 acre smallholding in north Wales. I can't believe it's been 4 years already - it feels like 5 minutes ago that I was writing my 3 years at th...",
+      "imageUrl": "https://kevquirk.com/content/images/year-4-at-the-smallholding/goats-home-car.webp",
+      "commentsUrl": null
     },
     {
       "feedTitle": "Terence Edenâ€™s Blog",
-      "title": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
-      "link": "https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/",
-      "pubDate": "2026-10-17T11:34:57.000Z",
-      "snippet": "A few months ago, I went to see Dr Hutchinson record his stand-up comedy special for the BBC - it's about his experiences working in the NHS as a Black doctor. As the title of the book implies, some o...",
-      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/are-you-really-the-doctor.avif",
+      "title": "Una Watch TOTP - MFA on your wrist!",
+      "link": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+      "pubDate": "2026-10-18T11:34:08.000Z",
+      "snippet": "Let's get this out of the way first - this is a terrible idea!  I want my two-factor authentication codes to be easily accessible to me, so I've built a watch app which will display them. That's reall...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/MFA.webp",
       "commentsUrl": null
-    },
-    {
-      "feedTitle": "Hacker News",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "pubDate": "2026-10-17T08:21:25.000Z",
-      "snippet": "Comments...",
-      "imageUrl": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=50129045"
     }
   ]
 }

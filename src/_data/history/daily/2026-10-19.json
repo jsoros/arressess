@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-19",
+  "type": "daily",
+  "articleCount": 18,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "Linux 7.3 Released",
+      "link": "https://lwn.net/Articles/1101143/",
+      "pubDate": "2026-10-19T07:23:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50149392"
+    },
+    {
+      "feedTitle": "passo.uno",
+      "title": "Episode XI of Phase One: Why docs still need an owner, with CT Smith",
+      "link": "https://passo.uno/episode-xi-phase-one-ct-smith-wtfm-docs-owner/",
+      "pubDate": "2026-10-19T06:00:00.000Z",
+      "snippet": "Eleventh episode of the AI & Docs podcast series is up! In this one, Tom and I talk with CT Smith (Docs Goblin) about her book WTFM: A Practical Guide for Standing Up Docs at a Startup, a short, free-...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "pubDate": "2026-10-19T05:55:31.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50148855"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "pubDate": "2026-10-19T02:01:16.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50147492"
+    },
+    {
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "Here comes the Doom (but in a good way)",
+      "link": "https://www.readysetcloud.io/newsletter/238/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "snippet": "🦸 Community Superhero\nOur community superhero this week is Eyal Estrin, VP of Cybersecurity at JPMorganChase. Eyal is a prolific writer, having published two books on cloud security and dozens of art...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "pubDate": "2026-10-18T23:43:09.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
+      "pubDate": "2026-10-18T23:37:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50146625"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "pubDate": "2026-10-18T23:37:54.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50146624"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "llm-echo 0.5",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "pubDate": "2026-10-18T23:16:16.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "pubDate": "2026-10-18T21:36:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145715"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "pubDate": "2026-10-18T21:09:12.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145507"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "pubDate": "2026-10-18T20:48:14.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "pubDate": "2026-10-18T18:48:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50144066"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "pubDate": "2026-10-18T16:32:00.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50142573"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "RepRapMicron",
+      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "pubDate": "2026-10-18T13:48:48.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50141076"
+    },
+    {
+      "feedTitle": "Robert Birming",
+      "title": "The most precious gift",
+      "link": "https://birming.com/posts/the-most-precious-gift",
+      "pubDate": "2026-10-18T12:49:00.000Z",
+      "snippet": "Time for a coffee\n    \n\nI’m sitting at a café in my neighborhood. A song came on that I think is one of the most beautiful songs ever written. “Jag ger dig min morgon” by Fred Åkerström, which is a co...",
+      "imageUrl": "https://cdn.u.pika.page/NlYSbTvfGKntsdzQX0Eo66-fcrdRxS-RDi9BnlfidPQ/s:1800:1400/fn:IMG_6446/plain/s3://pika-production/sskn1utd8ptznimj76iy4lm9f1vl",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Kev Quirk",
+      "title": "Year 4 at the Smallholding",
+      "link": "https://kevquirk.com/year-4-at-the-smallholding",
+      "pubDate": "2026-10-18T12:10:00.000Z",
+      "snippet": "So today marks the 4th anniversary of us moving to our 2.5 acre smallholding in north Wales. I can't believe it's been 4 years already - it feels like 5 minutes ago that I was writing my 3 years at th...",
+      "imageUrl": "https://kevquirk.com/content/images/year-4-at-the-smallholding/goats-home-car.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Una Watch TOTP - MFA on your wrist!",
+      "link": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+      "pubDate": "2026-10-18T11:34:08.000Z",
+      "snippet": "Let's get this out of the way first - this is a terrible idea!  I want my two-factor authentication codes to be easily accessible to me, so I've built a watch app which will display them. That's reall...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/MFA.webp",
+      "commentsUrl": null
+    }
+  ]
+}
