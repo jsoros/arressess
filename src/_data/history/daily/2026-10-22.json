@@ -1,0 +1,313 @@
+{
+  "date": "2026-10-22",
+  "type": "daily",
+  "articleCount": 34,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "pubDate": "2026-10-22T05:23:11.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50191507"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "pubDate": "2026-10-22T02:30:52.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50190455"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "pubDate": "2026-10-22T02:18:41.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50190363"
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+      "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
+      "pubDate": "2026-10-22T00:50:04.000Z",
+      "snippet": "On October 21, 2026, the PHP project released emergency fixes for two critical remote code execution (RCE) vulnerabilities in the PHP core runtime, tracked as CVE-2026-109618 and CVE-2026-109619 and c...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/04/04/waddeam.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "The Fly Blog",
+      "title": "SBD: We Have a Filesystem at Home",
+      "link": "https://fly.io/blog/sprites-block-device/",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "snippet": "I have unkind things to say about people who make their own pasta. Here, I’ll only use them as an example of how not to think when you’re building infrastructure. It’s unfairly easy to believe that th...",
+      "imageUrl": "https://fly.io/blog/sprites-block-device/assets/pasta-robot.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "pubDate": "2026-10-21T23:51:37.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50189232"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "pubDate": "2026-10-21T23:38:38.000Z",
+      "snippet": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20213-1-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "pubDate": "2026-10-21T23:36:47.000Z",
+      "snippet": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure cod...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/14/ML-21081-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "pubDate": "2026-10-21T22:36:26.000Z",
+      "snippet": "Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619. The expl...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2022/05/24/CJ_Moses.jpeg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "pubDate": "2026-10-21T21:58:03.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+      "pubDate": "2026-10-21T21:23:26.000Z",
+      "snippet": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedro...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/ML-19699-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Train Qwen3 on AWS Trainium with torchtitan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
+      "pubDate": "2026-10-21T20:00:22.000Z",
+      "snippet": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/ML-22120-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
+      "pubDate": "2026-10-21T19:19:50.000Z",
+      "snippet": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and fina...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/21/ML-22201-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "pubDate": "2026-10-21T19:14:01.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50186037"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "pubDate": "2026-10-21T19:11:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50186010"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+      "pubDate": "2026-10-21T19:10:00.000Z",
+      "snippet": "Migration assessments in AWS Transform now evaluate on-premises storage for migration to AWS. Instead of manually analyzing thousands of volumes across protocols, capacity, and performance, you upload...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GitLab critical patch release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "pubDate": "2026-10-21T19:01:12.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50185869"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "pubDate": "2026-10-21T18:41:53.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "pubDate": "2026-10-21T17:45:13.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50184820"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+      "pubDate": "2026-10-21T17:21:00.000Z",
+      "snippet": "Today, AWS announced the expansion of 10 Gbps and 100 Gbps dedicated connections with MACsec encryption capabilities at the existing AWS Direct Connect location in the Equinix MA3 data center near Man...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Security Blog",
+      "title": "Best practices for integrating IAM Roles Anywhere with your PKI",
+      "link": "https://aws.amazon.com/blogs/security/best-practices-for-integrating-iam-roles-anywhere-with-your-pki/",
+      "pubDate": "2026-10-21T17:03:50.000Z",
+      "snippet": "Using temporary credentials is a security best practice to reduce the risk from credentials getting compromised. With AWS IAM Roles Anywhere, now your workloads outside of Amazon Web Services (AWS) wi...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/20/Best-practices-integrating-IAM-Roles-Anywhere-Figure-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+      "pubDate": "2026-10-21T17:00:00.000Z",
+      "snippet": "Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long as you need it. Reserving capacity helps ensure that D...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
+      "pubDate": "2026-10-21T17:00:00.000Z",
+      "snippet": "Amazon Cognito multi-Region replication (MRR) now supports AWS GovCloud (US) Regions, extending the resilience benefits of MRR to more workloads. MRR lets you synchronize user and machine identity dat...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "pubDate": "2026-10-21T16:25:16.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "pubDate": "2026-10-21T16:00:00.000Z",
+      "snippet": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "pubDate": "2026-10-21T15:48:56.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50182987"
+    },
+    {
+      "feedTitle": "Krebs on Security",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "pubDate": "2026-10-21T15:26:07.000Z",
+      "snippet": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attac...",
+      "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/10/shutterstock-codeonscreenphp.png",
+      "commentsUrl": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/#respond"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "snippet": "Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "snippet": "AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "pubDate": "2026-10-21T14:01:22.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50181136"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "pubDate": "2026-10-21T14:00:26.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50181114"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer launches two new layouts for agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
+      "pubDate": "2026-10-21T13:48:00.000Z",
+      "snippet": "Amazon Connect Customer now offers two different layouts that optimize screen space on the agent workspace. Contact center agents spend hours each day in the agent workspace, which includes all of the...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
+      "pubDate": "2026-10-21T13:00:00.000Z",
+      "snippet": "Amazon S3 server access log delivery to Amazon CloudWatch Logs is now available in the AWS GovCloud (US) Regions, AWS European Sovereign Cloud, and AWS China Regions. With your access logs in CloudWat...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "pubDate": "2026-10-21T12:53:11.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50180079"
+    }
+  ]
+}
