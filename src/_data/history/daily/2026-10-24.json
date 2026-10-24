@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-24",
+  "type": "daily",
+  "articleCount": 31,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "pubDate": "2026-10-24T05:49:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50218633"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "pubDate": "2026-10-24T04:49:58.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50218430"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "pubDate": "2026-10-24T03:43:54.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50218195"
+    },
+    {
+      "feedTitle": "LMNT",
+      "title": "Dreaming Big",
+      "link": "https://lmnt.me/blog/dreaming-big.html",
+      "pubDate": "2026-10-24T03:35:00.000Z",
+      "snippet": "Ever since I saw that video of the Tesla Roadster, I can’t stop thinking about it. Not how cool it is, not how innovative or how interesting it is, but how stupid it is, and also just how stupid many ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "How Block Blast harvests its players for ad money",
+      "link": "https://ayoships.com/breakdowns/block-blast",
+      "pubDate": "2026-10-24T02:43:43.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50217946"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Apple Security Research Device",
+      "link": "https://security.apple.com/research-device/",
+      "pubDate": "2026-10-24T02:36:38.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50217903"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "pubDate": "2026-10-24T01:16:58.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50217500"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "pubDate": "2026-10-24T01:15:14.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50217495"
+    },
+    {
+      "feedTitle": "Juha-Matti Santala | Community Builder. Adventurer. Dreamer.",
+      "title": "Assumptions are sneaky",
+      "link": "https://hamatti.org/posts/assumptions-are-sneaky/",
+      "pubDate": "2026-10-24T00:00:00.000Z",
+      "snippet": "This blog post is a weekly update of my journey in\n  \n  \n    Djangonaut Space\n  \n  , an 8-week mentoring program for future open source developers in the Django ecosystem.\n\n\n  \nSeries:\n  \n3… 2… 1… bec...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
+      "link": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/",
+      "pubDate": "2026-10-23T21:50:38.000Z",
+      "snippet": "Amazon OpenSearch intelligent ingestion is a fully managed, serverless capability that turns documents and structured data in Amazon S3 into RAG-ready, searchable indexes with no pipelines to manage. ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/23/BDB-6307-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "pubDate": "2026-10-23T21:46:51.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50215828"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quick Study",
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "pubDate": "2026-10-23T21:35:13.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "pubDate": "2026-10-23T21:21:47.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50215530"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+      "pubDate": "2026-10-23T21:04:00.000Z",
+      "snippet": "Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly o...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Big Data Blog",
+      "title": "Enable cross-Region fine-grained data access with AWS Lake Formation and Trusted Identity Propagation",
+      "link": "https://aws.amazon.com/blogs/big-data/enable-cross-region-fine-grained-data-access-with-aws-lake-formation-and-trusted-identity-propagation/",
+      "pubDate": "2026-10-23T19:50:12.000Z",
+      "snippet": "Trusted Identity Propagation with AWS IAM Identity Center now works across Regions. Learn how to share AWS Lake Formation-governed Amazon S3 and Amazon Redshift data in one Region and query it from an...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2026/10/21/BDB-6270-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Introducing Kimi K3.1 Pro",
+      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "pubDate": "2026-10-23T19:40:54.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "pubDate": "2026-10-23T19:09:54.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50213925"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "pubDate": "2026-10-23T17:48:54.000Z",
+      "snippet": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wor...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22014-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "pubDate": "2026-10-23T17:28:36.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50212507"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+      "pubDate": "2026-10-23T17:00:00.000Z",
+      "snippet": "Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "pubDate": "2026-10-23T16:59:08.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50212065"
+    },
+    {
+      "feedTitle": "Robert Birming",
+      "title": "Unusual You",
+      "link": "https://birming.com/posts/unusual-you",
+      "pubDate": "2026-10-23T16:54:55.000Z",
+      "snippet": "I listened to an interview with the Swedish DJ and music producer Christian “Bloodshy” Karlsson, who’s worked with artists like Britney Spears, Madonna, and Katy Perry.\nI had never heard of him, to be...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+      "pubDate": "2026-10-23T16:30:10.000Z",
+      "snippet": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with Clou...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20841-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+      "pubDate": "2026-10-23T16:24:55.000Z",
+      "snippet": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and Ge...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/ML-21612-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "pubDate": "2026-10-23T16:21:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50211474"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+      "pubDate": "2026-10-23T16:21:36.000Z",
+      "snippet": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21834-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+      "pubDate": "2026-10-23T15:43:00.000Z",
+      "snippet": "AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enable...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Corretto October 2026 Quarterly Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+      "pubDate": "2026-10-23T14:00:00.000Z",
+      "snippet": "On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21....",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "pubDate": "2026-10-23T12:28:47.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50207910"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "More phishing messages via Booking.com and Novotel",
+      "link": "https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/",
+      "pubDate": "2026-10-23T11:34:15.000Z",
+      "snippet": "A few days ago I booked a Novotel hotel on Booking.com - two days later I received these phishing messages via WhatsApp. Both knew my exact name, phone number, location of stay, and date of stay.\nLuck...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/Spam1.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "passo.uno",
+      "title": "Living House: Adaptive UI and docs using in-browser inference",
+      "link": "https://passo.uno/adaptive-ui-docs-using-llms/",
+      "pubDate": "2026-10-23T10:00:00.000Z",
+      "snippet": "One of my favorite video games of all time is Control. The main location of the game, the brutalist Oldest House, reacts to the player’s actions and rearranges itself dynamically, moving slabs of conc...",
+      "imageUrl": null,
+      "commentsUrl": null
+    }
+  ]
+}
