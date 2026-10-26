@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-26",
+  "type": "daily",
+  "articleCount": 13,
+  "articles": [
+    {
+      "feedTitle": "LMNT",
+      "title": "Vivid Bliss",
+      "link": "https://lmnt.me/blog/wallpapers/vivid-bliss.html",
+      "pubDate": "2026-10-26T06:35:00.000Z",
+      "snippet": "Despite being a Mac person since 2005, I’ve got a fair amount of nostalgia for Windows XP. The original “Bliss” wallpaper was a photo shot by Charles O'Rear in Sonoma, but there was also a modified ve...",
+      "imageUrl": "https://lmnt.me/files/images/wallpapers/vivid-bliss.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "pubDate": "2026-10-26T03:31:11.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50238763"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "pubDate": "2026-10-26T03:29:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50238739"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "pubDate": "2026-10-26T03:23:57.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50238708"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Steal My Bitcoin CTF PoC",
+      "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "pubDate": "2026-10-26T00:15:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50237379"
+    },
+    {
+      "feedTitle": "Posts on Ready, Set, Cloud!",
+      "title": "Pick a Lambda, any Lambda",
+      "link": "https://www.readysetcloud.io/newsletter/239/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "snippet": "🦸 Community Superhero\nOur community superhero this week is Brianna Heffernen, engineering manager on the security side at Datadog. Brianna has a sharp focus on both security and developer experience,...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Welcome to Tara&#39;s Website on Tara&#39;s Website",
+      "title": "Realia COBOL 4.00 for DOS: From Experiment to Field Notes",
+      "link": "https://www.tara.sh/posts/2026/2026-10-26_realia_cobol/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "snippet": "Realia COBOL 4.00 for DOS: From Experiment to Field Notes Long story short, I wrote a document with my notes about Realia COBOL 4.00 for DOS, along with some example code showing how to use this littl...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "pubDate": "2026-10-25T23:52:05.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50237224"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "pubDate": "2026-10-25T20:32:31.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50235780"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "pubDate": "2026-10-25T19:11:31.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50235017"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "pubDate": "2026-10-25T18:23:54.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50234474"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Seam Cutter",
+      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "pubDate": "2026-10-25T15:10:19.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪",
+      "link": "https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/",
+      "pubDate": "2026-10-25T12:34:01.000Z",
+      "snippet": "Whenever a company asks me to review their gadgets, I always ask if it is USB-C powered. If not, I'm not interested. So, welcome to the future where your chair is USC-C rechargeable!\nWHAT?!\nThe LiberN...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/Big-instructions.webp",
+      "commentsUrl": null
+    }
+  ]
+}
