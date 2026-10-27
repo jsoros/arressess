@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-27",
+  "type": "daily",
+  "articleCount": 56,
+  "articles": [
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-5 macOS Tahoe 26.7.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/48",
+      "pubDate": "2026-10-27T07:31:56.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-5 macOS Tahoe 26.7.2\nhttps://support.apple.com/149522.\nhttps://support.apple.com/100100 which lists recent\nsoftware up...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-10 Safari 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/47",
+      "pubDate": "2026-10-27T07:31:54.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-10 Safari 27.2\nhttps://support.apple.com/149527.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-9 visionOS 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/46",
+      "pubDate": "2026-10-27T07:31:53.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-9 visionOS 27.2\nhttps://support.apple.com/149526.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-8 watchOS 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/45",
+      "pubDate": "2026-10-27T07:31:52.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-8 watchOS 27.2\nhttps://support.apple.com/149525.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-7 tvOS 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/44",
+      "pubDate": "2026-10-27T07:31:50.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-7 tvOS 27.2\nhttps://support.apple.com/149524.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates wit...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/43",
+      "pubDate": "2026-10-27T07:31:49.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-6 macOS Sequoia 15.8.2\nhttps://support.apple.com/149523.\nhttps://support.apple.com/100100 which lists recent\nsoftware ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-4 macOS Golden Gate 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/42",
+      "pubDate": "2026-10-27T07:31:48.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-4 macOS Golden Gate 27.2\nhttps://support.apple.com/149521.\nhttps://support.apple.com/100100 which lists recent\nsoftwar...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-3 iOS 18.7.11 and iPadOS 18.7.11",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/41",
+      "pubDate": "2026-10-27T07:31:46.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-3 iOS 18.7.11 and iPadOS 18.7.11\nhttps://support.apple.com/149225.\nhttps://support.apple.com/100100 which lists recent...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-2 iOS 26.7.2 and iPadOS 26.7.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/40",
+      "pubDate": "2026-10-27T07:31:45.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-2 iOS 26.7.2 and iPadOS 26.7.2\nhttps://support.apple.com/149227.\nhttps://support.apple.com/100100 which lists recent\ns...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-1 iOS 27.2 and iPadOS 27.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/39",
+      "pubDate": "2026-10-27T07:31:44.000Z",
+      "snippet": "Posted by Apple Product Security via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-1 iOS 27.2 and iPadOS 27.2\nhttps://support.apple.com/149230.\nhttps://support.apple.com/100100 which lists recent\nsoftw...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/38",
+      "pubDate": "2026-10-27T07:29:58.000Z",
+      "snippet": "Posted by jose on Oct 27\nCVE-2026-109618: Pointer underflow in PHP's CGI SAPI enables\nunauthenticated remote code execution.\n\nAffected: ALL PHP versions 5.x through 8.4.26 with cgi.fix_pathinfo=1\n(def...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "SEC Consult SA-20261023-0 :: Multiple Cross-Site Scripting Vulnerabilities in VertiGIS WebOrderSystem",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/37",
+      "pubDate": "2026-10-27T07:29:06.000Z",
+      "snippet": "Posted by SEC Consult Vulnerability Lab via Fulldisclosure on Oct 27\nSEC Consult Vulnerability Lab Security Advisory < 20261023-0 >\n====================================================================...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "APPLE-SA-10-26-2026-5 macOS Tahoe 26.7.2",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/36",
+      "pubDate": "2026-10-27T07:28:48.000Z",
+      "snippet": "Posted by KC Chambers via Fulldisclosure on Oct 27\nAPPLE-SA-10-26-2026-5 macOS Tahoe 26.7.2\nhttps://support.apple.com/149522.\nhttps://support.apple.com/100100 which lists recent\nsoftware updates with ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "SCHUTZWERK-SA-2025-002: Privilege escalation in Lobster_pro through request replaying",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/35",
+      "pubDate": "2026-10-27T07:28:17.000Z",
+      "snippet": "Posted by David Brown via Fulldisclosure on Oct 27\nPrivilege escalation via request replaying in Lobster_pro\n=========================================================\n\nDue to improper permission check...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "UK to charge universities $1,200 per international student",
+      "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+      "pubDate": "2026-10-27T05:13:08.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50254935"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "There are now 5 inference providers for abliterated DeepSeek",
+      "link": "https://allmodels.io/llm/abliterated",
+      "pubDate": "2026-10-27T04:53:52.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50254836"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "I still teach OpenGL ES 3.0",
+      "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "pubDate": "2026-10-27T02:15:10.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50253939"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "link": "https://github.com/otya128/winevdm",
+      "pubDate": "2026-10-27T01:15:04.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50253529"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "GPT-6.1 Terra",
+      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "pubDate": "2026-10-26T23:53:07.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "pubDate": "2026-10-26T22:41:48.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50252159"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "pubDate": "2026-10-26T22:27:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50252008"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "pubDate": "2026-10-26T21:59:15.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50251661"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "pubDate": "2026-10-26T21:35:28.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50251344"
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Feds Prep for Election “Doomsday” Scenario",
+      "link": "https://www.kenklippenstein.com/p/feds-prep-for-election-doomsday-scenario",
+      "pubDate": "2026-10-26T19:55:52.000Z",
+      "snippet": "Intel official: “Nobody knows what the president might do if the mid-terms don’t go his way”...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!VUnP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc0964a-3b6f-4c22-87ad-b5e6c2e46735_2552x1216.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Jason Koebler",
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "pubDate": "2026-10-26T19:00:25.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "alexwlchan",
+      "title": "Positive alerts in Prometheus",
+      "link": "https://alexwlchan.net/2026/positive-alerts/",
+      "pubDate": "2026-10-26T18:38:45.000Z",
+      "snippet": "At work, we use Prometheus to monitor our services.\nEvery few seconds, Prometheus scrapes a /metrics endpoint and records the data in a time series database.\nThe metrics are then used to trigger alert...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+      "pubDate": "2026-10-26T18:27:00.000Z",
+      "snippet": "Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday wo...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Robert Birming",
+      "title": "Not knowing tomorrow",
+      "link": "https://birming.com/posts/not-knowing-tomorrow",
+      "pubDate": "2026-10-26T18:18:03.000Z",
+      "snippet": "The Swedish investor Deqa Abukar is not only known for being a great entrepreneur. She’s also known for her smile. When someone once pointed it out, she replied:\n“I love life, and I think one of the m...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Type Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "pubDate": "2026-10-26T18:14:49.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50248371"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "pubDate": "2026-10-26T18:01:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50248124"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+      "pubDate": "2026-10-26T18:00:00.000Z",
+      "snippet": "Amazon WorkSpaces Core Managed Instances now supports the ModifyVolume API, which lets you change volume size, volume type, IOPS, or throughput in place, without detaching the volume or restarting the...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "pubDate": "2026-10-26T17:56:58.000Z",
+      "snippet": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20483-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "pubDate": "2026-10-26T17:56:55.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50248055"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "pubDate": "2026-10-26T17:49:55.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50247928"
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "pubDate": "2026-10-26T17:27:20.000Z",
+      "snippet": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/23/ML-22246-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Nietzschian Debugger",
+      "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "pubDate": "2026-10-26T17:25:30.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50247493"
+    },
+    {
+      "feedTitle": "AWS DevOps Blog",
+      "title": "Tracing failures across Terraform state boundaries with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/devops/tracing-failures-across-terraform-state-boundaries-with-aws-devops-agent/",
+      "pubDate": "2026-10-26T17:21:23.000Z",
+      "snippet": "When a change in one Terraform stack silently breaks an application in another, the team seeing the symptoms often doesn't own the stack that caused it. This post shows how AWS DevOps Agent traces the...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/10/22/DEVOPS-25145-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+      "pubDate": "2026-10-26T17:15:14.000Z",
+      "snippet": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns gr...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21614-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "pubDate": "2026-10-26T16:15:00.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "pubDate": "2026-10-26T15:51:23.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50245831"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "pubDate": "2026-10-26T15:35:12.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50245524"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+      "pubDate": "2026-10-26T15:32:00.000Z",
+      "snippet": "Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the visual interface mode to match their preference, cho...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Solar power is becoming bigger than nuclear",
+      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "pubDate": "2026-10-26T15:26:17.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50245385"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "pubDate": "2026-10-26T15:11:59.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50245138"
+    },
+    {
+      "feedTitle": "AWS News Blog",
+      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+      "pubDate": "2026-10-26T15:02:24.000Z",
+      "snippet": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran through where generative AI fits across the di...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/10/23/genai-agronegocio-speaker-crop-1280.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+      "pubDate": "2026-10-26T15:00:00.000Z",
+      "snippet": "Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In addition to confirming that an action started, you can now v...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "DEV Community: Vadym Kazulkin",
+      "title": "Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 9 Using Container Image with SnapStart and priming approaches",
+      "link": "https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-9-using-4nf",
+      "pubDate": "2026-10-26T15:00:00.000Z",
+      "snippet": "Introduction\n\n\nIn part 8 of the series, we learned how to convert the sample application to one using a container image as a deployment artifact on AWS Lambda and measured the performance of the Lambd...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+      "pubDate": "2026-10-26T13:47:00.000Z",
+      "snippet": "Now you can view your metrics across customer segments: customer lifetime value (LTV) and repeat callers. See how any metric differs for repeat callers versus the rest of your contacts, or how results...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Brain Baking",
+      "title": "Hello? Where Is Everybody?",
+      "link": "https://brainbaking.com/post/2026/10/hello-where-is-everybody/",
+      "pubDate": "2026-10-26T13:31:57.000Z",
+      "snippet": "The shopping centre we find ourselves in also has an IKEA nearby. My daughter & I pop in to walk through the isles that house the teddy bears. She picks out a giraffe that now lives by the name Giraff...",
+      "imageUrl": null,
+      "commentsUrl": "https://dosgame.club/@jefklak"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+      "pubDate": "2026-10-26T13:31:00.000Z",
+      "snippet": "Amazon Connect Customer now scores the outcome of your customer interactions. It shows whether the customer left satisfied, is at risk of churning, made a purchase, or resolved their need in self-serv...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "New iPad mini",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "pubDate": "2026-10-26T13:13:36.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50243061"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Anthropic S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "pubDate": "2026-10-26T13:04:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50242939"
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Theatre Review: Opera UnTouched's \"The Telephone\" ★★★★★",
+      "link": "https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/",
+      "pubDate": "2026-10-26T12:34:15.000Z",
+      "snippet": "Why shouldn't an opera be set in an office? Not merely set there; performed there! On Saturday night, a couple of dozen audience members were ushered in to a genuine office in Tooting to watch a short...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/telephone.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Pharo 14",
+      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "pubDate": "2026-10-26T11:15:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50241925"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Websites Should Be Printable",
+      "link": "https://brennenputh.me/blog/printable-websites/",
+      "pubDate": "2026-10-26T10:32:14.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50241664"
+    },
+    {
+      "feedTitle": "Stories by Sheen Brisals on Medium",
+      "title": "A Thousand Photos, A Thousand Articles, One Question!",
+      "link": "https://medium.com/illumination/a-thousand-photos-a-thousand-articles-one-question-8e97807fb5ee?source=rss-33d1209889d5------2",
+      "pubDate": "2026-10-26T10:29:24.000Z",
+      "snippet": "Have we gained convenience at the cost of significance?\nContinue reading on ILLUMINATION »...",
+      "imageUrl": "https://cdn-images-1.medium.com/max/2600/0*DFtkH4X5Sp1Cf9c3",
+      "commentsUrl": null
+    }
+  ]
+}
