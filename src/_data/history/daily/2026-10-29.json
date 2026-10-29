@@ -1,0 +1,394 @@
+{
+  "date": "2026-10-29",
+  "type": "daily",
+  "articleCount": 43,
+  "articles": [
+    {
+      "feedTitle": "Hacker News",
+      "title": "Zero click, silent, remote Android DoS",
+      "link": "https://smsofdeath.com/",
+      "pubDate": "2026-10-29T07:08:50.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50285452"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "pubDate": "2026-10-29T06:47:28.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50285319"
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] NETGEAR RAX120 V1.2.5.18 authenticated SOAP InstallApp OS command injection to root-configured web-stack execution (6.8 Medium; conditionally 7.2 High with management exposure)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/57",
+      "pubDate": "2026-10-29T04:12:45.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in NETGEAR\nRAX120 (Nighthawk AX12) firmware V1.2.5.18, the WiFi 6 consumer router fr...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] Raritan PX3 PDU G4 firmware 4.3.14 command injection in the ping and traceroute diagnostics through an inverted hostname-validation return check (8.8)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/54",
+      "pubDate": "2026-10-29T04:12:44.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in the\nRaritan PX3 PDU G4, firmware version 4.3.14, the intelligent rack power\ndistr...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] NUUO Crystal Server 3.19.0.85 unauthenticated upload.php PHP web-root write with fastcgi execution into server-side code execution as the web service account (9.8 Critical)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/56",
+      "pubDate": "2026-10-29T04:12:43.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in NUUO\nCrystal Server 3.19.0.85, the video management and NVR server software from\n...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 scenario ping condition command injection through the auto-executing ping thread (7.2)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/55",
+      "pubDate": "2026-10-29T04:12:41.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in the Moxa\nMAR-2000 series industrial 4G/LTE cellular router, firmware image\nFWR_MA...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 IPsec tunnel address command injection through the route-management shell commands (7.2)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/53",
+      "pubDate": "2026-10-29T04:12:40.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in the Moxa\nMAR-2000 series industrial 4G/LTE cellular router, firmware image\nFWR_MA...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 command injection in the Executer program activation path (7.2)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/52",
+      "pubDate": "2026-10-29T04:12:39.000Z",
+      "snippet": "Posted by disclosure via Fulldisclosure on Oct 28\n0day Rubbish Research Team is publicly disclosing a vulnerability in the Moxa\nMAR-2000 series industrial 4G/LTE cellular router, firmware image\nFWR_MA...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/51",
+      "pubDate": "2026-10-29T04:12:02.000Z",
+      "snippet": "Posted by fulldisclosure on Oct 28\nAm 21.10.26 um 07:23 schrieb jose:\n\nthat is the CVE for the OOM RCE vulnerability in fpm and mod_php. Sure \nyou got the right on?\n\nBest regards,\nMarius...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Maximised JSON Array Attacks -- \"Let the Commas Hit the Floor\" Proof of Concept",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/50",
+      "pubDate": "2026-10-29T04:11:44.000Z",
+      "snippet": "Posted by Daniel Owens via Fulldisclosure on Oct 28\nOn 29 August 2026, we released \"Commas of D00m\" -- an old proof of concept that demonstrates unconstrained resource \nconsumption in many JSON parser...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Full Disclosure",
+      "title": "Continued Apache Struts2 JSON Plugin Insecure Deserialisation",
+      "link": "https://seclists.org/fulldisclosure/2026/Oct/49",
+      "pubDate": "2026-10-29T04:11:43.000Z",
+      "snippet": "Posted by Daniel Owens via Fulldisclosure on Oct 28\nSummary\nThus far we have written extensively about the rampant number of insecure JavaScript Object Notation (JSON) \ndeserialisers available today, ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "pubDate": "2026-10-29T03:33:42.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50284255"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "link": "https://divagr.com/blog/qwenputer",
+      "pubDate": "2026-10-29T00:25:45.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50282838"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "pubDate": "2026-10-28T23:45:46.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50282544"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "pubDate": "2026-10-28T23:35:02.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50282454"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Ted Sanders",
+      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "pubDate": "2026-10-28T23:23:21.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Ken Klippenstein",
+      "title": "Exclusive: National Guard Mobilizes for Election",
+      "link": "https://www.kenklippenstein.com/p/exclusive-national-guards-election",
+      "pubDate": "2026-10-28T23:05:23.000Z",
+      "snippet": "The Guard’s 2026 midterm election mission, revealed...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!XYz6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe37f6556-4f8e-4a12-96cf-70a6945e0b73_3238x1878.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "pubDate": "2026-10-28T21:13:21.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50280974"
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+      "pubDate": "2026-10-28T21:00:00.000Z",
+      "snippet": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the September 2026 Monthly Recommended Patch (MRP) for Oracle Database version 19c and 26ai. An MRP is a minor engine version th...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+      "pubDate": "2026-10-28T20:00:00.000Z",
+      "snippet": "AWS announces the general availability of Amazon Bedrock AgentCore CLI version 1.0 (@aws/agentcore 1.0.0), rebuilt with faster startup, a consistent command structure, and support for more AgentCore r...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "www.bentasker.co.uk",
+      "title": "What Good Incident Response Looks Like",
+      "link": "https://www.bentasker.co.uk/posts/blog/engineering-management/what-good-incident-response-looks-like.html?utm_source=rss",
+      "pubDate": "2026-10-28T19:56:00.000Z",
+      "snippet": "I've been involved in more incident responses than I care to think about, responding to service outages, compromises and serious vulnerabilities. I've operated in slack channels, on bridge calls and i...",
+      "imageUrl": "https://www.bentasker.co.uk/images/BlogItems/good-incident-response/yes-theres-an-outage.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Compute Blog",
+      "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
+      "link": "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter/",
+      "pubDate": "2026-10-28T19:36:12.000Z",
+      "snippet": "Durable functions span many Lambda invocations, so per-invocation logs answer the wrong question. The Durable Execution Telemetry Exporter is an SDK plugin that emits one complete record per execution...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/27/ComputeBlog-2775-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "serverless – AWS Compute Blog",
+      "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
+      "link": "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter/",
+      "pubDate": "2026-10-28T19:36:12.000Z",
+      "snippet": "Durable functions span many Lambda invocations, so per-invocation logs answer the wrong question. The Durable Execution Telemetry Exporter is an SDK plugin that emits one complete record per execution...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/27/ComputeBlog-2775-1.jpg",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+      "pubDate": "2026-10-28T18:44:00.000Z",
+      "snippet": "AWS Lambda now supports Seekable OCI (SOCI) for lazy loading Event Functions packaged as Open Container Initiative (OCI) images running on Lambda Managed Instances. With SOCI support, Lambda fetches o...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+      "pubDate": "2026-10-28T18:35:00.000Z",
+      "snippet": "Today, we're announcing support for time series collections on the next generation of Amazon OpenSearch Serverless. With time series collections, you can ingest, store, and analyze logs, metrics, trac...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+      "pubDate": "2026-10-28T18:28:26.000Z",
+      "snippet": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane,...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21798-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Quick now supports smart approvals for agentic actions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+      "pubDate": "2026-10-28T18:28:00.000Z",
+      "snippet": "Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a u...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+      "pubDate": "2026-10-28T18:19:54.000Z",
+      "snippet": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across ...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22002-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "AWS Machine Learning Blog",
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+      "pubDate": "2026-10-28T18:12:13.000Z",
+      "snippet": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that org...",
+      "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/27/ML-21434-1-1.png",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+      "pubDate": "2026-10-28T18:07:00.000Z",
+      "snippet": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) announces certificate authority (CA) rotation visibility in the Amazon EKS Dashboard, giving you a consolidated view of CA rotation across your cl...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+      "pubDate": "2026-10-28T18:00:00.000Z",
+      "snippet": "Today, Amazon Elastic Container Service (Amazon ECS) Managed Instances introduces two infrastructure optimization updates: cross-instance and Spot consolidation. Cross-instance consolidation evaluates...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "AWS Lambda durable functions now exports live telemetry for execution insights ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+      "pubDate": "2026-10-28T18:00:00.000Z",
+      "snippet": "AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-by-step history of your durable executions and sends ...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Recent Announcements",
+      "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+      "pubDate": "2026-10-28T17:33:00.000Z",
+      "snippet": "Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applications. Customers can configure application load balan...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Robert Birming",
+      "title": "It’s easy to give up hope with all...",
+      "link": "https://birming.com/posts/2026-10-28-its-easy-to-give",
+      "pubDate": "2026-10-28T17:22:22.000Z",
+      "snippet": "It’s easy to give up hope with all the negativity going on in the world.\nBut there’s a lot of goodness out there too. People helping people, standing up for each other. Not for personal gain, but beca...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "pubDate": "2026-10-28T17:13:29.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50276998"
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "pubDate": "2026-10-28T17:01:23.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50276792"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "GitHub Octoverse 2026",
+      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "pubDate": "2026-10-28T16:45:23.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "pubDate": "2026-10-28T16:09:28.000Z",
+      "snippet": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on...",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "GitHub Public Timeline Feed",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "pubDate": "2026-10-28T16:07:40.000Z",
+      "snippet": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.\nThe post Octoverse: Commits, pushes, reach new highs in 2026 as developers ...",
+      "imageUrl": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Hacker News",
+      "title": "CNC Stone Carving",
+      "link": "https://carmelitegothic.com/cnc-stone-carving/",
+      "pubDate": "2026-10-28T14:38:22.000Z",
+      "snippet": "Comments...",
+      "imageUrl": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50274409"
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "The October inflection point for vibe game development",
+      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "pubDate": "2026-10-28T13:55:15.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Terence Edenâ€™s Blog",
+      "title": "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪",
+      "link": "https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/",
+      "pubDate": "2026-10-28T12:34:54.000Z",
+      "snippet": "These are easily the most comfortable headphones I've worn. I've literally had them clipped around my ears all day without noticing them.\nThe good folks at SoundPEATS have sent me their latest cans to...",
+      "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/ccpro3.webp",
+      "commentsUrl": null
+    },
+    {
+      "feedTitle": "Simon Willison&#39;s Weblog",
+      "title": "Quoting Terk Terkowitz",
+      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "pubDate": "2026-10-28T10:09:07.000Z",
+      "snippet": "",
+      "imageUrl": null,
+      "commentsUrl": null
+    }
+  ]
+}
